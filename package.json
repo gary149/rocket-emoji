@@ -1,0 +1,31 @@
+{
+  "name": "rocket-emoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./dist --single",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "author": "Victor Mustar <victor@jubiwee.com> (www.jubiwee.com)",
+  "license": "ISC",
+  "dependencies": {
+    "hyperapp": "^1.2.9",
+    "picostyle": "^2.1.1",
+    "serve": "^9.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-react-jsx": "^7.3.0",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "@fullhuman/postcss-purgecss": "^1.1.0",
+    "@hyperapp/logger": "^0.4.1",
+    "autoprefixer": "^9.4.6",
+    "parcel": "^1.11.0",
+    "parcel-plugin-sw-precache": "^1.0.3",
+    "purgecss": "^1.0.1",
+    "tailwindcss": "^0.4.1"
+  }
+}

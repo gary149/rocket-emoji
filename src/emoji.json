@@ -1,0 +1,6902 @@
+[
+  {
+    "title": "100",
+    "symbol": "💯",
+    "keywords": [
+      "hundred",
+      "points",
+      "symbol",
+      "wow",
+      "win",
+      "perfect",
+      "parties"
+    ]
+  },
+  {
+    "title": "1234",
+    "symbol": "🔢",
+    "keywords": ["input", "symbol", "for", "numbers"]
+  },
+  {
+    "title": "Grinning",
+    "symbol": "😀",
+    "keywords": ["grinning", "face", "happy", "smiley", "emotion"]
+  },
+  {
+    "title": "Grimacing",
+    "symbol": "😬",
+    "keywords": ["grimacing", "face", "silly", "smiley", "emotion", "selfie"]
+  },
+  {
+    "title": "Grin",
+    "symbol": "😁",
+    "keywords": [
+      "grinning",
+      "face",
+      "with",
+      "smiling",
+      "eyes",
+      "happy",
+      "silly",
+      "smiley",
+      "emotion",
+      "good",
+      "selfie"
+    ]
+  },
+  {
+    "title": "Joy",
+    "symbol": "😂",
+    "keywords": [
+      "face",
+      "with",
+      "tears",
+      "of",
+      "joy",
+      "happy",
+      "silly",
+      "smiley",
+      "cry",
+      "laugh",
+      "emotion",
+      "sarcastic"
+    ]
+  },
+  {
+    "title": "Smiley",
+    "symbol": "😃",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "happy",
+      "smiley",
+      "emotion",
+      "good"
+    ]
+  },
+  {
+    "title": "Smile",
+    "symbol": "😄",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "and",
+      "eyes",
+      "happy",
+      "smiley",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Sweat Smile",
+    "symbol": "😅",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "and",
+      "cold",
+      "sweat",
+      "smiley",
+      "workout",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Laughing",
+    "symbol": "😆",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "and",
+      "tightly-closed",
+      "eyes",
+      "happy",
+      "smiley",
+      "laugh",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Innocent",
+    "symbol": "😇",
+    "keywords": ["smiling", "face", "with", "halo", "smiley", "emotion"]
+  },
+  {
+    "title": "Wink",
+    "symbol": "😉",
+    "keywords": ["winking", "face", "silly", "smiley", "emotion"]
+  },
+  {
+    "title": "Blush",
+    "symbol": "😊",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "eyes",
+      "happy",
+      "smiley",
+      "emotion",
+      "good",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Slight Smile",
+    "symbol": "🙂",
+    "keywords": ["slightly", "smiling", "face", "happy", "smiley"]
+  },
+  {
+    "title": "Upside Down",
+    "symbol": "🙃",
+    "keywords": ["upside-down", "face", "silly", "smiley", "sarcastic"]
+  },
+  {
+    "title": "Yum",
+    "symbol": "😋",
+    "keywords": [
+      "face",
+      "savouring",
+      "delicious",
+      "food",
+      "happy",
+      "silly",
+      "smiley",
+      "emotion",
+      "sarcastic",
+      "good"
+    ]
+  },
+  {
+    "title": "Relieved",
+    "symbol": "😌",
+    "keywords": ["relieved", "face", "smiley", "emotion"]
+  },
+  {
+    "title": "Heart Eyes",
+    "symbol": "😍",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "heart-shaped",
+      "eyes",
+      "happy",
+      "smiley",
+      "love",
+      "sex",
+      "heart",
+      "emotion",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Kissing Heart",
+    "symbol": "😘",
+    "keywords": ["face", "throwing", "a", "kiss", "smiley", "love", "sexy"]
+  },
+  {
+    "title": "Kissing",
+    "symbol": "😗",
+    "keywords": ["kissing", "face", "smiley", "sexy"]
+  },
+  {
+    "title": "Kissing Smiling Eyes",
+    "symbol": "😙",
+    "keywords": ["kissing", "face", "with", "smiling", "eyes", "smiley", "sexy"]
+  },
+  {
+    "title": "Kissing Closed Eyes",
+    "symbol": "😚",
+    "keywords": ["kissing", "face", "with", "closed", "eyes", "smiley", "sexy"]
+  },
+  {
+    "title": "Stuck Out Tongue Winking Eye",
+    "symbol": "😜",
+    "keywords": [
+      "face",
+      "with",
+      "stuck-out",
+      "tongue",
+      "and",
+      "winking",
+      "eye",
+      "happy",
+      "smiley",
+      "emotion",
+      "parties"
+    ]
+  },
+  {
+    "title": "Stuck Out Tongue Closed Eyes",
+    "symbol": "😝",
+    "keywords": [
+      "face",
+      "with",
+      "stuck-out",
+      "tongue",
+      "and",
+      "tightly-closed",
+      "eyes",
+      "happy",
+      "smiley",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Stuck Out Tongue",
+    "symbol": "😛",
+    "keywords": [
+      "face",
+      "with",
+      "stuck-out",
+      "tongue",
+      "smiley",
+      "sex",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Money Mouth",
+    "symbol": "🤑",
+    "keywords": [
+      "money-mouth",
+      "face",
+      "smiley",
+      "win",
+      "money",
+      "emotion",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Nerd",
+    "symbol": "🤓",
+    "keywords": ["nerd", "face", "smiley", "glasses"]
+  },
+  {
+    "title": "Sunglasses",
+    "symbol": "😎",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "sunglasses",
+      "silly",
+      "smiley",
+      "emojione",
+      "glasses",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Hugging",
+    "symbol": "🤗",
+    "keywords": ["hugging", "face", "smiley", "hug", "thank", "you"]
+  },
+  {
+    "title": "Smirk",
+    "symbol": "😏",
+    "keywords": ["smirking", "face", "silly", "smiley", "sexy", "sarcastic"]
+  },
+  {
+    "title": "No Mouth",
+    "symbol": "😶",
+    "keywords": [
+      "face",
+      "without",
+      "mouth",
+      "mad",
+      "smiley",
+      "neutral",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Neutral Face",
+    "symbol": "😐",
+    "keywords": ["neutral", "face", "mad", "smiley", "shrug", "emotion"]
+  },
+  {
+    "title": "Expressionless",
+    "symbol": "😑",
+    "keywords": [
+      "expressionless",
+      "face",
+      "mad",
+      "smiley",
+      "neutral",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Unamused",
+    "symbol": "😒",
+    "keywords": ["unamused", "face", "sad", "mad", "smiley", "tired", "emotion"]
+  },
+  {
+    "title": "Rolling Eyes",
+    "symbol": "🙄",
+    "keywords": [
+      "face",
+      "with",
+      "rolling",
+      "eyes",
+      "mad",
+      "smiley",
+      "emotion",
+      "sarcastic"
+    ]
+  },
+  {
+    "title": "Thinking",
+    "symbol": "🤔",
+    "keywords": ["thinking", "face", "smiley", "boys", "night"]
+  },
+  {
+    "title": "Flushed",
+    "symbol": "😳",
+    "keywords": ["flushed", "face", "smiley", "emotion", "omg"]
+  },
+  {
+    "title": "Disappointed",
+    "symbol": "😞",
+    "keywords": ["disappointed", "face", "sad", "smiley", "tired", "emotion"]
+  },
+  {
+    "title": "Worried",
+    "symbol": "😟",
+    "keywords": ["worried", "face", "sad", "smiley", "emotion"]
+  },
+  {
+    "title": "Angry",
+    "symbol": "😠",
+    "keywords": ["angry", "face", "mad", "smiley", "emotion"]
+  },
+  {
+    "title": "Rage",
+    "symbol": "😡",
+    "keywords": ["pouting", "face", "mad", "smiley", "angry", "emotion"]
+  },
+  {
+    "title": "Pensive",
+    "symbol": "😔",
+    "keywords": ["pensive", "face", "sad", "smiley", "emotion", "rip"]
+  },
+  {
+    "title": "Confused",
+    "symbol": "😕",
+    "keywords": ["confused", "face", "smiley", "surprised", "emotion"]
+  },
+  {
+    "title": "Slight Frown",
+    "symbol": "🙁",
+    "keywords": ["slightly", "frowning", "face", "sad", "smiley", "emotion"]
+  },
+  {
+    "title": "Persevere",
+    "symbol": "😣",
+    "keywords": ["persevering", "face", "sad", "smiley", "angry", "emotion"]
+  },
+  {
+    "title": "Confounded",
+    "symbol": "😖",
+    "keywords": ["confounded", "face", "sad", "smiley", "angry", "emotion"]
+  },
+  {
+    "title": "Tired Face",
+    "symbol": "😫",
+    "keywords": ["tired", "face", "sad", "smiley", "emotion"]
+  },
+  {
+    "title": "Weary",
+    "symbol": "😩",
+    "keywords": [
+      "weary",
+      "face",
+      "sad",
+      "smiley",
+      "tired",
+      "stressed",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Triumph",
+    "symbol": "😤",
+    "keywords": [
+      "face",
+      "with",
+      "look",
+      "of",
+      "triumph",
+      "mad",
+      "smiley",
+      "angry",
+      "emotion",
+      "steam"
+    ]
+  },
+  {
+    "title": "Open Mouth",
+    "symbol": "😮",
+    "keywords": [
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "smiley",
+      "surprised",
+      "wow",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Scream",
+    "symbol": "😱",
+    "keywords": [
+      "face",
+      "screaming",
+      "in",
+      "fear",
+      "smiley",
+      "surprised",
+      "wow",
+      "emotion",
+      "omg"
+    ]
+  },
+  {
+    "title": "Fearful",
+    "symbol": "😨",
+    "keywords": ["fearful", "face", "smiley", "surprised", "emotion"]
+  },
+  {
+    "title": "Cold Sweat",
+    "symbol": "😰",
+    "keywords": [
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "and",
+      "cold",
+      "sweat",
+      "smiley",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Hushed",
+    "symbol": "😯",
+    "keywords": ["hushed", "face", "smiley", "surprised", "wow"]
+  },
+  {
+    "title": "Frowning",
+    "symbol": "😦",
+    "keywords": [
+      "frowning",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "sad",
+      "smiley",
+      "surprised",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Anguished",
+    "symbol": "😧",
+    "keywords": ["anguished", "face", "sad", "smiley", "surprised", "emotion"]
+  },
+  {
+    "title": "Cry",
+    "symbol": "😢",
+    "keywords": [
+      "crying",
+      "face",
+      "sad",
+      "smiley",
+      "cry",
+      "emotion",
+      "rip",
+      "heartbreak"
+    ]
+  },
+  {
+    "title": "Disappointed Relieved",
+    "symbol": "😥",
+    "keywords": [
+      "disappointed",
+      "but",
+      "relieved",
+      "face",
+      "sad",
+      "smiley",
+      "stressed",
+      "sweat",
+      "cry",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Sleepy",
+    "symbol": "😪",
+    "keywords": ["sleepy", "face", "smiley", "sick", "emotion"]
+  },
+  {
+    "title": "Sweat",
+    "symbol": "😓",
+    "keywords": [
+      "face",
+      "with",
+      "cold",
+      "sweat",
+      "sad",
+      "smiley",
+      "stressed",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Sob",
+    "symbol": "😭",
+    "keywords": [
+      "loudly",
+      "crying",
+      "face",
+      "sad",
+      "smiley",
+      "cry",
+      "emotion",
+      "heartbreak"
+    ]
+  },
+  {
+    "title": "Dizzy Face",
+    "symbol": "😵",
+    "keywords": [
+      "dizzy",
+      "face",
+      "smiley",
+      "surprised",
+      "dead",
+      "wow",
+      "emotion",
+      "omg"
+    ]
+  },
+  {
+    "title": "Astonished",
+    "symbol": "😲",
+    "keywords": [
+      "astonished",
+      "face",
+      "smiley",
+      "surprised",
+      "wow",
+      "emotion",
+      "omg"
+    ]
+  },
+  {
+    "title": "Zipper Mouth",
+    "symbol": "🤐",
+    "keywords": ["zipper-mouth", "face", "mad", "smiley"]
+  },
+  {
+    "title": "Mask",
+    "symbol": "😷",
+    "keywords": [
+      "face",
+      "with",
+      "medical",
+      "mask",
+      "smiley",
+      "dead",
+      "health",
+      "sick"
+    ]
+  },
+  {
+    "title": "Thermometer Face",
+    "symbol": "🤒",
+    "keywords": [
+      "face",
+      "with",
+      "thermometer",
+      "smiley",
+      "health",
+      "sick",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Head Bandage",
+    "symbol": "🤕",
+    "keywords": [
+      "face",
+      "with",
+      "head-bandage",
+      "smiley",
+      "health",
+      "sick",
+      "emotion"
+    ]
+  },
+  {
+    "title": "Sleeping",
+    "symbol": "😴",
+    "keywords": ["sleeping", "face", "smiley", "tired", "emotion", "goodnight"]
+  },
+  {
+    "title": "Zzz",
+    "symbol": "💤",
+    "keywords": ["sleeping", "symbol", "tired", "goodnight"]
+  },
+  {
+    "title": "Poop",
+    "symbol": "💩",
+    "keywords": ["pile", "of", "poo", "bathroom", "shit", "sol", "diarrhea"]
+  },
+  {
+    "title": "Smiling Imp",
+    "symbol": "😈",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "horns",
+      "silly",
+      "smiley",
+      "angry",
+      "monster",
+      "devil",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Imp",
+    "symbol": "👿",
+    "keywords": ["imp", "smiley", "monster", "devil", "wth"]
+  },
+  {
+    "title": "Japanese Ogre",
+    "symbol": "👹",
+    "keywords": ["japanese", "ogre", "monster"]
+  },
+  {
+    "title": "Japanese Goblin",
+    "symbol": "👺",
+    "keywords": ["japanese", "goblin", "angry", "monster"]
+  },
+  {
+    "title": "Skull",
+    "symbol": "💀",
+    "keywords": ["skull", "dead", "halloween"]
+  },
+  {
+    "title": "Ghost",
+    "symbol": "👻",
+    "keywords": ["ghost", "holidays", "halloween", "monster"]
+  },
+  {
+    "title": "Alien",
+    "symbol": "👽",
+    "keywords": ["extraterrestrial", "alien", "space", "monster", "scientology"]
+  },
+  {
+    "title": "Robot",
+    "symbol": "🤖",
+    "keywords": ["robot", "face", "monster"]
+  },
+  {
+    "title": "Smiley Cat",
+    "symbol": "😺",
+    "keywords": [
+      "smiling",
+      "cat",
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "happy",
+      "animal"
+    ]
+  },
+  {
+    "title": "Smile Cat",
+    "symbol": "😸",
+    "keywords": [
+      "grinning",
+      "cat",
+      "face",
+      "with",
+      "smiling",
+      "eyes",
+      "happy",
+      "animal"
+    ]
+  },
+  {
+    "title": "Joy Cat",
+    "symbol": "😹",
+    "keywords": [
+      "cat",
+      "face",
+      "with",
+      "tears",
+      "of",
+      "joy",
+      "happy",
+      "silly",
+      "cry",
+      "laugh",
+      "animal",
+      "sarcastic"
+    ]
+  },
+  {
+    "title": "Heart Eyes Cat",
+    "symbol": "😻",
+    "keywords": [
+      "smiling",
+      "cat",
+      "face",
+      "with",
+      "heart-shaped",
+      "eyes",
+      "heart",
+      "animal",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Smirk Cat",
+    "symbol": "😼",
+    "keywords": ["cat", "face", "with", "wry", "smile", "animal"]
+  },
+  {
+    "title": "Kissing Cat",
+    "symbol": "😽",
+    "keywords": ["kissing", "cat", "face", "with", "closed", "eyes", "animal"]
+  },
+  {
+    "title": "Scream Cat",
+    "symbol": "🙀",
+    "keywords": ["weary", "cat", "face", "animal"]
+  },
+  {
+    "title": "Crying Cat Face",
+    "symbol": "😿",
+    "keywords": ["crying", "cat", "face", "cry", "animal"]
+  },
+  {
+    "title": "Pouting Cat",
+    "symbol": "😾",
+    "keywords": ["pouting", "cat", "face", "animal"]
+  },
+  {
+    "title": "Raised Hands",
+    "symbol": "🙌",
+    "keywords": [
+      "person",
+      "raising",
+      "both",
+      "hands",
+      "in",
+      "celebration",
+      "body",
+      "diversity",
+      "perfect",
+      "good",
+      "parties"
+    ]
+  },
+  {
+    "title": "Clap",
+    "symbol": "👏",
+    "keywords": [
+      "clapping",
+      "hands",
+      "sign",
+      "body",
+      "win",
+      "diversity",
+      "good",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Wave",
+    "symbol": "👋",
+    "keywords": ["waving", "hand", "sign", "body", "hands", "hi", "diversity"]
+  },
+  {
+    "title": "Thumbsup",
+    "symbol": "👍",
+    "keywords": [
+      "thumbs",
+      "up",
+      "sign",
+      "body",
+      "hands",
+      "hi",
+      "luck",
+      "thank",
+      "you",
+      "diversity",
+      "perfect",
+      "good",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Thumbsdown",
+    "symbol": "👎",
+    "keywords": ["thumbs", "down", "sign", "body", "hands", "diversity"]
+  },
+  {
+    "title": "Punch",
+    "symbol": "👊",
+    "keywords": [
+      "fisted",
+      "hand",
+      "sign",
+      "body",
+      "hands",
+      "hi",
+      "fist",
+      "bump",
+      "diversity",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Fist",
+    "symbol": "✊",
+    "keywords": [
+      "raised",
+      "fist",
+      "body",
+      "hands",
+      "hi",
+      "bump",
+      "diversity",
+      "condolence"
+    ]
+  },
+  {
+    "title": "v",
+    "symbol": "✌",
+    "keywords": [
+      "victory",
+      "hand",
+      "body",
+      "hands",
+      "hi",
+      "thank",
+      "you",
+      "peace",
+      "diversity",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Ok Hand",
+    "symbol": "👌",
+    "keywords": [
+      "ok",
+      "hand",
+      "sign",
+      "body",
+      "hands",
+      "hi",
+      "diversity",
+      "perfect",
+      "good",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Raised Hand",
+    "symbol": "✋",
+    "keywords": [
+      "raised",
+      "hand",
+      "body",
+      "hands",
+      "hi",
+      "diversity",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Open Hands",
+    "symbol": "👐",
+    "keywords": ["open", "hands", "sign", "body", "diversity", "condolence"]
+  },
+  {
+    "title": "Muscle",
+    "symbol": "💪",
+    "keywords": [
+      "flexed",
+      "biceps",
+      "body",
+      "hands",
+      "workout",
+      "flex",
+      "win",
+      "diversity",
+      "feminist",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Pray",
+    "symbol": "🙏",
+    "keywords": [
+      "person",
+      "with",
+      "folded",
+      "hands",
+      "body",
+      "hi",
+      "luck",
+      "thank",
+      "you",
+      "pray",
+      "diversity",
+      "scientology"
+    ]
+  },
+  {
+    "title": "Point Up",
+    "symbol": "☝",
+    "keywords": [
+      "white",
+      "up",
+      "pointing",
+      "index",
+      "body",
+      "hands",
+      "emojione",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Point Up 2",
+    "symbol": "👆",
+    "keywords": [
+      "white",
+      "up",
+      "pointing",
+      "backhand",
+      "index",
+      "body",
+      "hands",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Point Down",
+    "symbol": "👇",
+    "keywords": [
+      "white",
+      "down",
+      "pointing",
+      "backhand",
+      "index",
+      "body",
+      "hands",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Point Left",
+    "symbol": "👈",
+    "keywords": [
+      "white",
+      "left",
+      "pointing",
+      "backhand",
+      "index",
+      "body",
+      "hands",
+      "hi",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Point Right",
+    "symbol": "👉",
+    "keywords": [
+      "white",
+      "right",
+      "pointing",
+      "backhand",
+      "index",
+      "body",
+      "hands",
+      "hi",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Middle Finger",
+    "symbol": "🖕",
+    "keywords": [
+      "reversed",
+      "hand",
+      "with",
+      "middle",
+      "finger",
+      "extended",
+      "body",
+      "hands",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Hand Splayed",
+    "symbol": "🖐",
+    "keywords": [
+      "raised",
+      "hand",
+      "with",
+      "fingers",
+      "splayed",
+      "body",
+      "hands",
+      "hi",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Metal",
+    "symbol": "🤘",
+    "keywords": [
+      "sign",
+      "of",
+      "the",
+      "horns",
+      "body",
+      "hands",
+      "hi",
+      "diversity",
+      "boys",
+      "night",
+      "parties"
+    ]
+  },
+  {
+    "title": "Vulcan",
+    "symbol": "🖖",
+    "keywords": [
+      "raised",
+      "hand",
+      "with",
+      "part",
+      "between",
+      "middle",
+      "and",
+      "ring",
+      "fingers",
+      "body",
+      "hands",
+      "hi",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Writing Hand",
+    "symbol": "✍",
+    "keywords": ["writing", "hand", "body", "hands", "write", "diversity"]
+  },
+  {
+    "title": "Nail Care",
+    "symbol": "💅",
+    "keywords": [
+      "nail",
+      "polish",
+      "women",
+      "body",
+      "hands",
+      "nailpolish",
+      "diversity",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Lips",
+    "symbol": "👄",
+    "keywords": ["mouth", "women", "body", "sexy", "lip"]
+  },
+  {
+    "title": "Tongue",
+    "symbol": "👅",
+    "keywords": ["tongue", "body", "sexy", "lip"]
+  },
+  {
+    "title": "Ear",
+    "symbol": "👂",
+    "keywords": ["ear", "body", "diversity"]
+  },
+  {
+    "title": "Nose",
+    "symbol": "👃",
+    "keywords": ["nose", "body", "diversity"]
+  },
+  {
+    "title": "Eye",
+    "symbol": "👁",
+    "keywords": ["eye", "body", "eyes"]
+  },
+  { "title": "Eyes", "symbol": "👀", "keywords": ["eyes", "body"] },
+  {
+    "title": "Bust In Silhouette",
+    "symbol": "👤",
+    "keywords": ["bust", "in", "silhouette", "people"]
+  },
+  {
+    "title": "Busts In Silhouette",
+    "symbol": "👥",
+    "keywords": ["busts", "in", "silhouette", "people"]
+  },
+  {
+    "title": "Speaking Head",
+    "symbol": "🗣",
+    "keywords": ["speaking", "head", "in", "silhouette", "people", "talk"]
+  },
+  {
+    "title": "Baby",
+    "symbol": "👶",
+    "keywords": ["baby", "people", "diversity"]
+  },
+  {
+    "title": "Boy",
+    "symbol": "👦",
+    "keywords": ["boy", "people", "baby", "diversity"]
+  },
+  {
+    "title": "Girl",
+    "symbol": "👧",
+    "keywords": ["girl", "people", "women", "baby", "diversity"]
+  },
+  {
+    "title": "Man",
+    "symbol": "👨",
+    "keywords": [
+      "man",
+      "people",
+      "men",
+      "sex",
+      "diversity",
+      "selfie",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Woman",
+    "symbol": "👩",
+    "keywords": [
+      "woman",
+      "people",
+      "women",
+      "sex",
+      "diversity",
+      "feminist",
+      "selfie",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Person With Blond Hair",
+    "symbol": "👱",
+    "keywords": [
+      "person",
+      "with",
+      "blond",
+      "hair",
+      "people",
+      "men",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Older Man",
+    "symbol": "👴",
+    "keywords": ["older", "man", "people", "men", "old", "diversity"]
+  },
+  {
+    "title": "Older Woman",
+    "symbol": "👵",
+    "keywords": ["older", "woman", "people", "old", "diversity"]
+  },
+  {
+    "title": "Man With Gua Pi Mao",
+    "symbol": "👲",
+    "keywords": [
+      "man",
+      "with",
+      "gua",
+      "pi",
+      "mao",
+      "people",
+      "hat",
+      "men",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Man With Turban",
+    "symbol": "👳",
+    "keywords": ["man", "with", "turban", "people", "hat", "diversity"]
+  },
+  {
+    "title": "Cop",
+    "symbol": "👮",
+    "keywords": [
+      "police",
+      "officer",
+      "people",
+      "hat",
+      "men",
+      "diversity",
+      "job",
+      "911"
+    ]
+  },
+  {
+    "title": "Construction Worker",
+    "symbol": "👷",
+    "keywords": [
+      "construction",
+      "worker",
+      "people",
+      "hat",
+      "men",
+      "diversity",
+      "job"
+    ]
+  },
+  {
+    "title": "Guardsman",
+    "symbol": "💂",
+    "keywords": ["guardsman", "people", "hat", "men", "diversity", "job"]
+  },
+  {
+    "title": "Spy",
+    "symbol": "🕵",
+    "keywords": [
+      "sleuth",
+      "or",
+      "spy",
+      "people",
+      "hat",
+      "men",
+      "glasses",
+      "diversity",
+      "job"
+    ]
+  },
+  {
+    "title": "Santa",
+    "symbol": "🎅",
+    "keywords": [
+      "father",
+      "christmas",
+      "people",
+      "hat",
+      "winter",
+      "holidays",
+      "diversity",
+      "santa"
+    ]
+  },
+  {
+    "title": "Angel",
+    "symbol": "👼",
+    "keywords": ["baby", "angel", "people", "diversity", "omg"]
+  },
+  {
+    "title": "Princess",
+    "symbol": "👸",
+    "keywords": [
+      "princess",
+      "people",
+      "women",
+      "diversity",
+      "beautiful",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Bride With Veil",
+    "symbol": "👰",
+    "keywords": [
+      "bride",
+      "with",
+      "veil",
+      "people",
+      "wedding",
+      "women",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Walking",
+    "symbol": "🚶",
+    "keywords": ["pedestrian", "people", "men", "diversity"]
+  },
+  {
+    "title": "Runner",
+    "symbol": "🏃",
+    "keywords": ["runner", "people", "men", "diversity", "boys", "night", "run"]
+  },
+  {
+    "title": "Dancer",
+    "symbol": "💃",
+    "keywords": [
+      "dancer",
+      "people",
+      "women",
+      "sexy",
+      "diversity",
+      "girls",
+      "night",
+      "dance"
+    ]
+  },
+  {
+    "title": "Dancers",
+    "symbol": "👯",
+    "keywords": [
+      "woman",
+      "with",
+      "bunny",
+      "ears",
+      "people",
+      "women",
+      "sexy",
+      "girls",
+      "night",
+      "boys",
+      "parties",
+      "dance"
+    ]
+  },
+  {
+    "title": "Couple",
+    "symbol": "👫",
+    "keywords": [
+      "man",
+      "and",
+      "woman",
+      "holding",
+      "hands",
+      "people",
+      "sex",
+      "creationism"
+    ]
+  },
+  {
+    "title": "Two Men Holding Hands",
+    "symbol": "👬",
+    "keywords": [
+      "two",
+      "men",
+      "holding",
+      "hands",
+      "people",
+      "gay",
+      "sex",
+      "lgbt"
+    ]
+  },
+  {
+    "title": "Two Women Holding Hands",
+    "symbol": "👭",
+    "keywords": [
+      "two",
+      "women",
+      "holding",
+      "hands",
+      "people",
+      "sex",
+      "lgbt",
+      "lesbian",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Bow",
+    "symbol": "🙇",
+    "keywords": ["person", "bowing", "deeply", "people", "pray", "diversity"]
+  },
+  {
+    "title": "Information Desk Person",
+    "symbol": "💁",
+    "keywords": [
+      "information",
+      "desk",
+      "person",
+      "people",
+      "women",
+      "diversity"
+    ]
+  },
+  {
+    "title": "No Good",
+    "symbol": "🙅",
+    "keywords": [
+      "face",
+      "with",
+      "no",
+      "good",
+      "gesture",
+      "people",
+      "women",
+      "diversity",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Ok Woman",
+    "symbol": "🙆",
+    "keywords": [
+      "face",
+      "with",
+      "ok",
+      "gesture",
+      "people",
+      "women",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Raising Hand",
+    "symbol": "🙋",
+    "keywords": [
+      "happy",
+      "person",
+      "raising",
+      "one",
+      "hand",
+      "people",
+      "women",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Person With Pouting Face",
+    "symbol": "🙎",
+    "keywords": [
+      "person",
+      "with",
+      "pouting",
+      "face",
+      "people",
+      "women",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Person Frowning",
+    "symbol": "🙍",
+    "keywords": ["person", "frowning", "people", "women", "diversity"]
+  },
+  {
+    "title": "Haircut",
+    "symbol": "💇",
+    "keywords": ["haircut", "people", "women", "diversity"]
+  },
+  {
+    "title": "Massage",
+    "symbol": "💆",
+    "keywords": ["face", "massage", "people", "women", "diversity"]
+  },
+  {
+    "title": "Couple With Heart",
+    "symbol": "💑",
+    "keywords": ["couple", "with", "heart", "people", "love", "sex"]
+  },
+  {
+    "title": "Couplekiss",
+    "symbol": "💏",
+    "keywords": ["kiss", "people", "love", "sex"]
+  },
+  {
+    "title": "Family",
+    "symbol": "👪",
+    "keywords": ["family", "people", "baby"]
+  },
+  {
+    "title": "Womans Clothes",
+    "symbol": "👚",
+    "keywords": ["womans", "clothes", "women", "fashion"]
+  },
+  {
+    "title": "Shirt",
+    "symbol": "👕",
+    "keywords": ["t-shirt", "fashion"]
+  },
+  {
+    "title": "Jeans",
+    "symbol": "👖",
+    "keywords": ["jeans", "fashion"]
+  },
+  {
+    "title": "Necktie",
+    "symbol": "👔",
+    "keywords": ["necktie", "fashion"]
+  },
+  {
+    "title": "Dress",
+    "symbol": "👗",
+    "keywords": ["dress", "women", "fashion", "sexy", "girls", "night"]
+  },
+  {
+    "title": "Bikini",
+    "symbol": "👙",
+    "keywords": [
+      "bikini",
+      "women",
+      "fashion",
+      "sexy",
+      "vacation",
+      "tropical",
+      "swim"
+    ]
+  },
+  {
+    "title": "Kimono",
+    "symbol": "👘",
+    "keywords": ["kimono", "fashion"]
+  },
+  {
+    "title": "Lipstick",
+    "symbol": "💄",
+    "keywords": ["lipstick", "object", "women", "fashion", "sexy", "lip"]
+  },
+  {
+    "title": "Kiss",
+    "symbol": "💋",
+    "keywords": [
+      "kiss",
+      "mark",
+      "women",
+      "love",
+      "sexy",
+      "lip",
+      "beautiful",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Footprints",
+    "symbol": "👣",
+    "keywords": ["footprints"]
+  },
+  {
+    "title": "High Heel",
+    "symbol": "👠",
+    "keywords": [
+      "high-heeled",
+      "shoe",
+      "women",
+      "fashion",
+      "sexy",
+      "accessories",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Sandal",
+    "symbol": "👡",
+    "keywords": ["womans", "sandal", "fashion", "shoe", "accessories"]
+  },
+  {
+    "title": "Boot",
+    "symbol": "👢",
+    "keywords": [
+      "womans",
+      "boots",
+      "women",
+      "fashion",
+      "shoe",
+      "sexy",
+      "accessories"
+    ]
+  },
+  {
+    "title": "Mans Shoe",
+    "symbol": "👞",
+    "keywords": ["mans", "shoe", "fashion", "accessories"]
+  },
+  {
+    "title": "Athletic Shoe",
+    "symbol": "👟",
+    "keywords": ["athletic", "shoe", "fashion", "accessories", "boys", "night"]
+  },
+  {
+    "title": "Womans Hat",
+    "symbol": "👒",
+    "keywords": ["womans", "hat", "women", "fashion", "accessories"]
+  },
+  {
+    "title": "Tophat",
+    "symbol": "🎩",
+    "keywords": ["top", "hat", "fashion", "accessories"]
+  },
+  {
+    "title": "Helmet With Cross",
+    "symbol": "⛑",
+    "keywords": [
+      "helmet",
+      "with",
+      "white",
+      "cross",
+      "object",
+      "hat",
+      "accessories",
+      "job"
+    ]
+  },
+  {
+    "title": "Mortar Board",
+    "symbol": "🎓",
+    "keywords": ["graduation", "cap", "hat", "office", "accessories"]
+  },
+  {
+    "title": "Crown",
+    "symbol": "👑",
+    "keywords": ["crown", "object", "gem", "accessories"]
+  },
+  {
+    "title": "School Satchel",
+    "symbol": "🎒",
+    "keywords": [
+      "school",
+      "satchel",
+      "bag",
+      "fashion",
+      "office",
+      "vacation",
+      "accessories"
+    ]
+  },
+  {
+    "title": "Pouch",
+    "symbol": "👝",
+    "keywords": ["pouch", "bag", "women", "fashion", "accessories"]
+  },
+  {
+    "title": "Purse",
+    "symbol": "👛",
+    "keywords": ["purse", "bag", "women", "fashion", "accessories", "money"]
+  },
+  {
+    "title": "Handbag",
+    "symbol": "👜",
+    "keywords": [
+      "handbag",
+      "bag",
+      "women",
+      "fashion",
+      "vacation",
+      "accessories"
+    ]
+  },
+  {
+    "title": "Briefcase",
+    "symbol": "💼",
+    "keywords": ["briefcase", "bag", "work", "accessories", "nutcase", "job"]
+  },
+  {
+    "title": "Eyeglasses",
+    "symbol": "👓",
+    "keywords": ["eyeglasses", "fashion", "glasses", "accessories"]
+  },
+  {
+    "title": "Dark Sunglasses",
+    "symbol": "🕶",
+    "keywords": ["dark", "sunglasses", "fashion", "glasses", "accessories"]
+  },
+  {
+    "title": "Ring",
+    "symbol": "💍",
+    "keywords": ["ring", "wedding", "object", "fashion", "gem", "accessories"]
+  },
+  {
+    "title": "Closed Umbrella",
+    "symbol": "🌂",
+    "keywords": ["closed", "umbrella", "object", "sky", "rain", "accessories"]
+  },
+  {
+    "title": "Dog",
+    "symbol": "🐶",
+    "keywords": ["dog", "face", "pug", "animal"]
+  },
+  {
+    "title": "Cat",
+    "symbol": "🐱",
+    "keywords": ["cat", "face", "halloween", "vagina", "animal"]
+  },
+  {
+    "title": "Mouse",
+    "symbol": "🐭",
+    "keywords": ["mouse", "face", "animal"]
+  },
+  {
+    "title": "Hamster",
+    "symbol": "🐹",
+    "keywords": ["hamster", "face", "animal"]
+  },
+  {
+    "title": "Rabbit",
+    "symbol": "🐰",
+    "keywords": ["rabbit", "face", "wildlife", "animal"]
+  },
+  {
+    "title": "Bear",
+    "symbol": "🐻",
+    "keywords": ["bear", "face", "wildlife", "roar", "animal"]
+  },
+  {
+    "title": "Panda Face",
+    "symbol": "🐼",
+    "keywords": ["panda", "face", "wildlife", "roar", "animal"]
+  },
+  {
+    "title": "Koala",
+    "symbol": "🐨",
+    "keywords": ["koala", "wildlife", "animal"]
+  },
+  {
+    "title": "Tiger",
+    "symbol": "🐯",
+    "keywords": ["tiger", "face", "wildlife", "roar", "cat", "animal"]
+  },
+  {
+    "title": "Lion Face",
+    "symbol": "🦁",
+    "keywords": ["lion", "face", "wildlife", "roar", "cat", "animal"]
+  },
+  {
+    "title": "Cow",
+    "symbol": "🐮",
+    "keywords": ["cow", "face", "animal"]
+  },
+  {
+    "title": "Pig",
+    "symbol": "🐷",
+    "keywords": ["pig", "face", "animal"]
+  },
+  {
+    "title": "Pig Nose",
+    "symbol": "🐽",
+    "keywords": ["pig", "nose", "animal"]
+  },
+  {
+    "title": "Frog",
+    "symbol": "🐸",
+    "keywords": ["frog", "face", "wildlife", "animal"]
+  },
+  {
+    "title": "Octopus",
+    "symbol": "🐙",
+    "keywords": ["octopus", "wildlife", "animal"]
+  },
+  {
+    "title": "Monkey Face",
+    "symbol": "🐵",
+    "keywords": ["monkey", "face", "animal"]
+  },
+  {
+    "title": "See No Evil",
+    "symbol": "🙈",
+    "keywords": ["see-no-evil", "monkey", "animal"]
+  },
+  {
+    "title": "Hear No Evil",
+    "symbol": "🙉",
+    "keywords": ["hear-no-evil", "monkey", "animal"]
+  },
+  {
+    "title": "Speak No Evil",
+    "symbol": "🙊",
+    "keywords": ["speak-no-evil", "monkey", "animal"]
+  },
+  {
+    "title": "Monkey",
+    "symbol": "🐒",
+    "keywords": ["monkey", "wildlife", "animal"]
+  },
+  {
+    "title": "Chicken",
+    "symbol": "🐔",
+    "keywords": ["chicken", "animal"]
+  },
+  {
+    "title": "Penguin",
+    "symbol": "🐧",
+    "keywords": ["penguin", "wildlife", "animal"]
+  },
+  {
+    "title": "Bird",
+    "symbol": "🐦",
+    "keywords": ["bird", "wildlife", "animal"]
+  },
+  {
+    "title": "Baby Chick",
+    "symbol": "🐤",
+    "keywords": ["baby", "chick", "animal", "chicken"]
+  },
+  {
+    "title": "Hatching Chick",
+    "symbol": "🐣",
+    "keywords": ["hatching", "chick", "animal", "chicken"]
+  },
+  {
+    "title": "Hatched Chick",
+    "symbol": "🐥",
+    "keywords": ["front-facing", "baby", "chick", "animal", "chicken"]
+  },
+  {
+    "title": "Wolf",
+    "symbol": "🐺",
+    "keywords": ["wolf", "face", "wildlife", "roar", "animal"]
+  },
+  {
+    "title": "Boar",
+    "symbol": "🐗",
+    "keywords": ["boar", "wildlife", "animal"]
+  },
+  {
+    "title": "Horse",
+    "symbol": "🐴",
+    "keywords": ["horse", "face", "wildlife", "animal"]
+  },
+  {
+    "title": "Unicorn",
+    "symbol": "🦄",
+    "keywords": ["unicorn", "face", "animal"]
+  },
+  {
+    "title": "Bee",
+    "symbol": "🐝",
+    "keywords": ["honeybee", "insects", "animal"]
+  },
+  {
+    "title": "Bug",
+    "symbol": "🐛",
+    "keywords": ["bug", "insects", "animal"]
+  },
+  {
+    "title": "Snail",
+    "symbol": "🐌",
+    "keywords": ["snail", "insects", "animal"]
+  },
+  {
+    "title": "Beetle",
+    "symbol": "🐞",
+    "keywords": ["lady", "beetle", "insects", "animal"]
+  },
+  {
+    "title": "Ant",
+    "symbol": "🐜",
+    "keywords": ["ant", "insects", "animal"]
+  },
+  {
+    "title": "Spider",
+    "symbol": "🕷",
+    "keywords": ["spider", "insects", "halloween", "animal"]
+  },
+  {
+    "title": "Scorpion",
+    "symbol": "🦂",
+    "keywords": ["scorpion", "insects", "reptile", "animal"]
+  },
+  {
+    "title": "Crab",
+    "symbol": "🦀",
+    "keywords": ["crab", "tropical", "animal"]
+  },
+  {
+    "title": "Snake",
+    "symbol": "🐍",
+    "keywords": ["snake", "wildlife", "reptile", "animal", "creationism"]
+  },
+  {
+    "title": "Turtle",
+    "symbol": "🐢",
+    "keywords": ["turtle", "wildlife", "reptile", "animal"]
+  },
+  {
+    "title": "Tropical Fish",
+    "symbol": "🐠",
+    "keywords": ["tropical", "fish", "wildlife", "animal"]
+  },
+  {
+    "title": "Fish",
+    "symbol": "🐟",
+    "keywords": ["fish", "wildlife", "animal"]
+  },
+  {
+    "title": "Blowfish",
+    "symbol": "🐡",
+    "keywords": ["blowfish", "wildlife", "animal"]
+  },
+  {
+    "title": "Dolphin",
+    "symbol": "🐬",
+    "keywords": ["dolphin", "wildlife", "tropical", "animal"]
+  },
+  {
+    "title": "Whale",
+    "symbol": "🐳",
+    "keywords": [
+      "spouting",
+      "whale",
+      "wildlife",
+      "tropical",
+      "whales",
+      "animal"
+    ]
+  },
+  {
+    "title": "Whale2",
+    "symbol": "🐋",
+    "keywords": ["whale", "wildlife", "tropical", "whales", "animal"]
+  },
+  {
+    "title": "Crocodile",
+    "symbol": "🐊",
+    "keywords": ["crocodile", "wildlife", "reptile", "animal"]
+  },
+  {
+    "title": "Leopard",
+    "symbol": "🐆",
+    "keywords": ["leopard", "wildlife", "roar", "animal"]
+  },
+  {
+    "title": "Tiger2",
+    "symbol": "🐅",
+    "keywords": ["tiger", "wildlife", "roar", "animal"]
+  },
+  {
+    "title": "Water Buffalo",
+    "symbol": "🐃",
+    "keywords": ["water", "buffalo", "wildlife", "animal"]
+  },
+  { "title": "Ox", "symbol": "🐂", "keywords": ["ox", "animal"] },
+  { "title": "Cow2", "symbol": "🐄", "keywords": ["cow", "animal"] },
+  {
+    "title": "Dromedary Camel",
+    "symbol": "🐪",
+    "keywords": ["dromedary", "camel", "wildlife", "animal"]
+  },
+  {
+    "title": "Camel",
+    "symbol": "🐫",
+    "keywords": ["bactrian", "camel", "wildlife", "animal", "hump", "day"]
+  },
+  {
+    "title": "Elephant",
+    "symbol": "🐘",
+    "keywords": ["elephant", "wildlife", "animal"]
+  },
+  { "title": "Goat", "symbol": "🐐", "keywords": ["goat", "animal"] },
+  {
+    "title": "Ram",
+    "symbol": "🐏",
+    "keywords": ["ram", "wildlife", "animal"]
+  },
+  {
+    "title": "Sheep",
+    "symbol": "🐑",
+    "keywords": ["sheep", "animal"]
+  },
+  {
+    "title": "Racehorse",
+    "symbol": "🐎",
+    "keywords": ["horse", "wildlife", "animal"]
+  },
+  { "title": "Pig2", "symbol": "🐖", "keywords": ["pig", "animal"] },
+  { "title": "Rat", "symbol": "🐀", "keywords": ["rat", "animal"] },
+  {
+    "title": "Mouse2",
+    "symbol": "🐁",
+    "keywords": ["mouse", "animal"]
+  },
+  {
+    "title": "Rooster",
+    "symbol": "🐓",
+    "keywords": ["rooster", "animal"]
+  },
+  {
+    "title": "Turkey",
+    "symbol": "🦃",
+    "keywords": ["turkey", "wildlife", "animal"]
+  },
+  {
+    "title": "Dove",
+    "symbol": "🕊",
+    "keywords": ["dove", "of", "peace", "animal"]
+  },
+  {
+    "title": "Dog2",
+    "symbol": "🐕",
+    "keywords": ["dog", "pug", "animal"]
+  },
+  {
+    "title": "Poodle",
+    "symbol": "🐩",
+    "keywords": ["poodle", "dog", "animal"]
+  },
+  {
+    "title": "Cat2",
+    "symbol": "🐈",
+    "keywords": ["cat", "halloween", "animal"]
+  },
+  {
+    "title": "Rabbit2",
+    "symbol": "🐇",
+    "keywords": ["rabbit", "wildlife", "animal"]
+  },
+  {
+    "title": "Chipmunk",
+    "symbol": "🐿",
+    "keywords": ["chipmunk", "wildlife", "animal"]
+  },
+  {
+    "title": "Feet",
+    "symbol": "🐾",
+    "keywords": ["paw", "prints", "animal"]
+  },
+  {
+    "title": "Dragon",
+    "symbol": "🐉",
+    "keywords": ["dragon", "roar", "reptile", "animal"]
+  },
+  {
+    "title": "Dragon Face",
+    "symbol": "🐲",
+    "keywords": ["dragon", "face", "roar", "monster", "reptile", "animal"]
+  },
+  {
+    "title": "Cactus",
+    "symbol": "🌵",
+    "keywords": ["cactus", "nature", "plant", "trees"]
+  },
+  {
+    "title": "Christmas Tree",
+    "symbol": "🎄",
+    "keywords": ["christmas", "tree", "plant", "holidays", "trees"]
+  },
+  {
+    "title": "Evergreen Tree",
+    "symbol": "🌲",
+    "keywords": [
+      "evergreen",
+      "tree",
+      "nature",
+      "plant",
+      "holidays",
+      "christmas",
+      "camp",
+      "trees"
+    ]
+  },
+  {
+    "title": "Deciduous Tree",
+    "symbol": "🌳",
+    "keywords": ["deciduous", "tree", "nature", "plant", "camp", "trees"]
+  },
+  {
+    "title": "Palm Tree",
+    "symbol": "🌴",
+    "keywords": ["palm", "tree", "nature", "plant", "tropical", "trees"]
+  },
+  {
+    "title": "Seedling",
+    "symbol": "🌱",
+    "keywords": ["seedling", "nature", "plant", "leaf"]
+  },
+  {
+    "title": "Herb",
+    "symbol": "🌿",
+    "keywords": ["herb", "nature", "plant", "leaf"]
+  },
+  {
+    "title": "Shamrock",
+    "symbol": "☘",
+    "keywords": ["shamrock", "nature", "plant", "luck", "leaf"]
+  },
+  {
+    "title": "Four Leaf Clover",
+    "symbol": "🍀",
+    "keywords": ["four", "leaf", "clover", "nature", "plant", "luck", "sol"]
+  },
+  {
+    "title": "Bamboo",
+    "symbol": "🎍",
+    "keywords": ["pine", "decoration", "nature", "plant"]
+  },
+  {
+    "title": "Tanabata Tree",
+    "symbol": "🎋",
+    "keywords": ["tanabata", "tree", "nature", "plant", "trees"]
+  },
+  {
+    "title": "Leaves",
+    "symbol": "🍃",
+    "keywords": ["leaf", "fluttering", "in", "wind", "nature", "plant"]
+  },
+  {
+    "title": "Fallen Leaf",
+    "symbol": "🍂",
+    "keywords": ["fallen", "leaf", "nature", "plant"]
+  },
+  {
+    "title": "Maple Leaf",
+    "symbol": "🍁",
+    "keywords": ["maple", "leaf", "nature", "plant"]
+  },
+  {
+    "title": "Ear Of Rice",
+    "symbol": "🌾",
+    "keywords": ["ear", "of", "rice", "nature", "plant", "leaf"]
+  },
+  {
+    "title": "Hibiscus",
+    "symbol": "🌺",
+    "keywords": ["hibiscus", "nature", "flower", "plant", "tropical"]
+  },
+  {
+    "title": "Sunflower",
+    "symbol": "🌻",
+    "keywords": ["sunflower", "nature", "flower", "plant"]
+  },
+  {
+    "title": "Rose",
+    "symbol": "🌹",
+    "keywords": [
+      "rose",
+      "nature",
+      "flower",
+      "plant",
+      "rip",
+      "condolence",
+      "beautiful"
+    ]
+  },
+  {
+    "title": "Tulip",
+    "symbol": "🌷",
+    "keywords": [
+      "tulip",
+      "nature",
+      "flower",
+      "plant",
+      "vagina",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Blossom",
+    "symbol": "🌼",
+    "keywords": ["blossom", "nature", "flower", "plant"]
+  },
+  {
+    "title": "Cherry Blossom",
+    "symbol": "🌸",
+    "keywords": ["cherry", "blossom", "nature", "flower", "plant", "tropical"]
+  },
+  {
+    "title": "Bouquet",
+    "symbol": "💐",
+    "keywords": ["bouquet", "nature", "flower", "plant", "rip", "condolence"]
+  },
+  {
+    "title": "Mushroom",
+    "symbol": "🍄",
+    "keywords": ["mushroom", "nature", "plant", "drugs"]
+  },
+  {
+    "title": "Chestnut",
+    "symbol": "🌰",
+    "keywords": ["chestnut", "nature", "plant"]
+  },
+  {
+    "title": "Jack o Lantern",
+    "symbol": "🎃",
+    "keywords": ["jack-o-lantern", "holidays", "halloween"]
+  },
+  {
+    "title": "Shell",
+    "symbol": "🐚",
+    "keywords": ["spiral", "shell"]
+  },
+  {
+    "title": "Spider Web",
+    "symbol": "🕸",
+    "keywords": ["spider", "web", "halloween"]
+  },
+  {
+    "title": "Earth Americas",
+    "symbol": "🌎",
+    "keywords": ["earth", "globe", "americas", "map", "vacation"]
+  },
+  {
+    "title": "Earth Africa",
+    "symbol": "🌍",
+    "keywords": ["earth", "globe", "europe-africa", "map", "vacation"]
+  },
+  {
+    "title": "Earth Asia",
+    "symbol": "🌏",
+    "keywords": ["earth", "globe", "asia-australia", "map", "vacation"]
+  },
+  {
+    "title": "Full Moon",
+    "symbol": "🌕",
+    "keywords": ["full", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "Waning Gibbous Moon",
+    "symbol": "🌖",
+    "keywords": ["waning", "gibbous", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "Last Quarter Moon",
+    "symbol": "🌗",
+    "keywords": ["last", "quarter", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "Waning Crescent Moon",
+    "symbol": "🌘",
+    "keywords": ["waning", "crescent", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "New Moon",
+    "symbol": "🌑",
+    "keywords": ["new", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "Waxing Crescent Moon",
+    "symbol": "🌒",
+    "keywords": ["waxing", "crescent", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "First Quarter Moon",
+    "symbol": "🌓",
+    "keywords": ["first", "quarter", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "Waxing Gibbous Moon",
+    "symbol": "🌔",
+    "keywords": ["waxing", "gibbous", "moon", "symbol", "space", "sky"]
+  },
+  {
+    "title": "New Moon With Face",
+    "symbol": "🌚",
+    "keywords": ["new", "moon", "with", "face", "space", "sky", "goodnight"]
+  },
+  {
+    "title": "Full Moon With Face",
+    "symbol": "🌝",
+    "keywords": ["full", "moon", "with", "face", "space", "sky", "goodnight"]
+  },
+  {
+    "title": "First Quarter Moon With Face",
+    "symbol": "🌛",
+    "keywords": ["first", "quarter", "moon", "with", "face", "space", "sky"]
+  },
+  {
+    "title": "Last Quarter Moon With Face",
+    "symbol": "🌜",
+    "keywords": ["last", "quarter", "moon", "with", "face", "space", "sky"]
+  },
+  {
+    "title": "Sun With Face",
+    "symbol": "🌞",
+    "keywords": ["sun", "with", "face", "sky", "day", "hump", "morning"]
+  },
+  {
+    "title": "Crescent Moon",
+    "symbol": "🌙",
+    "keywords": ["crescent", "moon", "space", "sky", "goodnight"]
+  },
+  {
+    "title": "Star",
+    "symbol": "⭐",
+    "keywords": ["white", "medium", "star", "space", "sky"]
+  },
+  {
+    "title": "Star2",
+    "symbol": "🌟",
+    "keywords": ["glowing", "star", "space", "sky"]
+  },
+  {
+    "title": "Dizzy",
+    "symbol": "💫",
+    "keywords": ["dizzy", "symbol", "star"]
+  },
+  {
+    "title": "Sparkles",
+    "symbol": "✨",
+    "keywords": ["sparkles", "star", "girls", "night"]
+  },
+  {
+    "title": "Comet",
+    "symbol": "☄",
+    "keywords": ["comet", "space", "sky"]
+  },
+  {
+    "title": "Sunny",
+    "symbol": "☀",
+    "keywords": [
+      "black",
+      "sun",
+      "with",
+      "rays",
+      "weather",
+      "sky",
+      "day",
+      "hot",
+      "morning"
+    ]
+  },
+  {
+    "title": "White Sun Small Cloud",
+    "symbol": "🌤",
+    "keywords": ["white", "sun", "with", "small", "cloud", "weather", "sky"]
+  },
+  {
+    "title": "Partly Sunny",
+    "symbol": "⛅",
+    "keywords": ["sun", "behind", "cloud", "weather", "sky"]
+  },
+  {
+    "title": "White Sun Cloud",
+    "symbol": "🌥",
+    "keywords": ["white", "sun", "behind", "cloud", "weather", "sky", "cold"]
+  },
+  {
+    "title": "White Sun Rain Cloud",
+    "symbol": "🌦",
+    "keywords": [
+      "white",
+      "sun",
+      "behind",
+      "cloud",
+      "with",
+      "rain",
+      "weather",
+      "sky",
+      "cold"
+    ]
+  },
+  {
+    "title": "Cloud",
+    "symbol": "☁",
+    "keywords": ["cloud", "weather", "sky", "cold", "rain"]
+  },
+  {
+    "title": "Cloud Rain",
+    "symbol": "🌧",
+    "keywords": ["cloud", "with", "rain", "weather", "winter", "sky", "cold"]
+  },
+  {
+    "title": "Thunder Cloud Rain",
+    "symbol": "⛈",
+    "keywords": ["thunder", "cloud", "and", "rain", "weather", "sky", "cold"]
+  },
+  {
+    "title": "Cloud Lightning",
+    "symbol": "🌩",
+    "keywords": ["cloud", "with", "lightning", "weather", "sky", "cold", "rain"]
+  },
+  {
+    "title": "Zap",
+    "symbol": "⚡",
+    "keywords": ["high", "voltage", "sign", "weather", "sky", "diarrhea"]
+  },
+  {
+    "title": "Fire",
+    "symbol": "🔥",
+    "keywords": ["fire", "wth", "hot"]
+  },
+  {
+    "title": "Boom",
+    "symbol": "💥",
+    "keywords": ["collision", "symbol", "blast"]
+  },
+  {
+    "title": "Snowflake",
+    "symbol": "❄",
+    "keywords": [
+      "snowflake",
+      "weather",
+      "winter",
+      "sky",
+      "holidays",
+      "cold",
+      "snow"
+    ]
+  },
+  {
+    "title": "Cloud Snow",
+    "symbol": "🌨",
+    "keywords": ["cloud", "with", "snow", "weather", "winter", "sky", "cold"]
+  },
+  {
+    "title": "Snowman2",
+    "symbol": "☃",
+    "keywords": [
+      "snowman",
+      "weather",
+      "winter",
+      "holidays",
+      "christmas",
+      "cold",
+      "snow"
+    ]
+  },
+  {
+    "title": "Snowman",
+    "symbol": "⛄",
+    "keywords": [
+      "snowman",
+      "without",
+      "snow",
+      "weather",
+      "winter",
+      "holidays",
+      "cold"
+    ]
+  },
+  {
+    "title": "Wind Blowing Face",
+    "symbol": "🌬",
+    "keywords": ["wind", "blowing", "face", "weather", "cold"]
+  },
+  {
+    "title": "Dash",
+    "symbol": "💨",
+    "keywords": ["dash", "symbol", "cloud", "cold", "smoking"]
+  },
+  {
+    "title": "Cloud Tornado",
+    "symbol": "🌪",
+    "keywords": ["cloud", "with", "tornado", "weather", "sky", "cold"]
+  },
+  {
+    "title": "Fog",
+    "symbol": "🌫",
+    "keywords": ["fog", "weather", "sky", "cold"]
+  },
+  {
+    "title": "Umbrella2",
+    "symbol": "☂",
+    "keywords": ["umbrella", "weather", "object", "sky", "cold"]
+  },
+  {
+    "title": "Umbrella",
+    "symbol": "☔",
+    "keywords": ["umbrella", "with", "rain", "drops", "weather", "sky", "cold"]
+  },
+  {
+    "title": "Droplet",
+    "symbol": "💧",
+    "keywords": ["droplet", "weather", "sky", "rain"]
+  },
+  {
+    "title": "Sweat Drops",
+    "symbol": "💦",
+    "keywords": ["splashing", "sweat", "symbol", "rain", "stressed"]
+  },
+  {
+    "title": "Ocean",
+    "symbol": "🌊",
+    "keywords": ["water", "wave", "weather", "boat", "tropical", "swim"]
+  },
+  {
+    "title": "Green Apple",
+    "symbol": "🍏",
+    "keywords": ["green", "apple", "fruit", "food"]
+  },
+  {
+    "title": "Apple",
+    "symbol": "🍎",
+    "keywords": ["red", "apple", "fruit", "food", "creationism"]
+  },
+  {
+    "title": "Pear",
+    "symbol": "🍐",
+    "keywords": ["pear", "fruit", "food"]
+  },
+  {
+    "title": "Tangerine",
+    "symbol": "🍊",
+    "keywords": ["tangerine", "fruit", "food"]
+  },
+  {
+    "title": "Lemon",
+    "symbol": "🍋",
+    "keywords": ["lemon", "fruit", "food"]
+  },
+  {
+    "title": "Banana",
+    "symbol": "🍌",
+    "keywords": ["banana", "fruit", "penis", "food"]
+  },
+  {
+    "title": "Watermelon",
+    "symbol": "🍉",
+    "keywords": ["watermelon", "fruit", "food"]
+  },
+  {
+    "title": "Grapes",
+    "symbol": "🍇",
+    "keywords": ["grapes", "fruit", "food"]
+  },
+  {
+    "title": "Strawberry",
+    "symbol": "🍓",
+    "keywords": ["strawberry", "fruit", "food"]
+  },
+  {
+    "title": "Melon",
+    "symbol": "🍈",
+    "keywords": ["melon", "fruit", "boobs", "food"]
+  },
+  {
+    "title": "Cherries",
+    "symbol": "🍒",
+    "keywords": ["cherries", "fruit", "food"]
+  },
+  {
+    "title": "Peach",
+    "symbol": "🍑",
+    "keywords": ["peach", "fruit", "butt", "food"]
+  },
+  {
+    "title": "Pineapple",
+    "symbol": "🍍",
+    "keywords": ["pineapple", "fruit", "food", "tropical"]
+  },
+  {
+    "title": "Tomato",
+    "symbol": "🍅",
+    "keywords": ["tomato", "fruit", "vegetables", "food"]
+  },
+  {
+    "title": "Eggplant",
+    "symbol": "🍆",
+    "keywords": ["aubergine", "vegetables", "penis", "food"]
+  },
+  {
+    "title": "Hot Pepper",
+    "symbol": "🌶",
+    "keywords": ["hot", "pepper", "vegetables", "food"]
+  },
+  {
+    "title": "Corn",
+    "symbol": "🌽",
+    "keywords": ["ear", "of", "maize", "vegetables", "food"]
+  },
+  {
+    "title": "Sweet Potato",
+    "symbol": "🍠",
+    "keywords": ["roasted", "sweet", "potato", "vegetables", "food"]
+  },
+  {
+    "title": "Honey Pot",
+    "symbol": "🍯",
+    "keywords": ["honey", "pot", "food", "vagina"]
+  },
+  { "title": "Bread", "symbol": "🍞", "keywords": ["bread", "food"] },
+  {
+    "title": "Cheese",
+    "symbol": "🧀",
+    "keywords": ["cheese", "wedge", "food"]
+  },
+  {
+    "title": "Poultry Leg",
+    "symbol": "🍗",
+    "keywords": ["poultry", "leg", "food", "holidays"]
+  },
+  {
+    "title": "Meat On Bone",
+    "symbol": "🍖",
+    "keywords": ["meat", "on", "bone", "food"]
+  },
+  {
+    "title": "Fried Shrimp",
+    "symbol": "🍤",
+    "keywords": ["fried", "shrimp", "food"]
+  },
+  {
+    "title": "Cooking",
+    "symbol": "🍳",
+    "keywords": ["cooking", "food"]
+  },
+  {
+    "title": "Hamburger",
+    "symbol": "🍔",
+    "keywords": ["hamburger", "america", "food"]
+  },
+  {
+    "title": "Fries",
+    "symbol": "🍟",
+    "keywords": ["french", "fries", "america", "food"]
+  },
+  {
+    "title": "Hotdog",
+    "symbol": "🌭",
+    "keywords": ["hot", "dog", "america", "food"]
+  },
+  {
+    "title": "Pizza",
+    "symbol": "🍕",
+    "keywords": ["slice", "of", "pizza", "italian", "food", "boys", "night"]
+  },
+  {
+    "title": "Spaghetti",
+    "symbol": "🍝",
+    "keywords": ["spaghetti", "noodles", "pasta", "italian", "food"]
+  },
+  {
+    "title": "Taco",
+    "symbol": "🌮",
+    "keywords": ["taco", "food", "mexican", "vagina"]
+  },
+  {
+    "title": "Burrito",
+    "symbol": "🌯",
+    "keywords": ["burrito", "food", "mexican"]
+  },
+  {
+    "title": "Ramen",
+    "symbol": "🍜",
+    "keywords": ["steaming", "bowl", "noodles", "ramen", "japan", "food"]
+  },
+  {
+    "title": "Stew",
+    "symbol": "🍲",
+    "keywords": ["pot", "of", "food", "steam"]
+  },
+  {
+    "title": "Fish Cake",
+    "symbol": "🍥",
+    "keywords": ["fish", "cake", "with", "swirl", "design", "sushi", "food"]
+  },
+  {
+    "title": "Sushi",
+    "symbol": "🍣",
+    "keywords": ["sushi", "japan", "food"]
+  },
+  {
+    "title": "Bento",
+    "symbol": "🍱",
+    "keywords": ["bento", "box", "object", "sushi", "japan", "food"]
+  },
+  {
+    "title": "Curry",
+    "symbol": "🍛",
+    "keywords": ["curry", "and", "rice", "food"]
+  },
+  {
+    "title": "Rice Ball",
+    "symbol": "🍙",
+    "keywords": ["rice", "ball", "sushi", "japan", "food"]
+  },
+  {
+    "title": "Rice",
+    "symbol": "🍚",
+    "keywords": ["cooked", "rice", "sushi", "japan", "food"]
+  },
+  {
+    "title": "Rice Cracker",
+    "symbol": "🍘",
+    "keywords": ["rice", "cracker", "sushi", "food"]
+  },
+  { "title": "Oden", "symbol": "🍢", "keywords": ["oden", "food"] },
+  { "title": "Dango", "symbol": "🍡", "keywords": ["dango", "food"] },
+  {
+    "title": "Shaved Ice",
+    "symbol": "🍧",
+    "keywords": ["shaved", "ice", "food"]
+  },
+  {
+    "title": "Ice Cream",
+    "symbol": "🍨",
+    "keywords": ["ice", "cream", "food"]
+  },
+  {
+    "title": "Icecream",
+    "symbol": "🍦",
+    "keywords": ["soft", "ice", "cream", "food"]
+  },
+  {
+    "title": "Cake",
+    "symbol": "🍰",
+    "keywords": ["shortcake", "food"]
+  },
+  {
+    "title": "Birthday",
+    "symbol": "🎂",
+    "keywords": ["birthday", "cake", "food", "parties"]
+  },
+  {
+    "title": "Custard",
+    "symbol": "🍮",
+    "keywords": ["custard", "food"]
+  },
+  {
+    "title": "Candy",
+    "symbol": "🍬",
+    "keywords": ["candy", "food", "halloween"]
+  },
+  {
+    "title": "Lollipop",
+    "symbol": "🍭",
+    "keywords": ["lollipop", "food", "halloween"]
+  },
+  {
+    "title": "Chocolate Bar",
+    "symbol": "🍫",
+    "keywords": ["chocolate", "bar", "food", "halloween"]
+  },
+  {
+    "title": "Popcorn",
+    "symbol": "🍿",
+    "keywords": ["popcorn", "food", "parties"]
+  },
+  {
+    "title": "Doughnut",
+    "symbol": "🍩",
+    "keywords": ["doughnut", "food"]
+  },
+  {
+    "title": "Cookie",
+    "symbol": "🍪",
+    "keywords": ["cookie", "food", "vagina"]
+  },
+  {
+    "title": "Beer",
+    "symbol": "🍺",
+    "keywords": ["beer", "mug", "drink", "alcohol", "parties"]
+  },
+  {
+    "title": "Beers",
+    "symbol": "🍻",
+    "keywords": [
+      "clinking",
+      "beer",
+      "mugs",
+      "drink",
+      "cheers",
+      "alcohol",
+      "thank",
+      "you",
+      "boys",
+      "night",
+      "parties"
+    ]
+  },
+  {
+    "title": "Wine Glass",
+    "symbol": "🍷",
+    "keywords": [
+      "wine",
+      "glass",
+      "drink",
+      "italian",
+      "alcohol",
+      "girls",
+      "night",
+      "parties"
+    ]
+  },
+  {
+    "title": "Cocktail",
+    "symbol": "🍸",
+    "keywords": [
+      "cocktail",
+      "glass",
+      "drink",
+      "alcohol",
+      "girls",
+      "night",
+      "parties"
+    ]
+  },
+  {
+    "title": "Tropical Drink",
+    "symbol": "🍹",
+    "keywords": ["tropical", "drink", "cocktail", "alcohol"]
+  },
+  {
+    "title": "Champagne",
+    "symbol": "🍾",
+    "keywords": [
+      "bottle",
+      "with",
+      "popping",
+      "cork",
+      "drink",
+      "cheers",
+      "alcohol",
+      "parties"
+    ]
+  },
+  {
+    "title": "Sake",
+    "symbol": "🍶",
+    "keywords": [
+      "sake",
+      "bottle",
+      "and",
+      "cup",
+      "drink",
+      "japan",
+      "alcohol",
+      "girls",
+      "night"
+    ]
+  },
+  {
+    "title": "Tea",
+    "symbol": "🍵",
+    "keywords": [
+      "teacup",
+      "without",
+      "handle",
+      "drink",
+      "japan",
+      "caffeine",
+      "steam",
+      "morning"
+    ]
+  },
+  {
+    "title": "Coffee",
+    "symbol": "☕",
+    "keywords": ["hot", "beverage", "drink", "caffeine", "steam", "morning"]
+  },
+  {
+    "title": "Baby Bottle",
+    "symbol": "🍼",
+    "keywords": ["baby", "bottle", "drink", "object", "food"]
+  },
+  {
+    "title": "Fork And Knife",
+    "symbol": "🍴",
+    "keywords": ["fork", "and", "knife", "object", "weapon", "food"]
+  },
+  {
+    "title": "Fork Knife Plate",
+    "symbol": "🍽",
+    "keywords": ["fork", "and", "knife", "with", "plate", "object", "food"]
+  },
+  {
+    "title": "Soccer",
+    "symbol": "⚽",
+    "keywords": ["soccer", "ball", "game", "sport", "football"]
+  },
+  {
+    "title": "Basketball",
+    "symbol": "🏀",
+    "keywords": ["basketball", "and", "hoop", "game", "ball", "sport"]
+  },
+  {
+    "title": "Football",
+    "symbol": "🏈",
+    "keywords": ["american", "football", "america", "game", "ball", "sport"]
+  },
+  {
+    "title": "Baseball",
+    "symbol": "⚾",
+    "keywords": ["baseball", "game", "ball", "sport"]
+  },
+  {
+    "title": "Tennis",
+    "symbol": "🎾",
+    "keywords": ["tennis", "racquet", "and", "ball", "game", "sport"]
+  },
+  {
+    "title": "Volleyball",
+    "symbol": "🏐",
+    "keywords": ["volleyball", "game", "ball", "sport"]
+  },
+  {
+    "title": "Rugby Football",
+    "symbol": "🏉",
+    "keywords": ["rugby", "football", "game", "sport"]
+  },
+  {
+    "title": "8ball",
+    "symbol": "🎱",
+    "keywords": ["billiards", "game", "ball", "sport", "luck", "boys", "night"]
+  },
+  {
+    "title": "Golf",
+    "symbol": "⛳",
+    "keywords": [
+      "flag",
+      "in",
+      "hole",
+      "game",
+      "ball",
+      "vacation",
+      "sport",
+      "golf"
+    ]
+  },
+  {
+    "title": "Golfer",
+    "symbol": "🏌",
+    "keywords": ["golfer", "men", "game", "ball", "vacation", "sport", "golf"]
+  },
+  {
+    "title": "Ping Pong",
+    "symbol": "🏓",
+    "keywords": [
+      "table",
+      "tennis",
+      "paddle",
+      "and",
+      "ball",
+      "game",
+      "sport",
+      "ping",
+      "pong"
+    ]
+  },
+  {
+    "title": "Badminton",
+    "symbol": "🏸",
+    "keywords": ["badminton", "racquet", "game", "sport"]
+  },
+  {
+    "title": "Hockey",
+    "symbol": "🏒",
+    "keywords": ["ice", "hockey", "stick", "and", "puck", "game", "sport"]
+  },
+  {
+    "title": "Field Hockey",
+    "symbol": "🏑",
+    "keywords": ["field", "hockey", "stick", "and", "ball", "sport"]
+  },
+  {
+    "title": "Cricket",
+    "symbol": "🏏",
+    "keywords": ["cricket", "bat", "and", "ball", "sport"]
+  },
+  {
+    "title": "Ski",
+    "symbol": "🎿",
+    "keywords": ["ski", "and", "boot", "cold", "sport", "skiing"]
+  },
+  {
+    "title": "Skier",
+    "symbol": "⛷",
+    "keywords": ["skier", "hat", "vacation", "cold", "sport", "skiing"]
+  },
+  {
+    "title": "Snowboarder",
+    "symbol": "🏂",
+    "keywords": [
+      "snowboarder",
+      "hat",
+      "vacation",
+      "cold",
+      "sport",
+      "snowboarding"
+    ]
+  },
+  {
+    "title": "Ice Skate",
+    "symbol": "⛸",
+    "keywords": ["ice", "skate", "cold", "sport", "skating"]
+  },
+  {
+    "title": "Bow And Arrow",
+    "symbol": "🏹",
+    "keywords": ["bow", "and", "arrow", "weapon", "sport"]
+  },
+  {
+    "title": "Fishing Pole And Fish",
+    "symbol": "🎣",
+    "keywords": ["fishing", "pole", "and", "fish", "vacation", "sport"]
+  },
+  {
+    "title": "Rowboat",
+    "symbol": "🚣",
+    "keywords": ["rowboat", "men", "workout", "sport", "rowing", "diversity"]
+  },
+  {
+    "title": "Swimmer",
+    "symbol": "🏊",
+    "keywords": ["swimmer", "workout", "sport", "swim", "diversity"]
+  },
+  {
+    "title": "Surfer",
+    "symbol": "🏄",
+    "keywords": ["surfer", "men", "vacation", "tropical", "sport", "diversity"]
+  },
+  {
+    "title": "Bath",
+    "symbol": "🛀",
+    "keywords": ["bath", "bathroom", "tired", "diversity", "steam"]
+  },
+  {
+    "title": "Basketball Player",
+    "symbol": "⛹",
+    "keywords": [
+      "person",
+      "with",
+      "ball",
+      "men",
+      "game",
+      "sport",
+      "basketball",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Lifter",
+    "symbol": "🏋",
+    "keywords": [
+      "weight",
+      "lifter",
+      "men",
+      "workout",
+      "flex",
+      "sport",
+      "lifting",
+      "win",
+      "diversity"
+    ]
+  },
+  {
+    "title": "Bicyclist",
+    "symbol": "🚴",
+    "keywords": ["bicyclist", "men", "workout", "sport", "bike", "diversity"]
+  },
+  {
+    "title": "Mountain Bicyclist",
+    "symbol": "🚵",
+    "keywords": ["mountain", "bicyclist", "men", "sport", "bike", "diversity"]
+  },
+  {
+    "title": "Horse Racing",
+    "symbol": "🏇",
+    "keywords": ["horse", "racing", "men", "sport"]
+  },
+  {
+    "title": "Levitate",
+    "symbol": "🕴",
+    "keywords": ["man", "in", "business", "suit", "levitating", "men", "job"]
+  },
+  {
+    "title": "Trophy",
+    "symbol": "🏆",
+    "keywords": [
+      "trophy",
+      "object",
+      "game",
+      "award",
+      "win",
+      "perfect",
+      "parties"
+    ]
+  },
+  {
+    "title": "Running Shirt With Sash",
+    "symbol": "🎽",
+    "keywords": ["running", "shirt", "with", "sash", "award"]
+  },
+  {
+    "title": "Medal",
+    "symbol": "🏅",
+    "keywords": [
+      "sports",
+      "medal",
+      "object",
+      "award",
+      "sport",
+      "win",
+      "perfect"
+    ]
+  },
+  {
+    "title": "Military Medal",
+    "symbol": "🎖",
+    "keywords": ["military", "medal", "object", "award", "win"]
+  },
+  {
+    "title": "Reminder Ribbon",
+    "symbol": "🎗",
+    "keywords": ["reminder", "ribbon", "award"]
+  },
+  {
+    "title": "Rosette",
+    "symbol": "🏵",
+    "keywords": ["rosette", "tropical"]
+  },
+  {
+    "title": "Ticket",
+    "symbol": "🎫",
+    "keywords": ["ticket", "theatre", "movie", "parties"]
+  },
+  {
+    "title": "Tickets",
+    "symbol": "🎟",
+    "keywords": ["admission", "tickets", "theatre", "movie", "parties"]
+  },
+  {
+    "title": "Performing Arts",
+    "symbol": "🎭",
+    "keywords": ["performing", "arts", "theatre", "movie"]
+  },
+  {
+    "title": "Art",
+    "symbol": "🎨",
+    "keywords": ["artist", "palette"]
+  },
+  {
+    "title": "Circus Tent",
+    "symbol": "🎪",
+    "keywords": ["circus", "tent"]
+  },
+  {
+    "title": "Microphone",
+    "symbol": "🎤",
+    "keywords": ["microphone", "instruments"]
+  },
+  {
+    "title": "Headphones",
+    "symbol": "🎧",
+    "keywords": ["headphone", "instruments"]
+  },
+  {
+    "title": "Musical Score",
+    "symbol": "🎼",
+    "keywords": ["musical", "score", "instruments"]
+  },
+  {
+    "title": "Musical Keyboard",
+    "symbol": "🎹",
+    "keywords": ["piano", "musical", "keyboard", "instruments"]
+  },
+  {
+    "title": "Saxophone",
+    "symbol": "🎷",
+    "keywords": ["saxophone", "instruments"]
+  },
+  {
+    "title": "Trumpet",
+    "symbol": "🎺",
+    "keywords": ["trumpet", "instruments"]
+  },
+  {
+    "title": "Guitar",
+    "symbol": "🎸",
+    "keywords": ["guitar", "instruments"]
+  },
+  {
+    "title": "Violin",
+    "symbol": "🎻",
+    "keywords": ["violin", "instruments", "sarcastic"]
+  },
+  {
+    "title": "Clapper",
+    "symbol": "🎬",
+    "keywords": ["clapper", "board", "movie"]
+  },
+  {
+    "title": "Video Game",
+    "symbol": "🎮",
+    "keywords": ["video", "game", "electronics", "boys", "night"]
+  },
+  {
+    "title": "Space Invader",
+    "symbol": "👾",
+    "keywords": ["alien", "monster"]
+  },
+  {
+    "title": "Dart",
+    "symbol": "🎯",
+    "keywords": ["direct", "hit", "game", "sport", "boys", "night"]
+  },
+  {
+    "title": "Game Die",
+    "symbol": "🎲",
+    "keywords": ["game", "die", "object", "boys", "night"]
+  },
+  {
+    "title": "Slot Machine",
+    "symbol": "🎰",
+    "keywords": ["slot", "machine", "game", "boys", "night"]
+  },
+  {
+    "title": "Bowling",
+    "symbol": "🎳",
+    "keywords": ["bowling", "game", "ball", "sport", "boys", "night"]
+  },
+  {
+    "title": "Red Car",
+    "symbol": "🚗",
+    "keywords": ["automobile", "transportation", "car", "travel"]
+  },
+  {
+    "title": "Taxi",
+    "symbol": "🚕",
+    "keywords": ["taxi", "transportation", "car", "travel"]
+  },
+  {
+    "title": "Blue Car",
+    "symbol": "🚙",
+    "keywords": ["recreational", "vehicle", "transportation", "car", "travel"]
+  },
+  {
+    "title": "Bus",
+    "symbol": "🚌",
+    "keywords": ["bus", "transportation", "office"]
+  },
+  {
+    "title": "Trolleybus",
+    "symbol": "🚎",
+    "keywords": ["trolleybus", "transportation", "bus", "travel"]
+  },
+  {
+    "title": "Race Car",
+    "symbol": "🏎",
+    "keywords": ["racing", "car", "transportation"]
+  },
+  {
+    "title": "Police Car",
+    "symbol": "🚓",
+    "keywords": ["police", "car", "transportation", "911"]
+  },
+  {
+    "title": "Ambulance",
+    "symbol": "🚑",
+    "keywords": ["ambulance", "transportation", "911"]
+  },
+  {
+    "title": "Fire Engine",
+    "symbol": "🚒",
+    "keywords": ["fire", "engine", "transportation", "truck", "911"]
+  },
+  {
+    "title": "Minibus",
+    "symbol": "🚐",
+    "keywords": ["minibus", "transportation", "bus"]
+  },
+  {
+    "title": "Truck",
+    "symbol": "🚚",
+    "keywords": ["delivery", "truck", "transportation"]
+  },
+  {
+    "title": "Articulated Lorry",
+    "symbol": "🚛",
+    "keywords": ["articulated", "lorry", "transportation", "truck"]
+  },
+  {
+    "title": "Tractor",
+    "symbol": "🚜",
+    "keywords": ["tractor", "transportation"]
+  },
+  {
+    "title": "Motorcycle",
+    "symbol": "🏍",
+    "keywords": ["racing", "motorcycle", "transportation", "travel", "bike"]
+  },
+  {
+    "title": "Bike",
+    "symbol": "🚲",
+    "keywords": ["bicycle", "transportation", "travel", "bike"]
+  },
+  {
+    "title": "Rotating Light",
+    "symbol": "🚨",
+    "keywords": [
+      "police",
+      "cars",
+      "revolving",
+      "light",
+      "transportation",
+      "object",
+      "911"
+    ]
+  },
+  {
+    "title": "Oncoming Police Car",
+    "symbol": "🚔",
+    "keywords": ["oncoming", "police", "car", "transportation", "911"]
+  },
+  {
+    "title": "Oncoming Bus",
+    "symbol": "🚍",
+    "keywords": ["oncoming", "bus", "transportation", "travel"]
+  },
+  {
+    "title": "Oncoming Automobile",
+    "symbol": "🚘",
+    "keywords": ["oncoming", "automobile", "transportation", "car", "travel"]
+  },
+  {
+    "title": "Oncoming Taxi",
+    "symbol": "🚖",
+    "keywords": ["oncoming", "taxi", "transportation", "car", "travel"]
+  },
+  {
+    "title": "Aerial Tramway",
+    "symbol": "🚡",
+    "keywords": ["aerial", "tramway", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Mountain Cableway",
+    "symbol": "🚠",
+    "keywords": ["mountain", "cableway", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Suspension Railway",
+    "symbol": "🚟",
+    "keywords": ["suspension", "railway", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Railway Car",
+    "symbol": "🚃",
+    "keywords": ["railway", "car", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Train",
+    "symbol": "🚋",
+    "keywords": ["tram", "car", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Monorail",
+    "symbol": "🚝",
+    "keywords": ["monorail", "transportation", "travel", "train", "vacation"]
+  },
+  {
+    "title": "Bullettrain Side",
+    "symbol": "🚄",
+    "keywords": ["high-speed", "train", "transportation", "travel"]
+  },
+  {
+    "title": "Bullettrain Front",
+    "symbol": "🚅",
+    "keywords": [
+      "high-speed",
+      "train",
+      "with",
+      "bullet",
+      "nose",
+      "transportation",
+      "travel"
+    ]
+  },
+  {
+    "title": "Light Rail",
+    "symbol": "🚈",
+    "keywords": ["light", "rail", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Mountain Railway",
+    "symbol": "🚞",
+    "keywords": ["mountain", "railway", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Steam Locomotive",
+    "symbol": "🚂",
+    "keywords": ["steam", "locomotive", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Train2",
+    "symbol": "🚆",
+    "keywords": ["train", "transportation", "travel"]
+  },
+  {
+    "title": "Metro",
+    "symbol": "🚇",
+    "keywords": ["metro", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Tram",
+    "symbol": "🚊",
+    "keywords": ["tram", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Station",
+    "symbol": "🚉",
+    "keywords": ["station", "transportation", "travel", "train"]
+  },
+  {
+    "title": "Helicopter",
+    "symbol": "🚁",
+    "keywords": ["helicopter", "transportation", "plane", "travel", "fly"]
+  },
+  {
+    "title": "Airplane Small",
+    "symbol": "🛩",
+    "keywords": [
+      "small",
+      "airplane",
+      "transportation",
+      "plane",
+      "travel",
+      "vacation",
+      "fly"
+    ]
+  },
+  {
+    "title": "Airplane Departure",
+    "symbol": "🛫",
+    "keywords": [
+      "airplane",
+      "departure",
+      "transportation",
+      "plane",
+      "travel",
+      "vacation",
+      "fly"
+    ]
+  },
+  {
+    "title": "Airplane Arriving",
+    "symbol": "🛬",
+    "keywords": [
+      "airplane",
+      "arriving",
+      "transportation",
+      "plane",
+      "travel",
+      "vacation",
+      "fly"
+    ]
+  },
+  {
+    "title": "Sailboat",
+    "symbol": "⛵",
+    "keywords": ["sailboat", "transportation", "travel", "boat", "vacation"]
+  },
+  {
+    "title": "Motorboat",
+    "symbol": "🛥",
+    "keywords": ["motorboat", "transportation", "travel", "boat"]
+  },
+  {
+    "title": "Speedboat",
+    "symbol": "🚤",
+    "keywords": [
+      "speedboat",
+      "transportation",
+      "travel",
+      "boat",
+      "vacation",
+      "tropical"
+    ]
+  },
+  {
+    "title": "Ferry",
+    "symbol": "⛴",
+    "keywords": ["ferry", "transportation", "travel", "boat", "vacation"]
+  },
+  {
+    "title": "Cruise Ship",
+    "symbol": "🛳",
+    "keywords": [
+      "passenger",
+      "ship",
+      "transportation",
+      "travel",
+      "boat",
+      "vacation"
+    ]
+  },
+  {
+    "title": "Rocket",
+    "symbol": "🚀",
+    "keywords": ["rocket", "transportation", "object", "space", "fly", "blast"]
+  },
+  {
+    "title": "Satellite Orbital",
+    "symbol": "🛰",
+    "keywords": ["satellite", "object"]
+  },
+  {
+    "title": "Seat",
+    "symbol": "💺",
+    "keywords": ["seat", "transportation", "object", "travel", "vacation"]
+  },
+  {
+    "title": "Anchor",
+    "symbol": "⚓",
+    "keywords": ["anchor", "object", "travel", "boat", "vacation"]
+  },
+  {
+    "title": "Construction",
+    "symbol": "🚧",
+    "keywords": ["construction", "sign", "object"]
+  },
+  {
+    "title": "Fuelpump",
+    "symbol": "⛽",
+    "keywords": ["fuel", "pump", "object", "gas"]
+  },
+  {
+    "title": "Busstop",
+    "symbol": "🚏",
+    "keywords": ["bus", "stop", "object"]
+  },
+  {
+    "title": "Vertical Traffic Light",
+    "symbol": "🚦",
+    "keywords": ["vertical", "traffic", "light", "object", "stop"]
+  },
+  {
+    "title": "Traffic Light",
+    "symbol": "🚥",
+    "keywords": ["horizontal", "traffic", "light", "object", "stop"]
+  },
+  {
+    "title": "Checkered Flag",
+    "symbol": "🏁",
+    "keywords": ["chequered", "flag", "object"]
+  },
+  {
+    "title": "Ship",
+    "symbol": "🚢",
+    "keywords": ["ship", "transportation", "travel", "boat", "vacation"]
+  },
+  {
+    "title": "Ferris Wheel",
+    "symbol": "🎡",
+    "keywords": ["ferris", "wheel", "places", "vacation"]
+  },
+  {
+    "title": "Roller Coaster",
+    "symbol": "🎢",
+    "keywords": ["roller", "coaster", "places", "vacation"]
+  },
+  {
+    "title": "Carousel Horse",
+    "symbol": "🎠",
+    "keywords": [
+      "carousel",
+      "horse",
+      "places",
+      "object",
+      "vacation",
+      "roller",
+      "coaster"
+    ]
+  },
+  {
+    "title": "Construction Site",
+    "symbol": "🏗",
+    "keywords": ["building", "construction", "crane"]
+  },
+  {
+    "title": "Foggy",
+    "symbol": "🌁",
+    "keywords": ["foggy", "places", "building", "sky", "travel", "vacation"]
+  },
+  {
+    "title": "Tokyo Tower",
+    "symbol": "🗼",
+    "keywords": ["tokyo", "tower", "places", "travel", "vacation", "eiffel"]
+  },
+  {
+    "title": "Factory",
+    "symbol": "🏭",
+    "keywords": ["factory", "places", "building", "travel", "steam"]
+  },
+  {
+    "title": "Fountain",
+    "symbol": "⛲",
+    "keywords": ["fountain", "travel", "vacation"]
+  },
+  {
+    "title": "Rice Scene",
+    "symbol": "🎑",
+    "keywords": [
+      "moon",
+      "viewing",
+      "ceremony",
+      "places",
+      "space",
+      "sky",
+      "travel"
+    ]
+  },
+  {
+    "title": "Mountain",
+    "symbol": "⛰",
+    "keywords": ["mountain", "places", "travel", "vacation", "camp"]
+  },
+  {
+    "title": "Mountain Snow",
+    "symbol": "🏔",
+    "keywords": [
+      "snow",
+      "capped",
+      "mountain",
+      "places",
+      "travel",
+      "vacation",
+      "cold",
+      "camp"
+    ]
+  },
+  {
+    "title": "Mount Fuji",
+    "symbol": "🗻",
+    "keywords": [
+      "mount",
+      "fuji",
+      "places",
+      "travel",
+      "vacation",
+      "cold",
+      "camp"
+    ]
+  },
+  {
+    "title": "Volcano",
+    "symbol": "🌋",
+    "keywords": ["volcano", "places", "tropical"]
+  },
+  {
+    "title": "Japan",
+    "symbol": "🗾",
+    "keywords": [
+      "silhouette",
+      "of",
+      "japan",
+      "places",
+      "travel",
+      "map",
+      "vacation",
+      "tropical"
+    ]
+  },
+  {
+    "title": "Camping",
+    "symbol": "🏕",
+    "keywords": ["camping", "places", "travel", "vacation", "camp"]
+  },
+  {
+    "title": "Tent",
+    "symbol": "⛺",
+    "keywords": ["tent", "places", "travel", "vacation", "camp"]
+  },
+  {
+    "title": "Park",
+    "symbol": "🏞",
+    "keywords": ["national", "park", "travel", "vacation", "camp"]
+  },
+  {
+    "title": "Motorway",
+    "symbol": "🛣",
+    "keywords": ["motorway", "travel", "vacation", "camp"]
+  },
+  {
+    "title": "Railway Track",
+    "symbol": "🛤",
+    "keywords": ["railway", "track", "travel", "train", "vacation"]
+  },
+  {
+    "title": "Sunrise",
+    "symbol": "🌅",
+    "keywords": [
+      "sunrise",
+      "places",
+      "sky",
+      "travel",
+      "vacation",
+      "tropical",
+      "day",
+      "sun",
+      "hump",
+      "morning"
+    ]
+  },
+  {
+    "title": "Sunrise Over Mountains",
+    "symbol": "🌄",
+    "keywords": [
+      "sunrise",
+      "over",
+      "mountains",
+      "places",
+      "sky",
+      "travel",
+      "vacation",
+      "day",
+      "sun",
+      "camp",
+      "morning"
+    ]
+  },
+  {
+    "title": "Desert",
+    "symbol": "🏜",
+    "keywords": ["desert", "places", "travel", "vacation", "hot"]
+  },
+  {
+    "title": "Beach",
+    "symbol": "🏖",
+    "keywords": [
+      "beach",
+      "with",
+      "umbrella",
+      "places",
+      "travel",
+      "vacation",
+      "tropical",
+      "swim"
+    ]
+  },
+  {
+    "title": "Island",
+    "symbol": "🏝",
+    "keywords": [
+      "desert",
+      "island",
+      "places",
+      "travel",
+      "vacation",
+      "tropical",
+      "beach",
+      "swim"
+    ]
+  },
+  {
+    "title": "City Sunset",
+    "symbol": "🌇",
+    "keywords": [
+      "sunset",
+      "over",
+      "buildings",
+      "places",
+      "building",
+      "sky",
+      "vacation"
+    ]
+  },
+  {
+    "title": "City Dusk",
+    "symbol": "🌆",
+    "keywords": ["cityscape", "at", "dusk", "places", "building"]
+  },
+  {
+    "title": "Cityscape",
+    "symbol": "🏙",
+    "keywords": ["cityscape", "places", "building", "vacation"]
+  },
+  {
+    "title": "Night With Stars",
+    "symbol": "🌃",
+    "keywords": [
+      "night",
+      "with",
+      "stars",
+      "places",
+      "building",
+      "sky",
+      "vacation",
+      "goodnight"
+    ]
+  },
+  {
+    "title": "Bridge At Night",
+    "symbol": "🌉",
+    "keywords": [
+      "bridge",
+      "at",
+      "night",
+      "places",
+      "travel",
+      "vacation",
+      "goodnight"
+    ]
+  },
+  {
+    "title": "Milky Way",
+    "symbol": "🌌",
+    "keywords": ["milky", "way", "places", "space", "sky", "travel", "vacation"]
+  },
+  {
+    "title": "Stars",
+    "symbol": "🌠",
+    "keywords": ["shooting", "star", "space"]
+  },
+  {
+    "title": "Sparkler",
+    "symbol": "🎇",
+    "keywords": ["firework", "sparkler", "parties"]
+  },
+  {
+    "title": "Fireworks",
+    "symbol": "🎆",
+    "keywords": ["fireworks", "parties"]
+  },
+  {
+    "title": "Rainbow",
+    "symbol": "🌈",
+    "keywords": ["rainbow", "weather", "gay", "sky", "rain"]
+  },
+  {
+    "title": "Homes",
+    "symbol": "🏘",
+    "keywords": ["house", "buildings", "places", "building"]
+  },
+  {
+    "title": "European Castle",
+    "symbol": "🏰",
+    "keywords": [
+      "european",
+      "castle",
+      "places",
+      "building",
+      "travel",
+      "vacation"
+    ]
+  },
+  {
+    "title": "Japanese Castle",
+    "symbol": "🏯",
+    "keywords": [
+      "japanese",
+      "castle",
+      "places",
+      "building",
+      "travel",
+      "vacation"
+    ]
+  },
+  {
+    "title": "Stadium",
+    "symbol": "🏟",
+    "keywords": [
+      "stadium",
+      "places",
+      "building",
+      "travel",
+      "vacation",
+      "boys",
+      "night"
+    ]
+  },
+  {
+    "title": "Statue Of Liberty",
+    "symbol": "🗽",
+    "keywords": [
+      "statue",
+      "of",
+      "liberty",
+      "places",
+      "america",
+      "travel",
+      "vacation",
+      "free",
+      "speech"
+    ]
+  },
+  {
+    "title": "House",
+    "symbol": "🏠",
+    "keywords": ["house", "building", "places"]
+  },
+  {
+    "title": "House With Garden",
+    "symbol": "🏡",
+    "keywords": ["house", "with", "garden", "places", "building"]
+  },
+  {
+    "title": "House Abandoned",
+    "symbol": "🏚",
+    "keywords": ["derelict", "house", "building", "places"]
+  },
+  {
+    "title": "Office",
+    "symbol": "🏢",
+    "keywords": ["office", "building", "places", "work"]
+  },
+  {
+    "title": "Department Store",
+    "symbol": "🏬",
+    "keywords": ["department", "store", "places", "building"]
+  },
+  {
+    "title": "Post Office",
+    "symbol": "🏣",
+    "keywords": ["japanese", "post", "office", "places", "building"]
+  },
+  {
+    "title": "European Post Office",
+    "symbol": "🏤",
+    "keywords": ["european", "post", "office", "places", "building"]
+  },
+  {
+    "title": "Hospital",
+    "symbol": "🏥",
+    "keywords": ["hospital", "places", "building", "health", "911"]
+  },
+  {
+    "title": "Bank",
+    "symbol": "🏦",
+    "keywords": ["bank", "places", "building"]
+  },
+  {
+    "title": "Hotel",
+    "symbol": "🏨",
+    "keywords": ["hotel", "places", "building", "vacation"]
+  },
+  {
+    "title": "Convenience Store",
+    "symbol": "🏪",
+    "keywords": ["convenience", "store", "places", "building"]
+  },
+  {
+    "title": "School",
+    "symbol": "🏫",
+    "keywords": ["school", "places", "building"]
+  },
+  {
+    "title": "Love Hotel",
+    "symbol": "🏩",
+    "keywords": ["love", "hotel", "places", "building"]
+  },
+  {
+    "title": "Wedding",
+    "symbol": "💒",
+    "keywords": ["wedding", "places", "building", "love", "parties"]
+  },
+  {
+    "title": "Classical Building",
+    "symbol": "🏛",
+    "keywords": ["classical", "building", "places", "travel", "vacation"]
+  },
+  {
+    "title": "Church",
+    "symbol": "⛪",
+    "keywords": [
+      "church",
+      "places",
+      "wedding",
+      "religion",
+      "building",
+      "condolence"
+    ]
+  },
+  {
+    "title": "Mosque",
+    "symbol": "🕌",
+    "keywords": [
+      "mosque",
+      "places",
+      "religion",
+      "building",
+      "vacation",
+      "condolence"
+    ]
+  },
+  {
+    "title": "Synagogue",
+    "symbol": "🕍",
+    "keywords": [
+      "synagogue",
+      "places",
+      "religion",
+      "building",
+      "travel",
+      "vacation",
+      "condolence"
+    ]
+  },
+  {
+    "title": "Kaaba",
+    "symbol": "🕋",
+    "keywords": ["kaaba", "places", "religion", "building", "condolence"]
+  },
+  {
+    "title": "Shinto Shrine",
+    "symbol": "⛩",
+    "keywords": ["shinto", "shrine", "places", "building", "travel", "vacation"]
+  },
+  {
+    "title": "Watch",
+    "symbol": "⌚",
+    "keywords": ["watch", "electronics", "time"]
+  },
+  {
+    "title": "Iphone",
+    "symbol": "📱",
+    "keywords": ["mobile", "phone", "electronics", "selfie"]
+  },
+  {
+    "title": "Calling",
+    "symbol": "📲",
+    "keywords": [
+      "mobile",
+      "phone",
+      "with",
+      "rightwards",
+      "arrow",
+      "at",
+      "left",
+      "electronics",
+      "selfie"
+    ]
+  },
+  {
+    "title": "Computer",
+    "symbol": "💻",
+    "keywords": ["personal", "computer", "electronics", "work", "office"]
+  },
+  {
+    "title": "Keyboard",
+    "symbol": "⌨",
+    "keywords": ["keyboard", "electronics", "work", "office"]
+  },
+  {
+    "title": "Desktop",
+    "symbol": "🖥",
+    "keywords": ["desktop", "computer", "electronics", "work"]
+  },
+  {
+    "title": "Printer",
+    "symbol": "🖨",
+    "keywords": ["printer", "electronics", "work", "office"]
+  },
+  {
+    "title": "Mouse Three Button",
+    "symbol": "🖱",
+    "keywords": [
+      "three",
+      "button",
+      "mouse",
+      "electronics",
+      "work",
+      "game",
+      "office"
+    ]
+  },
+  {
+    "title": "Trackball",
+    "symbol": "🖲",
+    "keywords": ["trackball", "electronics", "work", "game", "office"]
+  },
+  {
+    "title": "Joystick",
+    "symbol": "🕹",
+    "keywords": ["joystick", "electronics", "game", "boys", "night"]
+  },
+  {
+    "title": "Compression",
+    "symbol": "🗜",
+    "keywords": ["compression"]
+  },
+  {
+    "title": "Minidisc",
+    "symbol": "💽",
+    "keywords": ["minidisc", "electronics"]
+  },
+  {
+    "title": "Floppy Disk",
+    "symbol": "💾",
+    "keywords": ["floppy", "disk", "electronics", "office"]
+  },
+  {
+    "title": "Cd",
+    "symbol": "💿",
+    "keywords": ["optical", "disc", "electronics"]
+  },
+  {
+    "title": "Dvd",
+    "symbol": "📀",
+    "keywords": ["dvd", "electronics"]
+  },
+  {
+    "title": "Vhs",
+    "symbol": "📼",
+    "keywords": ["videocassette", "electronics"]
+  },
+  {
+    "title": "Camera",
+    "symbol": "📷",
+    "keywords": ["camera", "electronics", "selfie"]
+  },
+  {
+    "title": "Camera With Flash",
+    "symbol": "📸",
+    "keywords": ["camera", "with", "flash", "electronics"]
+  },
+  {
+    "title": "Video Camera",
+    "symbol": "📹",
+    "keywords": ["video", "camera", "electronics", "movie"]
+  },
+  {
+    "title": "Movie Camera",
+    "symbol": "🎥",
+    "keywords": ["movie", "camera", "object"]
+  },
+  {
+    "title": "Projector",
+    "symbol": "📽",
+    "keywords": ["film", "projector", "object", "camera", "movie"]
+  },
+  {
+    "title": "Film Frames",
+    "symbol": "🎞",
+    "keywords": ["film", "frames", "object", "camera", "movie"]
+  },
+  {
+    "title": "Telephone Receiver",
+    "symbol": "📞",
+    "keywords": ["telephone", "receiver", "electronics", "phone"]
+  },
+  {
+    "title": "Telephone",
+    "symbol": "☎",
+    "keywords": ["black", "telephone", "electronics", "phone"]
+  },
+  {
+    "title": "Pager",
+    "symbol": "📟",
+    "keywords": ["pager", "electronics", "work"]
+  },
+  {
+    "title": "Fax",
+    "symbol": "📠",
+    "keywords": ["fax", "machine", "electronics", "work", "office"]
+  },
+  {
+    "title": "Tv",
+    "symbol": "📺",
+    "keywords": ["television", "electronics"]
+  },
+  {
+    "title": "Radio",
+    "symbol": "📻",
+    "keywords": ["radio", "electronics"]
+  },
+  {
+    "title": "Microphone2",
+    "symbol": "🎙",
+    "keywords": ["studio", "microphone", "electronics", "object"]
+  },
+  {
+    "title": "Level Slider",
+    "symbol": "🎚",
+    "keywords": ["level", "slider"]
+  },
+  {
+    "title": "Control Knobs",
+    "symbol": "🎛",
+    "keywords": ["control", "knobs", "time"]
+  },
+  {
+    "title": "Stopwatch",
+    "symbol": "⏱",
+    "keywords": ["stopwatch", "electronics", "time"]
+  },
+  {
+    "title": "Timer",
+    "symbol": "⏲",
+    "keywords": ["timer", "clock", "object", "time"]
+  },
+  {
+    "title": "Alarm Clock",
+    "symbol": "⏰",
+    "keywords": ["alarm", "clock", "object", "time"]
+  },
+  {
+    "title": "Clock",
+    "symbol": "🕰",
+    "keywords": ["mantlepiece", "clock", "object", "time"]
+  },
+  {
+    "title": "Hourglass Flowing Sand",
+    "symbol": "⏳",
+    "keywords": ["hourglass", "with", "flowing", "sand", "object", "time"]
+  },
+  {
+    "title": "Hourglass",
+    "symbol": "⌛",
+    "keywords": ["hourglass", "object", "time"]
+  },
+  {
+    "title": "Satellite",
+    "symbol": "📡",
+    "keywords": ["satellite", "antenna", "object"]
+  },
+  {
+    "title": "Battery",
+    "symbol": "🔋",
+    "keywords": ["battery", "object"]
+  },
+  {
+    "title": "Electric Plug",
+    "symbol": "🔌",
+    "keywords": ["electric", "plug", "electronics"]
+  },
+  {
+    "title": "Bulb",
+    "symbol": "💡",
+    "keywords": ["electric", "light", "bulb", "object", "science"]
+  },
+  {
+    "title": "Flashlight",
+    "symbol": "🔦",
+    "keywords": ["electric", "torch", "electronics", "object"]
+  },
+  {
+    "title": "Candle",
+    "symbol": "🕯",
+    "keywords": ["candle", "object"]
+  },
+  {
+    "title": "Wastebasket",
+    "symbol": "🗑",
+    "keywords": ["wastebasket", "object", "work"]
+  },
+  {
+    "title": "Oil",
+    "symbol": "🛢",
+    "keywords": ["oil", "drum", "object"]
+  },
+  {
+    "title": "Money With Wings",
+    "symbol": "💸",
+    "keywords": ["money", "with", "wings", "boys", "night"]
+  },
+  {
+    "title": "Dollar",
+    "symbol": "💵",
+    "keywords": ["banknote", "with", "dollar", "sign", "money"]
+  },
+  {
+    "title": "Yen",
+    "symbol": "💴",
+    "keywords": ["banknote", "with", "yen", "sign", "money"]
+  },
+  {
+    "title": "Euro",
+    "symbol": "💶",
+    "keywords": ["banknote", "with", "euro", "sign", "money"]
+  },
+  {
+    "title": "Pound",
+    "symbol": "💷",
+    "keywords": ["banknote", "with", "pound", "sign", "money"]
+  },
+  {
+    "title": "Moneybag",
+    "symbol": "💰",
+    "keywords": ["money", "bag", "award"]
+  },
+  {
+    "title": "Credit Card",
+    "symbol": "💳",
+    "keywords": ["credit", "card", "object", "money", "boys", "night"]
+  },
+  {
+    "title": "Gem",
+    "symbol": "💎",
+    "keywords": ["gem", "stone", "object"]
+  },
+  {
+    "title": "Scales",
+    "symbol": "⚖",
+    "keywords": ["scales", "object"]
+  },
+  {
+    "title": "Wrench",
+    "symbol": "🔧",
+    "keywords": ["wrench", "object", "tool"]
+  },
+  {
+    "title": "Hammer",
+    "symbol": "🔨",
+    "keywords": ["hammer", "object", "tool", "weapon"]
+  },
+  {
+    "title": "Hammer Pick",
+    "symbol": "⚒",
+    "keywords": ["hammer", "and", "pick", "object", "tool", "weapon"]
+  },
+  {
+    "title": "Tools",
+    "symbol": "🛠",
+    "keywords": ["hammer", "and", "wrench", "object", "tool"]
+  },
+  {
+    "title": "Pick",
+    "symbol": "⛏",
+    "keywords": ["pick", "object", "tool", "weapon"]
+  },
+  {
+    "title": "Nut And Bolt",
+    "symbol": "🔩",
+    "keywords": ["nut", "and", "bolt", "object", "tool", "nutcase"]
+  },
+  {
+    "title": "Gear",
+    "symbol": "⚙",
+    "keywords": ["gear", "object", "tool"]
+  },
+  {
+    "title": "Chains",
+    "symbol": "⛓",
+    "keywords": ["chains", "object", "tool"]
+  },
+  {
+    "title": "Gun",
+    "symbol": "🔫",
+    "keywords": ["pistol", "object", "weapon", "dead", "gun", "sarcastic"]
+  },
+  {
+    "title": "Bomb",
+    "symbol": "💣",
+    "keywords": ["bomb", "object", "weapon", "dead", "blast"]
+  },
+  {
+    "title": "Knife",
+    "symbol": "🔪",
+    "keywords": ["hocho", "object", "weapon"]
+  },
+  {
+    "title": "Dagger",
+    "symbol": "🗡",
+    "keywords": ["dagger", "knife", "object", "weapon"]
+  },
+  {
+    "title": "Crossed Swords",
+    "symbol": "⚔",
+    "keywords": ["crossed", "swords", "object", "weapon"]
+  },
+  {
+    "title": "Shield",
+    "symbol": "🛡",
+    "keywords": ["shield", "object"]
+  },
+  {
+    "title": "Smoking",
+    "symbol": "🚬",
+    "keywords": ["smoking", "symbol", "drugs"]
+  },
+  {
+    "title": "Skull Crossbones",
+    "symbol": "☠",
+    "keywords": ["skull", "and", "crossbones", "symbol", "dead"]
+  },
+  {
+    "title": "Coffin",
+    "symbol": "⚰",
+    "keywords": ["coffin", "object", "dead", "rip"]
+  },
+  {
+    "title": "Urn",
+    "symbol": "⚱",
+    "keywords": ["funeral", "urn", "object", "dead", "rip"]
+  },
+  {
+    "title": "Amphora",
+    "symbol": "🏺",
+    "keywords": ["amphora", "object"]
+  },
+  {
+    "title": "Crystal Ball",
+    "symbol": "🔮",
+    "keywords": ["crystal", "ball", "object"]
+  },
+  {
+    "title": "Prayer Beads",
+    "symbol": "📿",
+    "keywords": ["prayer", "beads", "object", "rosary"]
+  },
+  {
+    "title": "Barber",
+    "symbol": "💈",
+    "keywords": ["barber", "pole", "object"]
+  },
+  {
+    "title": "Alembic",
+    "symbol": "⚗",
+    "keywords": ["alembic", "object", "science"]
+  },
+  {
+    "title": "Telescope",
+    "symbol": "🔭",
+    "keywords": ["telescope", "object", "space", "science"]
+  },
+  {
+    "title": "Microscope",
+    "symbol": "🔬",
+    "keywords": ["microscope", "object", "science"]
+  },
+  { "title": "Hole", "symbol": "🕳", "keywords": ["hole", "object"] },
+  {
+    "title": "Pill",
+    "symbol": "💊",
+    "keywords": ["pill", "object", "health", "drugs"]
+  },
+  {
+    "title": "Syringe",
+    "symbol": "💉",
+    "keywords": ["syringe", "object", "weapon", "health", "drugs"]
+  },
+  {
+    "title": "Thermometer",
+    "symbol": "🌡",
+    "keywords": ["thermometer", "object", "science", "health", "hot"]
+  },
+  {
+    "title": "Label",
+    "symbol": "🏷",
+    "keywords": ["label", "object"]
+  },
+  {
+    "title": "Bookmark",
+    "symbol": "🔖",
+    "keywords": ["bookmark", "object", "book"]
+  },
+  {
+    "title": "Toilet",
+    "symbol": "🚽",
+    "keywords": ["toilet", "object", "bathroom"]
+  },
+  {
+    "title": "Shower",
+    "symbol": "🚿",
+    "keywords": ["shower", "object", "bathroom"]
+  },
+  {
+    "title": "Bathtub",
+    "symbol": "🛁",
+    "keywords": ["bathtub", "object", "bathroom", "tired", "steam"]
+  },
+  {
+    "title": "Key",
+    "symbol": "🔑",
+    "keywords": ["key", "object", "lock"]
+  },
+  {
+    "title": "Key2",
+    "symbol": "🗝",
+    "keywords": ["old", "key", "object", "lock"]
+  },
+  {
+    "title": "Couch",
+    "symbol": "🛋",
+    "keywords": ["couch", "and", "lamp", "object"]
+  },
+  {
+    "title": "Sleeping Accommodation",
+    "symbol": "🛌",
+    "keywords": ["sleeping", "accommodation", "tired"]
+  },
+  {
+    "title": "Bed",
+    "symbol": "🛏",
+    "keywords": ["bed", "object", "tired"]
+  },
+  { "title": "Door", "symbol": "🚪", "keywords": ["door", "object"] },
+  {
+    "title": "Bellhop",
+    "symbol": "🛎",
+    "keywords": ["bellhop", "bell", "object"]
+  },
+  {
+    "title": "Frame Photo",
+    "symbol": "🖼",
+    "keywords": ["frame", "with", "picture", "travel", "vacation"]
+  },
+  {
+    "title": "Map",
+    "symbol": "🗺",
+    "keywords": ["world", "map", "travel", "vacation"]
+  },
+  {
+    "title": "Beach Umbrella",
+    "symbol": "⛱",
+    "keywords": ["umbrella", "on", "ground", "travel", "vacation", "tropical"]
+  },
+  {
+    "title": "Moyai",
+    "symbol": "🗿",
+    "keywords": ["moyai", "travel", "vacation"]
+  },
+  {
+    "title": "Shopping Bags",
+    "symbol": "🛍",
+    "keywords": ["shopping", "bags", "object", "birthday", "parties"]
+  },
+  {
+    "title": "Balloon",
+    "symbol": "🎈",
+    "keywords": ["balloon", "object", "birthday", "good", "parties"]
+  },
+  {
+    "title": "Flags",
+    "symbol": "🎏",
+    "keywords": ["carp", "streamer", "object", "japan"]
+  },
+  {
+    "title": "Ribbon",
+    "symbol": "🎀",
+    "keywords": ["ribbon", "object", "gift", "birthday"]
+  },
+  {
+    "title": "Gift",
+    "symbol": "🎁",
+    "keywords": [
+      "wrapped",
+      "present",
+      "object",
+      "gift",
+      "birthday",
+      "holidays",
+      "christmas",
+      "parties"
+    ]
+  },
+  {
+    "title": "Confetti Ball",
+    "symbol": "🎊",
+    "keywords": [
+      "confetti",
+      "ball",
+      "object",
+      "birthday",
+      "holidays",
+      "cheers",
+      "girls",
+      "night",
+      "boys",
+      "parties"
+    ]
+  },
+  {
+    "title": "Tada",
+    "symbol": "🎉",
+    "keywords": [
+      "party",
+      "popper",
+      "object",
+      "birthday",
+      "holidays",
+      "cheers",
+      "good",
+      "girls",
+      "night",
+      "boys",
+      "parties"
+    ]
+  },
+  {
+    "title": "Dolls",
+    "symbol": "🎎",
+    "keywords": ["japanese", "dolls", "people", "japan"]
+  },
+  {
+    "title": "Wind Chime",
+    "symbol": "🎐",
+    "keywords": ["wind", "chime", "object", "japan"]
+  },
+  {
+    "title": "Crossed Flags",
+    "symbol": "🎌",
+    "keywords": ["crossed", "flags", "object", "japan"]
+  },
+  {
+    "title": "Izakaya Lantern",
+    "symbol": "🏮",
+    "keywords": ["izakaya", "lantern", "object", "japan"]
+  },
+  {
+    "title": "Envelope",
+    "symbol": "✉",
+    "keywords": ["envelope", "object", "office", "write"]
+  },
+  {
+    "title": "Envelope With Arrow",
+    "symbol": "📩",
+    "keywords": [
+      "envelope",
+      "with",
+      "downwards",
+      "arrow",
+      "above",
+      "object",
+      "office"
+    ]
+  },
+  {
+    "title": "Incoming Envelope",
+    "symbol": "📨",
+    "keywords": ["incoming", "envelope", "object"]
+  },
+  {
+    "title": "E-mail",
+    "symbol": "📧",
+    "keywords": ["e-mail", "symbol", "office"]
+  },
+  {
+    "title": "Love Letter",
+    "symbol": "💌",
+    "keywords": ["love", "letter", "object"]
+  },
+  {
+    "title": "Postbox",
+    "symbol": "📮",
+    "keywords": ["postbox", "object"]
+  },
+  {
+    "title": "Mailbox Closed",
+    "symbol": "📪",
+    "keywords": [
+      "closed",
+      "mailbox",
+      "with",
+      "lowered",
+      "flag",
+      "object",
+      "office"
+    ]
+  },
+  {
+    "title": "Mailbox",
+    "symbol": "📫",
+    "keywords": ["closed", "mailbox", "with", "raised", "flag", "object"]
+  },
+  {
+    "title": "Mailbox With Mail",
+    "symbol": "📬",
+    "keywords": ["open", "mailbox", "with", "raised", "flag", "object"]
+  },
+  {
+    "title": "Mailbox With No Mail",
+    "symbol": "📭",
+    "keywords": ["open", "mailbox", "with", "lowered", "flag", "object"]
+  },
+  {
+    "title": "Package",
+    "symbol": "📦",
+    "keywords": ["package", "object", "gift", "office"]
+  },
+  {
+    "title": "Postal Horn",
+    "symbol": "📯",
+    "keywords": ["postal", "horn", "object"]
+  },
+  {
+    "title": "Inbox Tray",
+    "symbol": "📥",
+    "keywords": ["inbox", "tray", "work", "office"]
+  },
+  {
+    "title": "Outbox Tray",
+    "symbol": "📤",
+    "keywords": ["outbox", "tray", "work", "office"]
+  },
+  {
+    "title": "Scroll",
+    "symbol": "📜",
+    "keywords": ["scroll", "object", "office"]
+  },
+  {
+    "title": "Page With Curl",
+    "symbol": "📃",
+    "keywords": ["page", "with", "curl", "office", "write"]
+  },
+  {
+    "title": "Bookmark Tabs",
+    "symbol": "📑",
+    "keywords": ["bookmark", "tabs", "office", "write"]
+  },
+  {
+    "title": "Bar Chart",
+    "symbol": "📊",
+    "keywords": ["bar", "chart", "work", "office"]
+  },
+  {
+    "title": "Chart With Upwards Trend",
+    "symbol": "📈",
+    "keywords": ["chart", "with", "upwards", "trend", "work", "office"]
+  },
+  {
+    "title": "Chart With Downwards Trend",
+    "symbol": "📉",
+    "keywords": ["chart", "with", "downwards", "trend", "work", "office"]
+  },
+  {
+    "title": "Page Facing Up",
+    "symbol": "📄",
+    "keywords": ["page", "facing", "up", "work", "office", "write"]
+  },
+  {
+    "title": "Date",
+    "symbol": "📅",
+    "keywords": ["calendar", "object", "office"]
+  },
+  {
+    "title": "Calendar",
+    "symbol": "📆",
+    "keywords": ["tear-off", "calendar", "object", "office"]
+  },
+  {
+    "title": "Calendar Spiral",
+    "symbol": "🗓",
+    "keywords": ["spiral", "calendar", "pad", "object", "office"]
+  },
+  {
+    "title": "Card Index",
+    "symbol": "📇",
+    "keywords": ["card", "index", "object", "work", "office"]
+  },
+  {
+    "title": "Card Box",
+    "symbol": "🗃",
+    "keywords": ["card", "file", "box", "object", "work", "office"]
+  },
+  {
+    "title": "Ballot Box",
+    "symbol": "🗳",
+    "keywords": ["ballot", "box", "with", "object", "office"]
+  },
+  {
+    "title": "File Cabinet",
+    "symbol": "🗄",
+    "keywords": ["file", "cabinet", "object", "work", "office"]
+  },
+  {
+    "title": "Clipboard",
+    "symbol": "📋",
+    "keywords": ["clipboard", "object", "work", "office", "write"]
+  },
+  {
+    "title": "Notepad Spiral",
+    "symbol": "🗒",
+    "keywords": ["spiral", "note", "pad", "work", "office", "write"]
+  },
+  {
+    "title": "File Folder",
+    "symbol": "📁",
+    "keywords": ["file", "folder", "work", "office"]
+  },
+  {
+    "title": "Open File Folder",
+    "symbol": "📂",
+    "keywords": ["open", "file", "folder", "work", "office"]
+  },
+  {
+    "title": "Dividers",
+    "symbol": "🗂",
+    "keywords": ["card", "index", "dividers", "work", "office"]
+  },
+  {
+    "title": "Newspaper2",
+    "symbol": "🗞",
+    "keywords": ["rolled-up", "newspaper", "office", "write"]
+  },
+  {
+    "title": "Newspaper",
+    "symbol": "📰",
+    "keywords": ["newspaper", "office", "write"]
+  },
+  {
+    "title": "Notebook",
+    "symbol": "📓",
+    "keywords": ["notebook", "object", "office", "write"]
+  },
+  {
+    "title": "Closed Book",
+    "symbol": "📕",
+    "keywords": ["closed", "book", "object", "office", "write"]
+  },
+  {
+    "title": "Green Book",
+    "symbol": "📗",
+    "keywords": ["green", "book", "object", "office"]
+  },
+  {
+    "title": "Blue Book",
+    "symbol": "📘",
+    "keywords": ["blue", "book", "object", "office", "write"]
+  },
+  {
+    "title": "Orange Book",
+    "symbol": "📙",
+    "keywords": ["orange", "book", "object", "office", "write"]
+  },
+  {
+    "title": "Notebook With Decorative Cover",
+    "symbol": "📔",
+    "keywords": [
+      "notebook",
+      "with",
+      "decorative",
+      "cover",
+      "object",
+      "office",
+      "write"
+    ]
+  },
+  {
+    "title": "Ledger",
+    "symbol": "📒",
+    "keywords": ["ledger", "object", "office", "write"]
+  },
+  {
+    "title": "Books",
+    "symbol": "📚",
+    "keywords": ["books", "object", "office", "write", "book"]
+  },
+  {
+    "title": "Book",
+    "symbol": "📖",
+    "keywords": ["open", "book", "object", "office", "write"]
+  },
+  {
+    "title": "Link",
+    "symbol": "🔗",
+    "keywords": ["link", "symbol", "office"]
+  },
+  {
+    "title": "Paperclip",
+    "symbol": "📎",
+    "keywords": ["paperclip", "object", "work", "office"]
+  },
+  {
+    "title": "Paperclips",
+    "symbol": "🖇",
+    "keywords": ["linked", "paperclips", "object", "work", "office"]
+  },
+  {
+    "title": "Scissors",
+    "symbol": "✂",
+    "keywords": ["black", "scissors", "object", "tool", "weapon", "office"]
+  },
+  {
+    "title": "Triangular Ruler",
+    "symbol": "📐",
+    "keywords": ["triangular", "ruler", "object", "tool", "office"]
+  },
+  {
+    "title": "Straight Ruler",
+    "symbol": "📏",
+    "keywords": ["straight", "ruler", "object", "tool", "office"]
+  },
+  {
+    "title": "Pushpin",
+    "symbol": "📌",
+    "keywords": ["pushpin", "object", "office"]
+  },
+  {
+    "title": "Round Pushpin",
+    "symbol": "📍",
+    "keywords": ["round", "pushpin", "object", "office"]
+  },
+  {
+    "title": "Triangular Flag On Post",
+    "symbol": "🚩",
+    "keywords": ["triangular", "flag", "on", "post", "object"]
+  },
+  {
+    "title": "Flag White",
+    "symbol": "🏳",
+    "keywords": ["waving", "white", "flag", "object"]
+  },
+  {
+    "title": "Flag Black",
+    "symbol": "🏴",
+    "keywords": ["waving", "black", "flag", "object"]
+  },
+  {
+    "title": "Closed Lock With Key",
+    "symbol": "🔐",
+    "keywords": ["closed", "lock", "with", "key", "object"]
+  },
+  { "title": "Lock", "symbol": "🔒", "keywords": ["lock", "object"] },
+  {
+    "title": "Unlock",
+    "symbol": "🔓",
+    "keywords": ["open", "lock", "object"]
+  },
+  {
+    "title": "Lock With Ink Pen",
+    "symbol": "🔏",
+    "keywords": ["lock", "with", "ink", "pen", "object"]
+  },
+  {
+    "title": "Pen Ballpoint",
+    "symbol": "🖊",
+    "keywords": [
+      "lower",
+      "left",
+      "ballpoint",
+      "pen",
+      "object",
+      "office",
+      "write"
+    ]
+  },
+  {
+    "title": "Pen Fountain",
+    "symbol": "🖋",
+    "keywords": [
+      "lower",
+      "left",
+      "fountain",
+      "pen",
+      "object",
+      "office",
+      "write"
+    ]
+  },
+  {
+    "title": "Black Nib",
+    "symbol": "✒",
+    "keywords": ["black", "nib", "object", "office", "write"]
+  },
+  {
+    "title": "Pencil",
+    "symbol": "📝",
+    "keywords": ["memo", "work", "office", "write"]
+  },
+  {
+    "title": "Pencil2",
+    "symbol": "✏",
+    "keywords": ["pencil", "object", "office", "write"]
+  },
+  {
+    "title": "Crayon",
+    "symbol": "🖍",
+    "keywords": ["lower", "left", "crayon", "object", "office", "write"]
+  },
+  {
+    "title": "Paintbrush",
+    "symbol": "🖌",
+    "keywords": ["lower", "left", "paintbrush", "object", "office", "write"]
+  },
+  {
+    "title": "Mag",
+    "symbol": "🔍",
+    "keywords": ["left-pointing", "magnifying", "glass", "object"]
+  },
+  {
+    "title": "Mag Right",
+    "symbol": "🔎",
+    "keywords": ["right-pointing", "magnifying", "glass", "object"]
+  },
+  {
+    "title": "Heart",
+    "symbol": "❤",
+    "keywords": ["heavy", "black", "heart", "love", "symbol", "parties"]
+  },
+  {
+    "title": "Yellow Heart",
+    "symbol": "💛",
+    "keywords": ["yellow", "heart", "love", "symbol"]
+  },
+  {
+    "title": "Green Heart",
+    "symbol": "💚",
+    "keywords": ["green", "heart", "love", "symbol"]
+  },
+  {
+    "title": "Blue Heart",
+    "symbol": "💙",
+    "keywords": ["blue", "heart", "love", "symbol"]
+  },
+  {
+    "title": "Purple Heart",
+    "symbol": "💜",
+    "keywords": ["purple", "heart", "love", "symbol"]
+  },
+  {
+    "title": "Broken Heart",
+    "symbol": "💔",
+    "keywords": ["broken", "heart", "love", "symbol", "heartbreak"]
+  },
+  {
+    "title": "Heart Exclamation",
+    "symbol": "❣",
+    "keywords": [
+      "heavy",
+      "heart",
+      "exclamation",
+      "mark",
+      "ornament",
+      "love",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Two Hearts",
+    "symbol": "💕",
+    "keywords": ["two", "hearts", "love", "symbol"]
+  },
+  {
+    "title": "Revolving Hearts",
+    "symbol": "💞",
+    "keywords": ["revolving", "hearts", "love", "symbol"]
+  },
+  {
+    "title": "Heartbeat",
+    "symbol": "💓",
+    "keywords": ["beating", "heart", "love", "symbol"]
+  },
+  {
+    "title": "Heartpulse",
+    "symbol": "💗",
+    "keywords": ["growing", "heart", "love", "symbol"]
+  },
+  {
+    "title": "Sparkling Heart",
+    "symbol": "💖",
+    "keywords": ["sparkling", "heart", "love", "symbol", "girls", "night"]
+  },
+  {
+    "title": "Cupid",
+    "symbol": "💘",
+    "keywords": ["heart", "with", "arrow", "love", "symbol"]
+  },
+  {
+    "title": "Gift Heart",
+    "symbol": "💝",
+    "keywords": ["heart", "with", "ribbon", "love", "symbol", "condolence"]
+  },
+  {
+    "title": "Heart Decoration",
+    "symbol": "💟",
+    "keywords": ["heart", "decoration", "love", "symbol"]
+  },
+  {
+    "title": "Peace",
+    "symbol": "☮",
+    "keywords": ["peace", "symbol", "drugs"]
+  },
+  {
+    "title": "Cross",
+    "symbol": "✝",
+    "keywords": ["latin", "cross", "religion", "symbol"]
+  },
+  {
+    "title": "Star And Crescent",
+    "symbol": "☪",
+    "keywords": ["star", "and", "crescent", "religion", "symbol"]
+  },
+  {
+    "title": "Om Symbol",
+    "symbol": "🕉",
+    "keywords": ["om", "symbol", "religion"]
+  },
+  {
+    "title": "Wheel Of Dharma",
+    "symbol": "☸",
+    "keywords": ["wheel", "of", "dharma", "religion", "symbol"]
+  },
+  {
+    "title": "Star Of David",
+    "symbol": "✡",
+    "keywords": ["star", "of", "david", "religion", "jew", "symbol"]
+  },
+  {
+    "title": "Six Pointed Star",
+    "symbol": "🔯",
+    "keywords": [
+      "six",
+      "pointed",
+      "star",
+      "with",
+      "middle",
+      "dot",
+      "religion",
+      "jew",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Menorah",
+    "symbol": "🕎",
+    "keywords": [
+      "menorah",
+      "with",
+      "nine",
+      "branches",
+      "religion",
+      "object",
+      "jew",
+      "symbol",
+      "holidays"
+    ]
+  },
+  {
+    "title": "Yin Yang",
+    "symbol": "☯",
+    "keywords": ["yin", "yang", "symbol"]
+  },
+  {
+    "title": "Orthodox Cross",
+    "symbol": "☦",
+    "keywords": ["orthodox", "cross", "religion", "symbol"]
+  },
+  {
+    "title": "Place Of Worship",
+    "symbol": "🛐",
+    "keywords": ["place", "of", "worship", "religion", "symbol", "pray"]
+  },
+  {
+    "title": "Ophiuchus",
+    "symbol": "⛎",
+    "keywords": ["ophiuchus", "symbol"]
+  },
+  {
+    "title": "Aries",
+    "symbol": "♈",
+    "keywords": ["aries", "zodiac", "symbol"]
+  },
+  {
+    "title": "Taurus",
+    "symbol": "♉",
+    "keywords": ["taurus", "zodiac", "symbol"]
+  },
+  {
+    "title": "Gemini",
+    "symbol": "♊",
+    "keywords": ["gemini", "zodiac", "symbol"]
+  },
+  {
+    "title": "Cancer",
+    "symbol": "♋",
+    "keywords": ["cancer", "zodiac", "symbol"]
+  },
+  {
+    "title": "Leo",
+    "symbol": "♌",
+    "keywords": ["leo", "zodiac", "symbol"]
+  },
+  {
+    "title": "Virgo",
+    "symbol": "♍",
+    "keywords": ["virgo", "zodiac", "symbol"]
+  },
+  {
+    "title": "Libra",
+    "symbol": "♎",
+    "keywords": ["libra", "zodiac", "symbol"]
+  },
+  {
+    "title": "Scorpius",
+    "symbol": "♏",
+    "keywords": ["scorpius", "zodiac", "symbol"]
+  },
+  {
+    "title": "Sagittarius",
+    "symbol": "♐",
+    "keywords": ["sagittarius", "zodiac", "symbol"]
+  },
+  {
+    "title": "Capricorn",
+    "symbol": "♑",
+    "keywords": ["capricorn", "zodiac", "symbol"]
+  },
+  {
+    "title": "Aquarius",
+    "symbol": "♒",
+    "keywords": ["aquarius", "zodiac", "symbol"]
+  },
+  {
+    "title": "Pisces",
+    "symbol": "♓",
+    "keywords": ["pisces", "zodiac", "symbol"]
+  },
+  {
+    "title": "Id",
+    "symbol": "🆔",
+    "keywords": ["squared", "id", "symbol"]
+  },
+  {
+    "title": "Atom",
+    "symbol": "⚛",
+    "keywords": ["atom", "symbol", "science"]
+  },
+  {
+    "title": "U7a7a",
+    "symbol": "🈳",
+    "keywords": ["squared", "cjk", "unified", "ideograph-7a7a", "symbol"]
+  },
+  {
+    "title": "U5272",
+    "symbol": "🈹",
+    "keywords": ["squared", "cjk", "unified", "ideograph-5272", "symbol"]
+  },
+  {
+    "title": "Radioactive",
+    "symbol": "☢",
+    "keywords": ["radioactive", "sign", "symbol", "science"]
+  },
+  {
+    "title": "Biohazard",
+    "symbol": "☣",
+    "keywords": ["biohazard", "sign", "symbol", "science"]
+  },
+  {
+    "title": "Mobile Phone Off",
+    "symbol": "📴",
+    "keywords": ["mobile", "phone", "off", "symbol"]
+  },
+  {
+    "title": "Vibration Mode",
+    "symbol": "📳",
+    "keywords": ["vibration", "mode", "symbol"]
+  },
+  {
+    "title": "U6709",
+    "symbol": "🈶",
+    "keywords": ["squared", "cjk", "unified", "ideograph-6709", "symbol"]
+  },
+  {
+    "title": "U7121",
+    "symbol": "🈚",
+    "keywords": ["squared", "cjk", "unified", "ideograph-7121", "symbol"]
+  },
+  {
+    "title": "U7533",
+    "symbol": "🈸",
+    "keywords": ["squared", "cjk", "unified", "ideograph-7533", "symbol"]
+  },
+  {
+    "title": "U55b6",
+    "symbol": "🈺",
+    "keywords": ["squared", "cjk", "unified", "ideograph-55b6", "symbol"]
+  },
+  {
+    "title": "U6708",
+    "symbol": "🈷",
+    "keywords": ["squared", "cjk", "unified", "ideograph-6708", "symbol"]
+  },
+  {
+    "title": "Eight Pointed Black Star",
+    "symbol": "✴",
+    "keywords": ["eight", "pointed", "black", "star", "symbol"]
+  },
+  {
+    "title": "Vs",
+    "symbol": "🆚",
+    "keywords": ["squared", "vs", "symbol"]
+  },
+  {
+    "title": "Accept",
+    "symbol": "🉑",
+    "keywords": ["circled", "ideograph", "accept", "symbol"]
+  },
+  {
+    "title": "White Flower",
+    "symbol": "💮",
+    "keywords": ["white", "flower", "symbol"]
+  },
+  {
+    "title": "Ideograph Advantage",
+    "symbol": "🉐",
+    "keywords": ["circled", "ideograph", "advantage", "japan", "symbol"]
+  },
+  {
+    "title": "Secret",
+    "symbol": "㊙",
+    "keywords": ["circled", "ideograph", "secret", "japan", "symbol"]
+  },
+  {
+    "title": "Congratulations",
+    "symbol": "㊗",
+    "keywords": ["circled", "ideograph", "congratulation", "japan", "symbol"]
+  },
+  {
+    "title": "U5408",
+    "symbol": "🈴",
+    "keywords": [
+      "squared",
+      "cjk",
+      "unified",
+      "ideograph-5408",
+      "japan",
+      "symbol"
+    ]
+  },
+  {
+    "title": "U6e80",
+    "symbol": "🈵",
+    "keywords": [
+      "squared",
+      "cjk",
+      "unified",
+      "ideograph-6e80",
+      "japan",
+      "symbol"
+    ]
+  },
+  {
+    "title": "U7981",
+    "symbol": "🈲",
+    "keywords": [
+      "squared",
+      "cjk",
+      "unified",
+      "ideograph-7981",
+      "japan",
+      "symbol"
+    ]
+  },
+  {
+    "title": "a",
+    "symbol": "🅰",
+    "keywords": [
+      "negative",
+      "squared",
+      "latin",
+      "capital",
+      "letter",
+      "a",
+      "symbol"
+    ]
+  },
+  {
+    "title": "b",
+    "symbol": "🅱",
+    "keywords": [
+      "negative",
+      "squared",
+      "latin",
+      "capital",
+      "letter",
+      "b",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Ab",
+    "symbol": "🆎",
+    "keywords": ["negative", "squared", "ab", "symbol"]
+  },
+  {
+    "title": "Cl",
+    "symbol": "🆑",
+    "keywords": ["squared", "cl", "symbol"]
+  },
+  {
+    "title": "O2",
+    "symbol": "🅾",
+    "keywords": [
+      "negative",
+      "squared",
+      "latin",
+      "capital",
+      "letter",
+      "o",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Sos",
+    "symbol": "🆘",
+    "keywords": ["squared", "sos", "symbol"]
+  },
+  {
+    "title": "No Entry",
+    "symbol": "⛔",
+    "keywords": ["no", "entry", "symbol", "circle"]
+  },
+  {
+    "title": "Name Badge",
+    "symbol": "📛",
+    "keywords": ["name", "badge", "work"]
+  },
+  {
+    "title": "No Entry Sign",
+    "symbol": "🚫",
+    "keywords": ["no", "entry", "sign", "symbol", "circle"]
+  },
+  {
+    "title": "x",
+    "symbol": "❌",
+    "keywords": ["cross", "mark", "symbol", "sol"]
+  },
+  {
+    "title": "o",
+    "symbol": "⭕",
+    "keywords": ["heavy", "large", "circle", "symbol"]
+  },
+  {
+    "title": "Anger",
+    "symbol": "💢",
+    "keywords": ["anger", "symbol"]
+  },
+  {
+    "title": "Hotsprings",
+    "symbol": "♨",
+    "keywords": ["hot", "springs", "symbol"]
+  },
+  {
+    "title": "No Pedestrians",
+    "symbol": "🚷",
+    "keywords": ["no", "pedestrians", "symbol"]
+  },
+  {
+    "title": "Do Not Litter",
+    "symbol": "🚯",
+    "keywords": ["do", "not", "litter", "symbol"]
+  },
+  {
+    "title": "No Bicycles",
+    "symbol": "🚳",
+    "keywords": ["no", "bicycles", "symbol"]
+  },
+  {
+    "title": "Non-potable Water",
+    "symbol": "🚱",
+    "keywords": ["non-potable", "water", "symbol"]
+  },
+  {
+    "title": "Underage",
+    "symbol": "🔞",
+    "keywords": ["no", "one", "under", "eighteen", "symbol"]
+  },
+  {
+    "title": "No Mobile Phones",
+    "symbol": "📵",
+    "keywords": ["no", "mobile", "phones", "symbol", "phone"]
+  },
+  {
+    "title": "Exclamation",
+    "symbol": "❗",
+    "keywords": ["heavy", "exclamation", "mark", "symbol", "punctuation"]
+  },
+  {
+    "title": "Grey Exclamation",
+    "symbol": "❕",
+    "keywords": [
+      "white",
+      "exclamation",
+      "mark",
+      "ornament",
+      "symbol",
+      "punctuation"
+    ]
+  },
+  {
+    "title": "Question",
+    "symbol": "❓",
+    "keywords": [
+      "black",
+      "question",
+      "mark",
+      "ornament",
+      "symbol",
+      "punctuation",
+      "wth"
+    ]
+  },
+  {
+    "title": "Grey Question",
+    "symbol": "❔",
+    "keywords": [
+      "white",
+      "question",
+      "mark",
+      "ornament",
+      "symbol",
+      "punctuation"
+    ]
+  },
+  {
+    "title": "Bangbang",
+    "symbol": "‼",
+    "keywords": ["double", "exclamation", "mark", "symbol", "punctuation"]
+  },
+  {
+    "title": "Interrobang",
+    "symbol": "⁉",
+    "keywords": ["exclamation", "question", "mark", "symbol", "punctuation"]
+  },
+  {
+    "title": "Low Brightness",
+    "symbol": "🔅",
+    "keywords": ["low", "brightness", "symbol", "sun"]
+  },
+  {
+    "title": "High Brightness",
+    "symbol": "🔆",
+    "keywords": ["high", "brightness", "symbol", "sun"]
+  },
+  {
+    "title": "Trident",
+    "symbol": "🔱",
+    "keywords": ["trident", "emblem", "object", "symbol"]
+  },
+  {
+    "title": "Fleur-de-lis",
+    "symbol": "⚜",
+    "keywords": ["fleur-de-lis", "object", "symbol"]
+  },
+  {
+    "title": "Part Alternation Mark",
+    "symbol": "〽",
+    "keywords": ["part", "alternation", "mark", "symbol"]
+  },
+  {
+    "title": "Warning",
+    "symbol": "⚠",
+    "keywords": ["warning", "sign", "symbol", "punctuation"]
+  },
+  {
+    "title": "Children Crossing",
+    "symbol": "🚸",
+    "keywords": ["children", "crossing", "symbol"]
+  },
+  {
+    "title": "Beginner",
+    "symbol": "🔰",
+    "keywords": ["japanese", "symbol", "for", "beginner"]
+  },
+  {
+    "title": "Recycle",
+    "symbol": "♻",
+    "keywords": ["black", "universal", "recycling", "symbol"]
+  },
+  {
+    "title": "U6307",
+    "symbol": "🈯",
+    "keywords": ["squared", "cjk", "unified", "ideograph-6307", "symbol"]
+  },
+  {
+    "title": "Chart",
+    "symbol": "💹",
+    "keywords": [
+      "chart",
+      "with",
+      "upwards",
+      "trend",
+      "and",
+      "yen",
+      "sign",
+      "symbol",
+      "money"
+    ]
+  },
+  {
+    "title": "Sparkle",
+    "symbol": "❇",
+    "keywords": ["sparkle", "symbol"]
+  },
+  {
+    "title": "Eight Spoked Asterisk",
+    "symbol": "✳",
+    "keywords": ["eight", "spoked", "asterisk", "symbol"]
+  },
+  {
+    "title": "Negative Squared Cross Mark",
+    "symbol": "❎",
+    "keywords": ["negative", "squared", "cross", "mark", "symbol"]
+  },
+  {
+    "title": "White Check Mark",
+    "symbol": "✅",
+    "keywords": ["white", "heavy", "check", "mark", "symbol"]
+  },
+  {
+    "title": "Diamond Shape With a Dot Inside",
+    "symbol": "💠",
+    "keywords": ["diamond", "shape", "with", "a", "dot", "inside", "symbol"]
+  },
+  {
+    "title": "Cyclone",
+    "symbol": "🌀",
+    "keywords": ["cyclone", "symbol", "drugs"]
+  },
+  {
+    "title": "Loop",
+    "symbol": "➿",
+    "keywords": ["double", "curly", "loop", "symbol"]
+  },
+  {
+    "title": "Globe With Meridians",
+    "symbol": "🌐",
+    "keywords": ["globe", "with", "meridians", "symbol"]
+  },
+  {
+    "title": "m",
+    "symbol": "Ⓜ",
+    "keywords": ["circled", "latin", "capital", "letter", "m", "symbol"]
+  },
+  {
+    "title": "Atm",
+    "symbol": "🏧",
+    "keywords": [
+      "automated",
+      "teller",
+      "machine",
+      "electronics",
+      "symbol",
+      "money"
+    ]
+  },
+  {
+    "title": "Sa",
+    "symbol": "🈂",
+    "keywords": ["squared", "katakana", "sa", "symbol"]
+  },
+  {
+    "title": "Passport Control",
+    "symbol": "🛂",
+    "keywords": ["passport", "control", "symbol"]
+  },
+  {
+    "title": "Customs",
+    "symbol": "🛃",
+    "keywords": ["customs", "symbol"]
+  },
+  {
+    "title": "Baggage Claim",
+    "symbol": "🛄",
+    "keywords": ["baggage", "claim", "symbol"]
+  },
+  {
+    "title": "Left Luggage",
+    "symbol": "🛅",
+    "keywords": ["left", "luggage", "symbol"]
+  },
+  {
+    "title": "Wheelchair",
+    "symbol": "♿",
+    "keywords": ["wheelchair", "symbol"]
+  },
+  {
+    "title": "No Smoking",
+    "symbol": "🚭",
+    "keywords": ["no", "smoking", "symbol"]
+  },
+  {
+    "title": "Wc",
+    "symbol": "🚾",
+    "keywords": ["water", "closet", "symbol"]
+  },
+  {
+    "title": "Parking",
+    "symbol": "🅿",
+    "keywords": [
+      "negative",
+      "squared",
+      "latin",
+      "capital",
+      "letter",
+      "p",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Potable Water",
+    "symbol": "🚰",
+    "keywords": ["potable", "water", "symbol"]
+  },
+  { "title": "Mens", "symbol": "🚹", "keywords": ["mens", "symbol"] },
+  {
+    "title": "Womens",
+    "symbol": "🚺",
+    "keywords": ["womens", "symbol"]
+  },
+  {
+    "title": "Baby Symbol",
+    "symbol": "🚼",
+    "keywords": ["baby", "symbol"]
+  },
+  {
+    "title": "Restroom",
+    "symbol": "🚻",
+    "keywords": ["restroom", "symbol"]
+  },
+  {
+    "title": "Put Litter In Its Place",
+    "symbol": "🚮",
+    "keywords": ["put", "litter", "in", "its", "place", "symbol"]
+  },
+  {
+    "title": "Cinema",
+    "symbol": "🎦",
+    "keywords": ["cinema", "symbol", "camera", "movie"]
+  },
+  {
+    "title": "Signal Strength",
+    "symbol": "📶",
+    "keywords": ["antenna", "with", "bars", "symbol"]
+  },
+  {
+    "title": "Koko",
+    "symbol": "🈁",
+    "keywords": ["squared", "katakana", "koko", "symbol"]
+  },
+  {
+    "title": "Ng",
+    "symbol": "🆖",
+    "keywords": ["squared", "ng", "symbol"]
+  },
+  {
+    "title": "Ok",
+    "symbol": "🆗",
+    "keywords": ["squared", "ok", "symbol"]
+  },
+  {
+    "title": "Up",
+    "symbol": "🆙",
+    "keywords": ["squared", "up", "with", "exclamation", "mark", "symbol"]
+  },
+  {
+    "title": "Cool",
+    "symbol": "🆒",
+    "keywords": ["squared", "cool", "symbol"]
+  },
+  {
+    "title": "New",
+    "symbol": "🆕",
+    "keywords": ["squared", "new", "symbol"]
+  },
+  {
+    "title": "Free",
+    "symbol": "🆓",
+    "keywords": ["squared", "free", "symbol"]
+  },
+  {
+    "title": "Zero",
+    "symbol": "0",
+    "keywords": ["keycap", "digit", "zero", "number", "math", "symbol"]
+  },
+  {
+    "title": "One",
+    "symbol": "1",
+    "keywords": ["keycap", "digit", "one", "number", "math", "symbol"]
+  },
+  {
+    "title": "Two",
+    "symbol": "2",
+    "keywords": ["keycap", "digit", "two", "number", "math", "symbol"]
+  },
+  {
+    "title": "Three",
+    "symbol": "3",
+    "keywords": ["keycap", "digit", "three", "number", "math", "symbol"]
+  },
+  {
+    "title": "Four",
+    "symbol": "4",
+    "keywords": ["keycap", "digit", "four", "number", "math", "symbol"]
+  },
+  {
+    "title": "Five",
+    "symbol": "5",
+    "keywords": ["keycap", "digit", "five", "number", "math", "symbol"]
+  },
+  {
+    "title": "Six",
+    "symbol": "6",
+    "keywords": ["keycap", "digit", "six", "number", "math", "symbol"]
+  },
+  {
+    "title": "Seven",
+    "symbol": "7",
+    "keywords": ["keycap", "digit", "seven", "number", "math", "symbol"]
+  },
+  {
+    "title": "Eight",
+    "symbol": "8",
+    "keywords": ["keycap", "digit", "eight", "number", "math", "symbol"]
+  },
+  {
+    "title": "Nine",
+    "symbol": "9",
+    "keywords": ["keycap", "digit", "nine", "number", "math", "symbol"]
+  },
+  {
+    "title": "Keycap Ten",
+    "symbol": "🔟",
+    "keywords": ["keycap", "ten", "number", "math", "symbol"]
+  },
+  {
+    "title": "Arrow Forward",
+    "symbol": "▶",
+    "keywords": ["black", "right-pointing", "triangle", "arrow", "symbol"]
+  },
+  {
+    "title": "Pause Button",
+    "symbol": "⏸",
+    "keywords": ["double", "vertical", "bar", "symbol"]
+  },
+  {
+    "title": "Play Pause",
+    "symbol": "⏯",
+    "keywords": [
+      "black",
+      "right-pointing",
+      "double",
+      "triangle",
+      "with",
+      "vertical",
+      "bar",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Stop Button",
+    "symbol": "⏹",
+    "keywords": ["black", "square", "for", "stop", "symbol"]
+  },
+  {
+    "title": "Record Button",
+    "symbol": "⏺",
+    "keywords": ["black", "circle", "for", "record", "symbol"]
+  },
+  {
+    "title": "Track Next",
+    "symbol": "⏭",
+    "keywords": [
+      "black",
+      "right-pointing",
+      "double",
+      "triangle",
+      "with",
+      "vertical",
+      "bar",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Track Previous",
+    "symbol": "⏮",
+    "keywords": [
+      "black",
+      "left-pointing",
+      "double",
+      "triangle",
+      "with",
+      "vertical",
+      "bar",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Fast Forward",
+    "symbol": "⏩",
+    "keywords": [
+      "black",
+      "right-pointing",
+      "double",
+      "triangle",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Rewind",
+    "symbol": "⏪",
+    "keywords": [
+      "black",
+      "left-pointing",
+      "double",
+      "triangle",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Twisted Rightwards Arrows",
+    "symbol": "🔀",
+    "keywords": ["twisted", "rightwards", "arrows", "arrow", "symbol"]
+  },
+  {
+    "title": "Repeat",
+    "symbol": "🔁",
+    "keywords": [
+      "clockwise",
+      "rightwards",
+      "and",
+      "leftwards",
+      "open",
+      "circle",
+      "arrows",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Repeat One",
+    "symbol": "🔂",
+    "keywords": [
+      "clockwise",
+      "rightwards",
+      "and",
+      "leftwards",
+      "open",
+      "circle",
+      "arrows",
+      "with",
+      "circled",
+      "one",
+      "overlay",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Arrow Backward",
+    "symbol": "◀",
+    "keywords": ["black", "left-pointing", "triangle", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Up Small",
+    "symbol": "🔼",
+    "keywords": ["up-pointing", "small", "red", "triangle", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Down Small",
+    "symbol": "🔽",
+    "keywords": ["down-pointing", "small", "red", "triangle", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Double Up",
+    "symbol": "⏫",
+    "keywords": [
+      "black",
+      "up-pointing",
+      "double",
+      "triangle",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Arrow Double Down",
+    "symbol": "⏬",
+    "keywords": [
+      "black",
+      "down-pointing",
+      "double",
+      "triangle",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Arrow Right",
+    "symbol": "➡",
+    "keywords": ["black", "rightwards", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Left",
+    "symbol": "⬅",
+    "keywords": ["leftwards", "black", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Up",
+    "symbol": "⬆",
+    "keywords": ["upwards", "black", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Down",
+    "symbol": "⬇",
+    "keywords": ["downwards", "black", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Upper Right",
+    "symbol": "↗",
+    "keywords": ["north", "east", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Lower Right",
+    "symbol": "↘",
+    "keywords": ["south", "east", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Lower Left",
+    "symbol": "↙",
+    "keywords": ["south", "west", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Upper Left",
+    "symbol": "↖",
+    "keywords": ["north", "west", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrow Up Down",
+    "symbol": "↕",
+    "keywords": ["up", "down", "arrow", "symbol"]
+  },
+  {
+    "title": "Left Right Arrow",
+    "symbol": "↔",
+    "keywords": ["left", "right", "arrow", "symbol"]
+  },
+  {
+    "title": "Arrows Counterclockwise",
+    "symbol": "🔄",
+    "keywords": [
+      "anticlockwise",
+      "downwards",
+      "and",
+      "upwards",
+      "open",
+      "circle",
+      "arrows",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Arrow Right Hook",
+    "symbol": "↪",
+    "keywords": ["rightwards", "arrow", "with", "hook", "symbol"]
+  },
+  {
+    "title": "Leftwards Arrow With Hook",
+    "symbol": "↩",
+    "keywords": ["leftwards", "arrow", "with", "hook", "symbol"]
+  },
+  {
+    "title": "Arrow Heading Up",
+    "symbol": "⤴",
+    "keywords": [
+      "arrow",
+      "pointing",
+      "rightwards",
+      "then",
+      "curving",
+      "upwards",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Arrow Heading Down",
+    "symbol": "⤵",
+    "keywords": [
+      "arrow",
+      "pointing",
+      "rightwards",
+      "then",
+      "curving",
+      "downwards",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Hash",
+    "symbol": "#",
+    "keywords": ["keycap", "number", "sign", "symbol"]
+  },
+  {
+    "title": "Asterisk",
+    "symbol": "*",
+    "keywords": ["keycap", "asterisk", "symbol"]
+  },
+  {
+    "title": "Information Source",
+    "symbol": "ℹ",
+    "keywords": ["information", "source", "symbol"]
+  },
+  {
+    "title": "Abc",
+    "symbol": "🔤",
+    "keywords": ["input", "symbol", "for", "latin", "letters"]
+  },
+  {
+    "title": "Abcd",
+    "symbol": "🔡",
+    "keywords": ["input", "symbol", "for", "latin", "small", "letters"]
+  },
+  {
+    "title": "Capital Abcd",
+    "symbol": "🔠",
+    "keywords": ["input", "symbol", "for", "latin", "capital", "letters"]
+  },
+  {
+    "title": "Symbols",
+    "symbol": "🔣",
+    "keywords": ["input", "symbol", "for", "symbols"]
+  },
+  {
+    "title": "Musical Note",
+    "symbol": "🎵",
+    "keywords": ["musical", "note", "instruments", "symbol"]
+  },
+  {
+    "title": "Notes",
+    "symbol": "🎶",
+    "keywords": ["multiple", "musical", "notes", "instruments", "symbol"]
+  },
+  {
+    "title": "Wavy Dash",
+    "symbol": "〰",
+    "keywords": ["wavy", "dash", "symbol"]
+  },
+  {
+    "title": "Curly Loop",
+    "symbol": "➰",
+    "keywords": ["curly", "loop", "symbol"]
+  },
+  {
+    "title": "Heavy Check Mark",
+    "symbol": "✔",
+    "keywords": ["heavy", "check", "mark", "symbol"]
+  },
+  {
+    "title": "Arrows Clockwise",
+    "symbol": "🔃",
+    "keywords": [
+      "clockwise",
+      "downwards",
+      "and",
+      "upwards",
+      "open",
+      "circle",
+      "arrows",
+      "arrow",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Heavy Plus Sign",
+    "symbol": "➕",
+    "keywords": ["heavy", "plus", "sign", "math", "symbol"]
+  },
+  {
+    "title": "Heavy Minus Sign",
+    "symbol": "➖",
+    "keywords": ["heavy", "minus", "sign", "math", "symbol"]
+  },
+  {
+    "title": "Heavy Division Sign",
+    "symbol": "➗",
+    "keywords": ["heavy", "division", "sign", "math", "symbol"]
+  },
+  {
+    "title": "Heavy Multiplication x",
+    "symbol": "✖",
+    "keywords": ["heavy", "multiplication", "x", "math", "symbol"]
+  },
+  {
+    "title": "Heavy Dollar Sign",
+    "symbol": "💲",
+    "keywords": ["heavy", "dollar", "sign", "math", "symbol", "money"]
+  },
+  {
+    "title": "Currency Exchange",
+    "symbol": "💱",
+    "keywords": ["currency", "exchange", "symbol", "money"]
+  },
+  {
+    "title": "Copyright",
+    "symbol": "©",
+    "keywords": ["copyright", "sign", "symbol"]
+  },
+  {
+    "title": "Registered",
+    "symbol": "®",
+    "keywords": ["registered", "sign", "symbol"]
+  },
+  {
+    "title": "Tm",
+    "symbol": "™",
+    "keywords": ["trade", "mark", "sign", "symbol"]
+  },
+  {
+    "title": "End",
+    "symbol": "🔚",
+    "keywords": ["end", "with", "leftwards", "arrow", "above", "symbol"]
+  },
+  {
+    "title": "Back",
+    "symbol": "🔙",
+    "keywords": ["back", "with", "leftwards", "arrow", "above", "symbol"]
+  },
+  {
+    "title": "On",
+    "symbol": "🔛",
+    "keywords": [
+      "on",
+      "with",
+      "exclamation",
+      "mark",
+      "left",
+      "right",
+      "arrow",
+      "abo",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Top",
+    "symbol": "🔝",
+    "keywords": ["top", "with", "upwards", "arrow", "above", "symbol"]
+  },
+  {
+    "title": "Soon",
+    "symbol": "🔜",
+    "keywords": ["soon", "with", "rightwards", "arrow", "above", "symbol"]
+  },
+  {
+    "title": "Ballot Box With Check",
+    "symbol": "☑",
+    "keywords": ["ballot", "box", "with", "check", "symbol"]
+  },
+  {
+    "title": "Radio Button",
+    "symbol": "🔘",
+    "keywords": ["radio", "button", "symbol", "circle"]
+  },
+  {
+    "title": "White Circle",
+    "symbol": "⚪",
+    "keywords": ["medium", "white", "circle", "shapes", "symbol"]
+  },
+  {
+    "title": "Black Circle",
+    "symbol": "⚫",
+    "keywords": ["medium", "black", "circle", "shapes", "symbol"]
+  },
+  {
+    "title": "Red Circle",
+    "symbol": "🔴",
+    "keywords": ["large", "red", "circle", "shapes", "symbol"]
+  },
+  {
+    "title": "Large Blue Circle",
+    "symbol": "🔵",
+    "keywords": ["large", "blue", "circle", "shapes", "symbol"]
+  },
+  {
+    "title": "Small Orange Diamond",
+    "symbol": "🔸",
+    "keywords": ["small", "orange", "diamond", "shapes", "symbol"]
+  },
+  {
+    "title": "Small Blue Diamond",
+    "symbol": "🔹",
+    "keywords": ["small", "blue", "diamond", "shapes", "symbol"]
+  },
+  {
+    "title": "Large Orange Diamond",
+    "symbol": "🔶",
+    "keywords": ["large", "orange", "diamond", "shapes", "symbol"]
+  },
+  {
+    "title": "Large Blue Diamond",
+    "symbol": "🔷",
+    "keywords": ["large", "blue", "diamond", "shapes", "symbol"]
+  },
+  {
+    "title": "Small Red Triangle",
+    "symbol": "🔺",
+    "keywords": ["up-pointing", "red", "triangle", "shapes", "symbol"]
+  },
+  {
+    "title": "Black Small Square",
+    "symbol": "▪",
+    "keywords": ["black", "small", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "White Small Square",
+    "symbol": "▫",
+    "keywords": ["white", "small", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "Black Large Square",
+    "symbol": "⬛",
+    "keywords": ["black", "large", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "White Large Square",
+    "symbol": "⬜",
+    "keywords": ["white", "large", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "Small Red Triangle Down",
+    "symbol": "🔻",
+    "keywords": ["down-pointing", "red", "triangle", "shapes", "symbol"]
+  },
+  {
+    "title": "Black Medium Square",
+    "symbol": "◼",
+    "keywords": ["black", "medium", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "White Medium Square",
+    "symbol": "◻",
+    "keywords": ["white", "medium", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "Black Medium Small Square",
+    "symbol": "◾",
+    "keywords": ["black", "medium", "small", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "White Medium Small Square",
+    "symbol": "◽",
+    "keywords": ["white", "medium", "small", "square", "shapes", "symbol"]
+  },
+  {
+    "title": "Black Square Button",
+    "symbol": "🔲",
+    "keywords": ["black", "square", "button", "shapes", "symbol"]
+  },
+  {
+    "title": "White Square Button",
+    "symbol": "🔳",
+    "keywords": ["white", "square", "button", "shapes", "symbol"]
+  },
+  {
+    "title": "Speaker",
+    "symbol": "🔈",
+    "keywords": ["speaker", "alarm", "symbol"]
+  },
+  {
+    "title": "Sound",
+    "symbol": "🔉",
+    "keywords": ["speaker", "with", "one", "sound", "wave", "alarm", "symbol"]
+  },
+  {
+    "title": "Loud Sound",
+    "symbol": "🔊",
+    "keywords": [
+      "speaker",
+      "with",
+      "three",
+      "sound",
+      "waves",
+      "alarm",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Mute",
+    "symbol": "🔇",
+    "keywords": ["speaker", "with", "cancellation", "stroke", "alarm", "symbol"]
+  },
+  {
+    "title": "Mega",
+    "symbol": "📣",
+    "keywords": ["cheering", "megaphone", "object", "sport"]
+  },
+  {
+    "title": "Loudspeaker",
+    "symbol": "📢",
+    "keywords": [
+      "public",
+      "address",
+      "loudspeaker",
+      "object",
+      "alarm",
+      "symbol"
+    ]
+  },
+  {
+    "title": "Bell",
+    "symbol": "🔔",
+    "keywords": ["bell", "object", "alarm", "symbol"]
+  },
+  {
+    "title": "No Bell",
+    "symbol": "🔕",
+    "keywords": ["bell", "with", "cancellation", "stroke", "alarm", "symbol"]
+  },
+  {
+    "title": "Black Joker",
+    "symbol": "🃏",
+    "keywords": [
+      "playing",
+      "card",
+      "black",
+      "joker",
+      "object",
+      "symbol",
+      "game"
+    ]
+  },
+  {
+    "title": "Mahjong",
+    "symbol": "🀄",
+    "keywords": ["mahjong", "tile", "red", "dragon", "object", "symbol", "game"]
+  },
+  {
+    "title": "Spades",
+    "symbol": "♠",
+    "keywords": ["black", "spade", "suit", "symbol", "game"]
+  },
+  {
+    "title": "Clubs",
+    "symbol": "♣",
+    "keywords": ["black", "club", "suit", "symbol", "game"]
+  },
+  {
+    "title": "Hearts",
+    "symbol": "♥",
+    "keywords": ["black", "heart", "suit", "love", "symbol", "game"]
+  },
+  {
+    "title": "Diamonds",
+    "symbol": "♦",
+    "keywords": ["black", "diamond", "suit", "shapes", "symbol", "game"]
+  },
+  {
+    "title": "Flower Playing Cards",
+    "symbol": "🎴",
+    "keywords": ["flower", "playing", "cards", "object", "symbol"]
+  },
+  {
+    "title": "Thought Balloon",
+    "symbol": "💭",
+    "keywords": ["thought", "balloon", "symbol"]
+  },
+  {
+    "title": "Anger Right",
+    "symbol": "🗯",
+    "keywords": ["right", "anger", "bubble", "symbol"]
+  },
+  {
+    "title": "Speech Balloon",
+    "symbol": "💬",
+    "keywords": ["speech", "balloon", "symbol", "free"]
+  },
+  {
+    "title": "Clock1",
+    "symbol": "🕐",
+    "keywords": ["clock", "face", "one", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock2",
+    "symbol": "🕑",
+    "keywords": ["clock", "face", "two", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock3",
+    "symbol": "🕒",
+    "keywords": ["clock", "face", "three", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock4",
+    "symbol": "🕓",
+    "keywords": ["clock", "face", "four", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock5",
+    "symbol": "🕔",
+    "keywords": ["clock", "face", "five", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock6",
+    "symbol": "🕕",
+    "keywords": ["clock", "face", "six", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock7",
+    "symbol": "🕖",
+    "keywords": ["clock", "face", "seven", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock8",
+    "symbol": "🕗",
+    "keywords": ["clock", "face", "eight", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock9",
+    "symbol": "🕘",
+    "keywords": ["clock", "face", "nine", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock10",
+    "symbol": "🕙",
+    "keywords": ["clock", "face", "ten", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock11",
+    "symbol": "🕚",
+    "keywords": ["clock", "face", "eleven", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock12",
+    "symbol": "🕛",
+    "keywords": ["clock", "face", "twelve", "oclock", "symbol", "time"]
+  },
+  {
+    "title": "Clock130",
+    "symbol": "🕜",
+    "keywords": ["clock", "face", "one-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock230",
+    "symbol": "🕝",
+    "keywords": ["clock", "face", "two-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock330",
+    "symbol": "🕞",
+    "keywords": ["clock", "face", "three-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock430",
+    "symbol": "🕟",
+    "keywords": ["clock", "face", "four-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock530",
+    "symbol": "🕠",
+    "keywords": ["clock", "face", "five-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock630",
+    "symbol": "🕡",
+    "keywords": ["clock", "face", "six-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock730",
+    "symbol": "🕢",
+    "keywords": ["clock", "face", "seven-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock830",
+    "symbol": "🕣",
+    "keywords": ["clock", "face", "eight-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock930",
+    "symbol": "🕤",
+    "keywords": ["clock", "face", "nine-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock1030",
+    "symbol": "🕥",
+    "keywords": ["clock", "face", "ten-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock1130",
+    "symbol": "🕦",
+    "keywords": ["clock", "face", "eleven-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Clock1230",
+    "symbol": "🕧",
+    "keywords": ["clock", "face", "twelve-thirty", "symbol", "time"]
+  },
+  {
+    "title": "Tone1",
+    "symbol": "🏻",
+    "keywords": ["emoji", "modifier", "Fitzpatrick", "type-1-2"]
+  },
+  {
+    "title": "Prince Tone1",
+    "symbol": "🤴",
+    "keywords": ["prince", "tone", "1"]
+  },
+  {
+    "title": "Mrs Claus Tone1",
+    "symbol": "🤶",
+    "keywords": ["mother", "christmas", "tone", "1"]
+  },
+  {
+    "title": "Man In Tuxedo Tone1",
+    "symbol": "🤵",
+    "keywords": ["man", "in", "tuxedo", "tone", "1"]
+  },
+  {
+    "title": "Shrug Tone1",
+    "symbol": "🤷",
+    "keywords": ["shrug", "tone", "1"]
+  },
+  {
+    "title": "Face Palm Tone1",
+    "symbol": "🤦",
+    "keywords": ["face", "palm", "tone", "1"]
+  },
+  {
+    "title": "Pregnant Woman Tone1",
+    "symbol": "🤰",
+    "keywords": ["pregnant", "woman", "tone", "1"]
+  },
+  {
+    "title": "Man Dancing Tone1",
+    "symbol": "🕺",
+    "keywords": ["man", "dancing", "tone", "1"]
+  },
+  {
+    "title": "Selfie Tone1",
+    "symbol": "🤳",
+    "keywords": ["selfie", "tone", "1"]
+  },
+  {
+    "title": "Fingers Crossed Tone1",
+    "symbol": "🤞",
+    "keywords": [
+      "hand",
+      "with",
+      "index",
+      "and",
+      "middle",
+      "fingers",
+      "crossed",
+      "tone",
+      "1"
+    ]
+  },
+  {
+    "title": "Call Me Tone1",
+    "symbol": "🤙",
+    "keywords": ["call", "me", "hand", "tone", "1"]
+  },
+  {
+    "title": "Left Facing Fist Tone1",
+    "symbol": "🤛",
+    "keywords": ["left", "facing", "fist", "tone", "1"]
+  },
+  {
+    "title": "Right Facing Fist Tone1",
+    "symbol": "🤜",
+    "keywords": ["right", "facing", "fist", "tone", "1"]
+  },
+  {
+    "title": "Raised Back Of Hand Tone1",
+    "symbol": "🤚",
+    "keywords": ["raised", "back", "of", "hand", "tone", "1"]
+  },
+  {
+    "title": "Handshake Tone1",
+    "symbol": "🤝",
+    "keywords": ["handshake", "tone", "1"]
+  },
+  {
+    "title": "Cartwheel Tone1",
+    "symbol": "🤸",
+    "keywords": ["person", "doing", "cartwheel", "tone", "1"]
+  },
+  {
+    "title": "Wrestlers Tone1",
+    "symbol": "🤼",
+    "keywords": ["wrestlers", "tone", "1"]
+  },
+  {
+    "title": "Water Polo Tone1",
+    "symbol": "🤽",
+    "keywords": ["water", "polo", "tone", "1"]
+  },
+  {
+    "title": "Handball Tone1",
+    "symbol": "🤾",
+    "keywords": ["handball", "tone", "1"]
+  },
+  {
+    "title": "Juggling Tone1",
+    "symbol": "🤹",
+    "keywords": ["juggling", "tone", "1"]
+  },
+  {
+    "title": "Speech Left",
+    "symbol": "🗨",
+    "keywords": ["left", "speech", "bubble"]
+  },
+  {
+    "title": "Eject",
+    "symbol": "⏏",
+    "keywords": ["eject", "symbol"]
+  },
+  {
+    "title": "Cowboy",
+    "symbol": "🤠",
+    "keywords": ["face", "with", "cowboy", "hat"]
+  },
+  { "title": "Clown", "symbol": "🤡", "keywords": ["clown", "face"] },
+  {
+    "title": "Nauseated Face",
+    "symbol": "🤢",
+    "keywords": ["nauseated", "face"]
+  },
+  {
+    "title": "Rofl",
+    "symbol": "🤣",
+    "keywords": ["rolling", "on", "the", "floor", "laughing"]
+  },
+  {
+    "title": "Drooling Face",
+    "symbol": "🤤",
+    "keywords": ["drooling", "face"]
+  },
+  {
+    "title": "Lying Face",
+    "symbol": "🤥",
+    "keywords": ["lying", "face"]
+  },
+  {
+    "title": "Sneezing Face",
+    "symbol": "🤧",
+    "keywords": ["sneezing", "face"]
+  },
+  {
+    "title": "Black Heart",
+    "symbol": "🖤",
+    "keywords": ["black", "heart"]
+  },
+  { "title": "Eagle", "symbol": "🦅", "keywords": ["eagle"] },
+  { "title": "Duck", "symbol": "🦆", "keywords": ["duck"] },
+  { "title": "Bat", "symbol": "🦇", "keywords": ["bat"] },
+  { "title": "Shark", "symbol": "🦈", "keywords": ["shark"] },
+  { "title": "Owl", "symbol": "🦉", "keywords": ["owl"] },
+  { "title": "Fox", "symbol": "🦊", "keywords": ["fox", "face"] },
+  { "title": "Butterfly", "symbol": "🦋", "keywords": ["butterfly"] },
+  { "title": "Deer", "symbol": "🦌", "keywords": ["deer"] },
+  { "title": "Gorilla", "symbol": "🦍", "keywords": ["gorilla"] },
+  { "title": "Lizard", "symbol": "🦎", "keywords": ["lizard"] },
+  { "title": "Rhino", "symbol": "🦏", "keywords": ["rhinoceros"] },
+  {
+    "title": "Wilted Rose",
+    "symbol": "🥀",
+    "keywords": ["wilted", "flower"]
+  },
+  { "title": "Croissant", "symbol": "🥐", "keywords": ["croissant"] },
+  { "title": "Avocado", "symbol": "🥑", "keywords": ["avocado"] },
+  { "title": "Cucumber", "symbol": "🥒", "keywords": ["cucumber"] },
+  { "title": "Bacon", "symbol": "🥓", "keywords": ["bacon", "pig"] },
+  { "title": "Potato", "symbol": "🥔", "keywords": ["potato"] },
+  { "title": "Carrot", "symbol": "🥕", "keywords": ["carrot"] },
+  {
+    "title": "French Bread",
+    "symbol": "🥖",
+    "keywords": ["baguette", "bread"]
+  },
+  {
+    "title": "Salad",
+    "symbol": "🥗",
+    "keywords": ["green", "salad"]
+  },
+  {
+    "title": "Shallow Pan Of Food",
+    "symbol": "🥘",
+    "keywords": ["shallow", "pan", "of", "food"]
+  },
+  {
+    "title": "Stuffed Flatbread",
+    "symbol": "🥙",
+    "keywords": ["stuffed", "flatbread"]
+  },
+  {
+    "title": "Champagne Glass",
+    "symbol": "🥂",
+    "keywords": ["clinking", "glasses"]
+  },
+  {
+    "title": "Tumbler Glass",
+    "symbol": "🥃",
+    "keywords": ["tumbler", "glass", "booze"]
+  },
+  { "title": "Spoon", "symbol": "🥄", "keywords": ["spoon"] },
+  {
+    "title": "Octagonal Sign",
+    "symbol": "🛑",
+    "keywords": ["octagonal", "sign"]
+  },
+  {
+    "title": "Shopping Cart",
+    "symbol": "🛒",
+    "keywords": ["shopping", "trolley"]
+  },
+  { "title": "Scooter", "symbol": "🛴", "keywords": ["scooter"] },
+  {
+    "title": "Motor Scooter",
+    "symbol": "🛵",
+    "keywords": ["motor", "scooter", "moped"]
+  },
+  { "title": "Canoe", "symbol": "🛶", "keywords": ["canoe"] },
+  {
+    "title": "Boxing Glove",
+    "symbol": "🥊",
+    "keywords": ["boxing", "glove"]
+  },
+  {
+    "title": "Martial Arts Uniform",
+    "symbol": "🥋",
+    "keywords": ["martial", "arts", "uniform"]
+  },
+  { "title": "Goal", "symbol": "🥅", "keywords": ["goal", "net"] },
+  { "title": "Fencer", "symbol": "🤺", "keywords": ["fencer"] },
+  {
+    "title": "First Place",
+    "symbol": "🥇",
+    "keywords": ["first", "place", "medal"]
+  },
+  {
+    "title": "Second Place",
+    "symbol": "🥈",
+    "keywords": ["second", "place", "medal"]
+  },
+  {
+    "title": "Third Place",
+    "symbol": "🥉",
+    "keywords": ["third", "place", "medal"]
+  },
+  {
+    "title": "Drum",
+    "symbol": "🥁",
+    "keywords": ["drum", "with", "drumsticks"]
+  },
+  { "title": "Shrimp", "symbol": "🦐", "keywords": ["shrimp"] },
+  { "title": "Squid", "symbol": "🦑", "keywords": ["squid"] },
+  { "title": "Egg", "symbol": "🥚", "keywords": ["egg"] },
+  {
+    "title": "Milk",
+    "symbol": "🥛",
+    "keywords": ["glass", "of", "milk"]
+  },
+  { "title": "Peanuts", "symbol": "🥜", "keywords": ["peanuts"] },
+  { "title": "Kiwi", "symbol": "🥝", "keywords": ["kiwifruit"] },
+  { "title": "Pancakes", "symbol": "🥞", "keywords": ["pancakes"] }
+]
