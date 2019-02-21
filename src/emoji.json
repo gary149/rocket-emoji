@@ -3476,6 +3476,18 @@
     "keywords": ["helicopter", "transportation", "plane", "travel", "fly"]
   },
   {
+    "title": "Airplane",
+    "symbol": "✈️",
+    "keywords": [
+      "airplane",
+      "transportation",
+      "plane",
+      "travel",
+      "vacation",
+      "fly"
+    ]
+  },
+  {
     "title": "Airplane Small",
     "symbol": "🛩",
     "keywords": [
