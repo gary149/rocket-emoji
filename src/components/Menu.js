@@ -19,6 +19,9 @@ export default ({ active, ontoggle }) => (
         <p>Click emoji to copy to clipboard</p>
         <p class="mb-3">Press ESC to hide search</p>
         <p class="mb-1 text-grey-darkest">Others</p>
+        <a href="https://www.producthunt.com/posts/rocket-emoji">
+          🔎<span class="underline">Product Hunt</span>
+        </a>
         <a href="https://github.com/gary149/rocket-emoji">
           🐙<span class="underline">Source code</span>
         </a>
