@@ -14,6 +14,8 @@ export default ({ active, ontoggle }) => (
     />
     {active && (
       <div class="text-grey-dark text-right text-xs leading-tight">
+        <p class="mb-1 text-grey-darkest mt-3">New</p>
+        <p class="mb-3">Country flags are now available!</p>
         <p class="mb-1 text-grey-darkest">Help</p>
         <p>Start typing ⌨ to search an emoji</p>
         <p>Click emoji to copy to clipboard</p>

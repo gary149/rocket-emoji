@@ -6910,5 +6910,431 @@
   },
   { "title": "Peanuts", "symbol": "🥜", "keywords": ["peanuts"] },
   { "title": "Kiwi", "symbol": "🥝", "keywords": ["kiwifruit"] },
-  { "title": "Pancakes", "symbol": "🥞", "keywords": ["pancakes"] }
+  { "title": "Pancakes", "symbol": "🥞", "keywords": ["pancakes"] },
+  {
+    "title": "Ascension Island",
+    "symbol": "🇦🇨",
+    "keywords": ["ascension island"]
+  },
+  { "title": "Andorra", "symbol": "🇦🇩", "keywords": ["andorra"] },
+  {
+    "title": "United Arab Emirates",
+    "symbol": "🇦🇪",
+    "keywords": ["united arab emirates"]
+  },
+  { "title": "Afghanistan", "symbol": "🇦🇫", "keywords": ["afghanistan"] },
+  {
+    "title": "Antigua & Barbuda",
+    "symbol": "🇦🇬",
+    "keywords": ["antigua & barbuda"]
+  },
+  { "title": "Anguilla", "symbol": "🇦🇮", "keywords": ["anguilla"] },
+  { "title": "Albania", "symbol": "🇦🇱", "keywords": ["albania"] },
+  { "title": "Armenia", "symbol": "🇦🇲", "keywords": ["armenia"] },
+  { "title": "Angola", "symbol": "🇦🇴", "keywords": ["angola"] },
+  { "title": "Antarctica", "symbol": "🇦🇶", "keywords": ["antarctica"] },
+  { "title": "Argentina", "symbol": "🇦🇷", "keywords": ["argentina"] },
+  { "title": "American Samoa", "symbol": "🇦🇸", "keywords": ["american samoa"] },
+  { "title": "Austria", "symbol": "🇦🇹", "keywords": ["austria"] },
+  { "title": "Australia", "symbol": "🇦🇺", "keywords": ["australia"] },
+  { "title": "Aruba", "symbol": "🇦🇼", "keywords": ["aruba"] },
+  { "title": "Åland Islands", "symbol": "🇦🇽", "keywords": ["åland islands"] },
+  { "title": "Azerbaijan", "symbol": "🇦🇿", "keywords": ["azerbaijan"] },
+  {
+    "title": "Bosnia & Herzegovina",
+    "symbol": "🇧🇦",
+    "keywords": ["bosnia & herzegovina"]
+  },
+  { "title": "Barbados", "symbol": "🇧🇧", "keywords": ["barbados"] },
+  { "title": "Bangladesh", "symbol": "🇧🇩", "keywords": ["bangladesh"] },
+  { "title": "Belgium", "symbol": "🇧🇪", "keywords": ["belgium"] },
+  { "title": "Burkina Faso", "symbol": "🇧🇫", "keywords": ["burkina faso"] },
+  { "title": "Bulgaria", "symbol": "🇧🇬", "keywords": ["bulgaria"] },
+  { "title": "Bahrain", "symbol": "🇧🇭", "keywords": ["bahrain"] },
+  { "title": "Burundi", "symbol": "🇧🇮", "keywords": ["burundi"] },
+  { "title": "Benin", "symbol": "🇧🇯", "keywords": ["benin"] },
+  { "title": "St. Barthélemy", "symbol": "🇧🇱", "keywords": ["st. barthélemy"] },
+  { "title": "Bermuda", "symbol": "🇧🇲", "keywords": ["bermuda"] },
+  { "title": "Brunei", "symbol": "🇧🇳", "keywords": ["brunei"] },
+  { "title": "Bolivia", "symbol": "🇧🇴", "keywords": ["bolivia"] },
+  {
+    "title": "Caribbean Netherlands",
+    "symbol": "🇧🇶",
+    "keywords": ["caribbean netherlands"]
+  },
+  { "title": "Brazil", "symbol": "🇧🇷", "keywords": ["brazil"] },
+  { "title": "Bahamas", "symbol": "🇧🇸", "keywords": ["bahamas"] },
+  { "title": "Bhutan", "symbol": "🇧🇹", "keywords": ["bhutan"] },
+  { "title": "Bouvet Island", "symbol": "🇧🇻", "keywords": ["bouvet island"] },
+  { "title": "Botswana", "symbol": "🇧🇼", "keywords": ["botswana"] },
+  { "title": "Belarus", "symbol": "🇧🇾", "keywords": ["belarus"] },
+  { "title": "Belize", "symbol": "🇧🇿", "keywords": ["belize"] },
+  { "title": "Canada", "symbol": "🇨🇦", "keywords": ["canada"] },
+  {
+    "title": "Cocos (Keeling) Islands",
+    "symbol": "🇨🇨",
+    "keywords": ["cocos (keeling) islands"]
+  },
+  {
+    "title": "Congo - Kinshasa",
+    "symbol": "🇨🇩",
+    "keywords": ["congo - kinshasa"]
+  },
+  {
+    "title": "Central African Republic",
+    "symbol": "🇨🇫",
+    "keywords": ["central african republic"]
+  },
+  {
+    "title": "Congo - Brazzaville",
+    "symbol": "🇨🇬",
+    "keywords": ["congo - brazzaville"]
+  },
+  { "title": "Switzerland", "symbol": "🇨🇭", "keywords": ["switzerland"] },
+  { "title": "Côte d’Ivoire", "symbol": "🇨🇮", "keywords": ["côte d’ivoire"] },
+  { "title": "Cook Islands", "symbol": "🇨🇰", "keywords": ["cook islands"] },
+  { "title": "Chile", "symbol": "🇨🇱", "keywords": ["chile"] },
+  { "title": "Cameroon", "symbol": "🇨🇲", "keywords": ["cameroon"] },
+  { "title": "China", "symbol": "🇨🇳", "keywords": ["china"] },
+  { "title": "Colombia", "symbol": "🇨🇴", "keywords": ["colombia"] },
+  {
+    "title": "Clipperton Island",
+    "symbol": "🇨🇵",
+    "keywords": ["clipperton island"]
+  },
+  { "title": "Costa Rica", "symbol": "🇨🇷", "keywords": ["costa rica"] },
+  { "title": "Cuba", "symbol": "🇨🇺", "keywords": ["cuba"] },
+  { "title": "Cape Verde", "symbol": "🇨🇻", "keywords": ["cape verde"] },
+  { "title": "Curaçao", "symbol": "🇨🇼", "keywords": ["curaçao"] },
+  {
+    "title": "Christmas Island",
+    "symbol": "🇨🇽",
+    "keywords": ["christmas island"]
+  },
+  { "title": "Cyprus", "symbol": "🇨🇾", "keywords": ["cyprus"] },
+  { "title": "Czechia", "symbol": "🇨🇿", "keywords": ["czechia"] },
+  { "title": "Germany", "symbol": "🇩🇪", "keywords": ["germany"] },
+  { "title": "Diego Garcia", "symbol": "🇩🇬", "keywords": ["diego garcia"] },
+  { "title": "Djibouti", "symbol": "🇩🇯", "keywords": ["djibouti"] },
+  { "title": "Denmark", "symbol": "🇩🇰", "keywords": ["denmark"] },
+  { "title": "Dominica", "symbol": "🇩🇲", "keywords": ["dominica"] },
+  {
+    "title": "Dominican Republic",
+    "symbol": "🇩🇴",
+    "keywords": ["dominican republic"]
+  },
+  { "title": "Algeria", "symbol": "🇩🇿", "keywords": ["algeria"] },
+  {
+    "title": "Ceuta & Melilla",
+    "symbol": "🇪🇦",
+    "keywords": ["ceuta & melilla"]
+  },
+  { "title": "Ecuador", "symbol": "🇪🇨", "keywords": ["ecuador"] },
+  { "title": "Estonia", "symbol": "🇪🇪", "keywords": ["estonia"] },
+  { "title": "Egypt", "symbol": "🇪🇬", "keywords": ["egypt"] },
+  { "title": "Western Sahara", "symbol": "🇪🇭", "keywords": ["western sahara"] },
+  { "title": "Eritrea", "symbol": "🇪🇷", "keywords": ["eritrea"] },
+  { "title": "Spain", "symbol": "🇪🇸", "keywords": ["spain"] },
+  { "title": "Ethiopia", "symbol": "🇪🇹", "keywords": ["ethiopia"] },
+  { "title": "European Union", "symbol": "🇪🇺", "keywords": ["european union"] },
+  { "title": "Finland", "symbol": "🇫🇮", "keywords": ["finland"] },
+  { "title": "Fiji", "symbol": "🇫🇯", "keywords": ["fiji"] },
+  {
+    "title": "Falkland Islands",
+    "symbol": "🇫🇰",
+    "keywords": ["falkland islands"]
+  },
+  { "title": "Micronesia", "symbol": "🇫🇲", "keywords": ["micronesia"] },
+  { "title": "Faroe Islands", "symbol": "🇫🇴", "keywords": ["faroe islands"] },
+  { "title": "France", "symbol": "🇫🇷", "keywords": ["france"] },
+  { "title": "Gabon", "symbol": "🇬🇦", "keywords": ["gabon"] },
+  { "title": "United Kingdom", "symbol": "🇬🇧", "keywords": ["united kingdom"] },
+  { "title": "Grenada", "symbol": "🇬🇩", "keywords": ["grenada"] },
+  { "title": "Georgia", "symbol": "🇬🇪", "keywords": ["georgia"] },
+  { "title": "French Guiana", "symbol": "🇬🇫", "keywords": ["french guiana"] },
+  { "title": "Guernsey", "symbol": "🇬🇬", "keywords": ["guernsey"] },
+  { "title": "Ghana", "symbol": "🇬🇭", "keywords": ["ghana"] },
+  { "title": "Gibraltar", "symbol": "🇬🇮", "keywords": ["gibraltar"] },
+  { "title": "Greenland", "symbol": "🇬🇱", "keywords": ["greenland"] },
+  { "title": "Gambia", "symbol": "🇬🇲", "keywords": ["gambia"] },
+  { "title": "Guinea", "symbol": "🇬🇳", "keywords": ["guinea"] },
+  { "title": "Guadeloupe", "symbol": "🇬🇵", "keywords": ["guadeloupe"] },
+  {
+    "title": "Equatorial Guinea",
+    "symbol": "🇬🇶",
+    "keywords": ["equatorial guinea"]
+  },
+  { "title": "Greece", "symbol": "🇬🇷", "keywords": ["greece"] },
+  {
+    "title": "South Georgia & South Sandwich Islands",
+    "symbol": "🇬🇸",
+    "keywords": ["south georgia & south sandwich islands"]
+  },
+  { "title": "Guatemala", "symbol": "🇬🇹", "keywords": ["guatemala"] },
+  { "title": "Guam", "symbol": "🇬🇺", "keywords": ["guam"] },
+  { "title": "Guinea-Bissau", "symbol": "🇬🇼", "keywords": ["guinea-bissau"] },
+  { "title": "Guyana", "symbol": "🇬🇾", "keywords": ["guyana"] },
+  {
+    "title": "Hong Kong SAR China",
+    "symbol": "🇭🇰",
+    "keywords": ["hong kong sar china"]
+  },
+  {
+    "title": "Heard & McDonald Islands",
+    "symbol": "🇭🇲",
+    "keywords": ["heard & mcdonald islands"]
+  },
+  { "title": "Honduras", "symbol": "🇭🇳", "keywords": ["honduras"] },
+  { "title": "Croatia", "symbol": "🇭🇷", "keywords": ["croatia"] },
+  { "title": "Haiti", "symbol": "🇭🇹", "keywords": ["haiti"] },
+  { "title": "Hungary", "symbol": "🇭🇺", "keywords": ["hungary"] },
+  { "title": "Canary Islands", "symbol": "🇮🇨", "keywords": ["canary islands"] },
+  { "title": "Indonesia", "symbol": "🇮🇩", "keywords": ["indonesia"] },
+  { "title": "Ireland", "symbol": "🇮🇪", "keywords": ["ireland"] },
+  { "title": "Israel", "symbol": "🇮🇱", "keywords": ["israel"] },
+  { "title": "Isle of Man", "symbol": "🇮🇲", "keywords": ["isle of man"] },
+  { "title": "India", "symbol": "🇮🇳", "keywords": ["india"] },
+  {
+    "title": "British Indian Ocean Territory",
+    "symbol": "🇮🇴",
+    "keywords": ["british indian ocean territory"]
+  },
+  { "title": "Iraq", "symbol": "🇮🇶", "keywords": ["iraq"] },
+  { "title": "Iran", "symbol": "🇮🇷", "keywords": ["iran"] },
+  { "title": "Iceland", "symbol": "🇮🇸", "keywords": ["iceland"] },
+  { "title": "Italy", "symbol": "🇮🇹", "keywords": ["italy"] },
+  { "title": "Jersey", "symbol": "🇯🇪", "keywords": ["jersey"] },
+  { "title": "Jamaica", "symbol": "🇯🇲", "keywords": ["jamaica"] },
+  { "title": "Jordan", "symbol": "🇯🇴", "keywords": ["jordan"] },
+  { "title": "Japan", "symbol": "🇯🇵", "keywords": ["japan"] },
+  { "title": "Kenya", "symbol": "🇰🇪", "keywords": ["kenya"] },
+  { "title": "Kyrgyzstan", "symbol": "🇰🇬", "keywords": ["kyrgyzstan"] },
+  { "title": "Cambodia", "symbol": "🇰🇭", "keywords": ["cambodia"] },
+  { "title": "Kiribati", "symbol": "🇰🇮", "keywords": ["kiribati"] },
+  { "title": "Comoros", "symbol": "🇰🇲", "keywords": ["comoros"] },
+  {
+    "title": "St. Kitts & Nevis",
+    "symbol": "🇰🇳",
+    "keywords": ["st. kitts & nevis"]
+  },
+  { "title": "North Korea", "symbol": "🇰🇵", "keywords": ["north korea"] },
+  { "title": "South Korea", "symbol": "🇰🇷", "keywords": ["south korea"] },
+  { "title": "Kuwait", "symbol": "🇰🇼", "keywords": ["kuwait"] },
+  { "title": "Cayman Islands", "symbol": "🇰🇾", "keywords": ["cayman islands"] },
+  { "title": "Kazakhstan", "symbol": "🇰🇿", "keywords": ["kazakhstan"] },
+  { "title": "Laos", "symbol": "🇱🇦", "keywords": ["laos"] },
+  { "title": "Lebanon", "symbol": "🇱🇧", "keywords": ["lebanon"] },
+  { "title": "St. Lucia", "symbol": "🇱🇨", "keywords": ["st. lucia"] },
+  { "title": "Liechtenstein", "symbol": "🇱🇮", "keywords": ["liechtenstein"] },
+  { "title": "Sri Lanka", "symbol": "🇱🇰", "keywords": ["sri lanka"] },
+  { "title": "Liberia", "symbol": "🇱🇷", "keywords": ["liberia"] },
+  { "title": "Lesotho", "symbol": "🇱🇸", "keywords": ["lesotho"] },
+  { "title": "Lithuania", "symbol": "🇱🇹", "keywords": ["lithuania"] },
+  { "title": "Luxembourg", "symbol": "🇱🇺", "keywords": ["luxembourg"] },
+  { "title": "Latvia", "symbol": "🇱🇻", "keywords": ["latvia"] },
+  { "title": "Libya", "symbol": "🇱🇾", "keywords": ["libya"] },
+  { "title": "Morocco", "symbol": "🇲🇦", "keywords": ["morocco"] },
+  { "title": "Monaco", "symbol": "🇲🇨", "keywords": ["monaco"] },
+  { "title": "Moldova", "symbol": "🇲🇩", "keywords": ["moldova"] },
+  { "title": "Montenegro", "symbol": "🇲🇪", "keywords": ["montenegro"] },
+  { "title": "St. Martin", "symbol": "🇲🇫", "keywords": ["st. martin"] },
+  { "title": "Madagascar", "symbol": "🇲🇬", "keywords": ["madagascar"] },
+  {
+    "title": "Marshall Islands",
+    "symbol": "🇲🇭",
+    "keywords": ["marshall islands"]
+  },
+  {
+    "title": "North Macedonia",
+    "symbol": "🇲🇰",
+    "keywords": ["north macedonia"]
+  },
+  { "title": "Mali", "symbol": "🇲🇱", "keywords": ["mali"] },
+  {
+    "title": "Myanmar (Burma)",
+    "symbol": "🇲🇲",
+    "keywords": ["myanmar (burma)"]
+  },
+  { "title": "Mongolia", "symbol": "🇲🇳", "keywords": ["mongolia"] },
+  {
+    "title": "Macau Sar China",
+    "symbol": "🇲🇴",
+    "keywords": ["macau sar china"]
+  },
+  {
+    "title": "Northern Mariana Islands",
+    "symbol": "🇲🇵",
+    "keywords": ["northern mariana islands"]
+  },
+  { "title": "Martinique", "symbol": "🇲🇶", "keywords": ["martinique"] },
+  { "title": "Mauritania", "symbol": "🇲🇷", "keywords": ["mauritania"] },
+  { "title": "Montserrat", "symbol": "🇲🇸", "keywords": ["montserrat"] },
+  { "title": "Malta", "symbol": "🇲🇹", "keywords": ["malta"] },
+  { "title": "Mauritius", "symbol": "🇲🇺", "keywords": ["mauritius"] },
+  { "title": "Maldives", "symbol": "🇲🇻", "keywords": ["maldives"] },
+  { "title": "Malawi", "symbol": "🇲🇼", "keywords": ["malawi"] },
+  { "title": "Mexico", "symbol": "🇲🇽", "keywords": ["mexico"] },
+  { "title": "Malaysia", "symbol": "🇲🇾", "keywords": ["malaysia"] },
+  { "title": "Mozambique", "symbol": "🇲🇿", "keywords": ["mozambique"] },
+  { "title": "Namibia", "symbol": "🇳🇦", "keywords": ["namibia"] },
+  { "title": "New Caledonia", "symbol": "🇳🇨", "keywords": ["new caledonia"] },
+  { "title": "Niger", "symbol": "🇳🇪", "keywords": ["niger"] },
+  { "title": "Norfolk Island", "symbol": "🇳🇫", "keywords": ["norfolk island"] },
+  { "title": "Nigeria", "symbol": "🇳🇬", "keywords": ["nigeria"] },
+  { "title": "Nicaragua", "symbol": "🇳🇮", "keywords": ["nicaragua"] },
+  { "title": "Netherlands", "symbol": "🇳🇱", "keywords": ["netherlands"] },
+  { "title": "Norway", "symbol": "🇳🇴", "keywords": ["norway"] },
+  { "title": "Nepal", "symbol": "🇳🇵", "keywords": ["nepal"] },
+  { "title": "Nauru", "symbol": "🇳🇷", "keywords": ["nauru"] },
+  { "title": "Niue", "symbol": "🇳🇺", "keywords": ["niue"] },
+  { "title": "New Zealand", "symbol": "🇳🇿", "keywords": ["new zealand"] },
+  { "title": "Oman", "symbol": "🇴🇲", "keywords": ["oman"] },
+  { "title": "Panama", "symbol": "🇵🇦", "keywords": ["panama"] },
+  { "title": "Peru", "symbol": "🇵🇪", "keywords": ["peru"] },
+  {
+    "title": "French Polynesia",
+    "symbol": "🇵🇫",
+    "keywords": ["french polynesia"]
+  },
+  {
+    "title": "Papua New Guinea",
+    "symbol": "🇵🇬",
+    "keywords": ["papua new guinea"]
+  },
+  { "title": "Philippines", "symbol": "🇵🇭", "keywords": ["philippines"] },
+  { "title": "Pakistan", "symbol": "🇵🇰", "keywords": ["pakistan"] },
+  { "title": "Poland", "symbol": "🇵🇱", "keywords": ["poland"] },
+  {
+    "title": "St. Pierre & Miquelon",
+    "symbol": "🇵🇲",
+    "keywords": ["st. pierre & miquelon"]
+  },
+  {
+    "title": "Pitcairn Islands",
+    "symbol": "🇵🇳",
+    "keywords": ["pitcairn islands"]
+  },
+  { "title": "Puerto Rico", "symbol": "🇵🇷", "keywords": ["puerto rico"] },
+  {
+    "title": "Palestinian Territories",
+    "symbol": "🇵🇸",
+    "keywords": ["palestinian territories"]
+  },
+  { "title": "Portugal", "symbol": "🇵🇹", "keywords": ["portugal"] },
+  { "title": "Palau", "symbol": "🇵🇼", "keywords": ["palau"] },
+  { "title": "Paraguay", "symbol": "🇵🇾", "keywords": ["paraguay"] },
+  { "title": "Qatar", "symbol": "🇶🇦", "keywords": ["qatar"] },
+  { "title": "Réunion", "symbol": "🇷🇪", "keywords": ["réunion"] },
+  { "title": "Romania", "symbol": "🇷🇴", "keywords": ["romania"] },
+  { "title": "Serbia", "symbol": "🇷🇸", "keywords": ["serbia"] },
+  { "title": "Russia", "symbol": "🇷🇺", "keywords": ["russia"] },
+  { "title": "Rwanda", "symbol": "🇷🇼", "keywords": ["rwanda"] },
+  { "title": "Saudi Arabia", "symbol": "🇸🇦", "keywords": ["saudi arabia"] },
+  {
+    "title": "Solomon Islands",
+    "symbol": "🇸🇧",
+    "keywords": ["solomon islands"]
+  },
+  { "title": "Seychelles", "symbol": "🇸🇨", "keywords": ["seychelles"] },
+  { "title": "Sudan", "symbol": "🇸🇩", "keywords": ["sudan"] },
+  { "title": "Sweden", "symbol": "🇸🇪", "keywords": ["sweden"] },
+  { "title": "Singapore", "symbol": "🇸🇬", "keywords": ["singapore"] },
+  { "title": "St. Helena", "symbol": "🇸🇭", "keywords": ["st. helena"] },
+  { "title": "Slovenia", "symbol": "🇸🇮", "keywords": ["slovenia"] },
+  {
+    "title": "Svalbard & Jan Mayen",
+    "symbol": "🇸🇯",
+    "keywords": ["svalbard & jan mayen"]
+  },
+  { "title": "Slovakia", "symbol": "🇸🇰", "keywords": ["slovakia"] },
+  { "title": "Sierra Leone", "symbol": "🇸🇱", "keywords": ["sierra leone"] },
+  { "title": "San Marino", "symbol": "🇸🇲", "keywords": ["san marino"] },
+  { "title": "Senegal", "symbol": "🇸🇳", "keywords": ["senegal"] },
+  { "title": "Somalia", "symbol": "🇸🇴", "keywords": ["somalia"] },
+  { "title": "Suriname", "symbol": "🇸🇷", "keywords": ["suriname"] },
+  { "title": "South Sudan", "symbol": "🇸🇸", "keywords": ["south sudan"] },
+  {
+    "title": "São Tomé & Príncipe",
+    "symbol": "🇸🇹",
+    "keywords": ["são tomé & príncipe"]
+  },
+  { "title": "El Salvador", "symbol": "🇸🇻", "keywords": ["el salvador"] },
+  { "title": "Sint Maarten", "symbol": "🇸🇽", "keywords": ["sint maarten"] },
+  { "title": "Syria", "symbol": "🇸🇾", "keywords": ["syria"] },
+  { "title": "Swaziland", "symbol": "🇸🇿", "keywords": ["swaziland"] },
+  {
+    "title": "Tristan Da Cunha",
+    "symbol": "🇹🇦",
+    "keywords": ["tristan da cunha"]
+  },
+  {
+    "title": "Turks & Caicos Islands",
+    "symbol": "🇹🇨",
+    "keywords": ["turks & caicos islands"]
+  },
+  { "title": "Chad", "symbol": "🇹🇩", "keywords": ["chad"] },
+  {
+    "title": "French Southern Territories",
+    "symbol": "🇹🇫",
+    "keywords": ["french southern territories"]
+  },
+  { "title": "Togo", "symbol": "🇹🇬", "keywords": ["togo"] },
+  { "title": "Thailand", "symbol": "🇹🇭", "keywords": ["thailand"] },
+  { "title": "Tajikistan", "symbol": "🇹🇯", "keywords": ["tajikistan"] },
+  { "title": "Tokelau", "symbol": "🇹🇰", "keywords": ["tokelau"] },
+  { "title": "Timor-Leste", "symbol": "🇹🇱", "keywords": ["timor-leste"] },
+  { "title": "Turkmenistan", "symbol": "🇹🇲", "keywords": ["turkmenistan"] },
+  { "title": "Tunisia", "symbol": "🇹🇳", "keywords": ["tunisia"] },
+  { "title": "Tonga", "symbol": "🇹🇴", "keywords": ["tonga"] },
+  { "title": "Turkey", "symbol": "🇹🇷", "keywords": ["turkey"] },
+  {
+    "title": "Trinidad & Tobago",
+    "symbol": "🇹🇹",
+    "keywords": ["trinidad & tobago"]
+  },
+  { "title": "Tuvalu", "symbol": "🇹🇻", "keywords": ["tuvalu"] },
+  { "title": "Taiwan", "symbol": "🇹🇼", "keywords": ["taiwan"] },
+  { "title": "Tanzania", "symbol": "🇹🇿", "keywords": ["tanzania"] },
+  { "title": "Ukraine", "symbol": "🇺🇦", "keywords": ["ukraine"] },
+  { "title": "Uganda", "symbol": "🇺🇬", "keywords": ["uganda"] },
+  {
+    "title": "U.S. Outlying Islands",
+    "symbol": "🇺🇲",
+    "keywords": ["u.s. outlying islands"]
+  },
+  { "title": "United Nations", "symbol": "🇺🇳", "keywords": ["united nations"] },
+  { "title": "United States", "symbol": "🇺🇸", "keywords": ["united states"] },
+  { "title": "Uruguay", "symbol": "🇺🇾", "keywords": ["uruguay"] },
+  { "title": "Uzbekistan", "symbol": "🇺🇿", "keywords": ["uzbekistan"] },
+  { "title": "Vatican City", "symbol": "🇻🇦", "keywords": ["vatican city"] },
+  {
+    "title": "St. Vincent & Grenadines",
+    "symbol": "🇻🇨",
+    "keywords": ["st. vincent & grenadines"]
+  },
+  { "title": "Venezuela", "symbol": "🇻🇪", "keywords": ["venezuela"] },
+  {
+    "title": "British Virgin Islands",
+    "symbol": "🇻🇬",
+    "keywords": ["british virgin islands"]
+  },
+  {
+    "title": "U.S. Virgin Islands",
+    "symbol": "🇻🇮",
+    "keywords": ["u.s. virgin islands"]
+  },
+  { "title": "Vietnam", "symbol": "🇻🇳", "keywords": ["vietnam"] },
+  { "title": "Vanuatu", "symbol": "🇻🇺", "keywords": ["vanuatu"] },
+  {
+    "title": "Wallis & Futuna",
+    "symbol": "🇼🇫",
+    "keywords": ["wallis & futuna"]
+  },
+  { "title": "Samoa", "symbol": "🇼🇸", "keywords": ["samoa"] },
+  { "title": "Kosovo", "symbol": "🇽🇰", "keywords": ["kosovo"] },
+  { "title": "Yemen", "symbol": "🇾🇪", "keywords": ["yemen"] },
+  { "title": "Mayotte", "symbol": "🇾🇹", "keywords": ["mayotte"] },
+  { "title": "South Africa", "symbol": "🇿🇦", "keywords": ["south africa"] },
+  { "title": "Zambia", "symbol": "🇿🇲", "keywords": ["zambia"] },
+  { "title": "Zimbabwe", "symbol": "🇿🇼", "keywords": ["zimbabwe"] }
 ]
