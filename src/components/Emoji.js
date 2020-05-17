@@ -36,6 +36,7 @@ export default ({ emoji }) => (
   <StyledEmoji
     onclick={handleClick}
     class="w-12 h-12 inline-block text-4xl relative rounded text-center hover:bg-grey-lighter"
+    title={emoji.title}
   >
     {emoji.symbol}
   </StyledEmoji>
