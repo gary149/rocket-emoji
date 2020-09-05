@@ -13,7 +13,7 @@
   "dependencies": {
     "hyperapp": "^1.2.9",
     "picostyle": "^2.1.1",
-    "serve": "^9.3.0"
+    "serve": "^10.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
