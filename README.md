@@ -1,13 +1,41 @@
-![Features display](https://res.cloudinary.com/picturesbase/video/upload/c_crop,g_north,h_913,w_1790/v1549280289/rocketemoji_drivfk.gif)
+# create-svelte
 
-## Usage
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
-1. `npm install`
-2. `npm run dev`
+## Creating a project
 
-## Dependencies
+If you're seeing this, you've probably already done this step. Congrats!
 
-- [Hyperapp](https://github.com/hyperapp/hyperapp) - Minimal (1kb), Functional + Stateless components
-- [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/) - A utility-first CSS framework for rapidly building custom user interfaces. - [Article](https://www.mikecr.it/ramblings/functional-css/)
-- [PurgeCSS](https://github.com/FullHuman/purgecss) - Remove unused css (useful with tailwindcss)
-- [Picostyle](https://github.com/morishitter/picostyle) - Ultra small CSS in JS library in 0.4 KB
+```bash
+# create a new project in the current directory
+npm init svelte@next
+
+# create a new project in my-app
+npm init svelte@next my-app
+```
+
+> Note: the `@next` is temporary
+
+
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+
+## Building
+
+Svelte apps are built with *adapters*, which optimise your project for deployment to different environments, like [Begin](https://begin.com), [Netlify](https://www.netlify.com), [Vercel](https://vercel.com) and so on. (You can also create your own adapter — instructions TODO.)
+
+By default, `npm run build` will generate a Node app that you can run with `node build`. To use a different adapter, install it and update your `svelte.config.js` accordingly. The following official adapters are available:
+
+* [@sveltejs/adapter-node](https://github.com/sveltejs/kit/tree/master/packages/adapter-node)
+* [@sveltejs/adapter-static](https://github.com/sveltejs/kit/tree/master/packages/adapter-static)
+* [@sveltejs/adapter-netlify](https://github.com/sveltejs/kit/tree/master/packages/adapter-netlify)
+* ...more soon
