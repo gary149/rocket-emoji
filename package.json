@@ -23,7 +23,7 @@
     "@fullhuman/postcss-purgecss": "^1.1.0",
     "@hyperapp/logger": "^0.4.1",
     "autoprefixer": "^9.4.6",
-    "parcel": "^1.11.0",
+    "parcel": "^2.16.1",
     "parcel-plugin-sw-precache": "^1.0.3",
     "purgecss": "^1.0.1",
     "tailwindcss": "^0.4.1"
