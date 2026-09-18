@@ -666,6 +666,2317 @@
     "keywords": ["sleeping", "face", "smiley", "tired", "emotion", "goodnight"]
   },
   {
+    "title": "Transgender Symbol",
+    "symbol": "⚧️",
+    "keywords": ["transgender", "symbol"]
+  },
+  {
+    "title": "Infinity",
+    "symbol": "♾️",
+    "keywords": ["infinity"]
+  },
+  {
+    "title": "Large Orange Circle",
+    "symbol": "🟠",
+    "keywords": ["large", "orange", "circle"]
+  },
+  {
+    "title": "Large Yellow Circle",
+    "symbol": "🟡",
+    "keywords": ["large", "yellow", "circle"]
+  },
+  {
+    "title": "Large Green Circle",
+    "symbol": "🟢",
+    "keywords": ["large", "green", "circle"]
+  },
+  {
+    "title": "Large Purple Circle",
+    "symbol": "🟣",
+    "keywords": ["large", "purple", "circle"]
+  },
+  {
+    "title": "Large Brown Circle",
+    "symbol": "🟤",
+    "keywords": ["large", "brown", "circle"]
+  },
+  {
+    "title": "Large Red Square",
+    "symbol": "🟥",
+    "keywords": ["large", "red", "square", "card", "penalty"]
+  },
+  {
+    "title": "Large Orange Square",
+    "symbol": "🟧",
+    "keywords": ["large", "orange", "square"]
+  },
+  {
+    "title": "Large Yellow Square",
+    "symbol": "🟨",
+    "keywords": ["large", "yellow", "square", "card", "penalty"]
+  },
+  {
+    "title": "Large Green Square",
+    "symbol": "🟩",
+    "keywords": ["large", "green", "square"]
+  },
+  {
+    "title": "Large Blue Square",
+    "symbol": "🟦",
+    "keywords": ["large", "blue", "square"]
+  },
+  {
+    "title": "Large Purple Square",
+    "symbol": "🟪",
+    "keywords": ["large", "purple", "square"]
+  },
+  {
+    "title": "Large Brown Square",
+    "symbol": "🟫",
+    "keywords": ["large", "brown", "square"]
+  },
+  {
+    "title": "Smiling Face With 3 Hearts",
+    "symbol": "🥰",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "eyes",
+      "three",
+      "hearts",
+      "adore",
+      "crush",
+      "ily",
+      "love",
+      "romance",
+      "smile",
+      "you"
+    ]
+  },
+  {
+    "title": "Star Struck",
+    "symbol": "🤩",
+    "keywords": [
+      "grinning",
+      "face",
+      "with",
+      "star",
+      "eyes",
+      "excited",
+      "smile",
+      "starry-eyed",
+      "wow"
+    ]
+  },
+  {
+    "title": "Smiling Face With Tear",
+    "symbol": "🥲",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "tear",
+      "glad",
+      "grateful",
+      "happy",
+      "joy",
+      "pain",
+      "proud",
+      "relieved",
+      "smiley",
+      "touched"
+    ]
+  },
+  {
+    "title": "Zany Face",
+    "symbol": "🤪",
+    "keywords": [
+      "grinning",
+      "face",
+      "with",
+      "one",
+      "large",
+      "small",
+      "eye",
+      "crazy",
+      "eyes",
+      "goofy",
+      "zany"
+    ]
+  },
+  {
+    "title": "Face With Hand Over Mouth",
+    "symbol": "🤭",
+    "keywords": [
+      "smiling",
+      "face",
+      "with",
+      "eyes",
+      "hand",
+      "covering",
+      "mouth",
+      "giggle",
+      "giggling",
+      "oops",
+      "realization",
+      "secret",
+      "shock",
+      "sudden",
+      "surprise",
+      "whoops"
+    ]
+  },
+  {
+    "title": "Shushing Face",
+    "symbol": "🤫",
+    "keywords": [
+      "face",
+      "with",
+      "finger",
+      "covering",
+      "closed",
+      "lips",
+      "quiet",
+      "shh",
+      "shushing"
+    ]
+  },
+  {
+    "title": "Face With Raised Eyebrow",
+    "symbol": "🤨",
+    "keywords": [
+      "face",
+      "with",
+      "one",
+      "eyebrow",
+      "raised",
+      "disapproval",
+      "disbelief",
+      "distrust",
+      "emoji",
+      "hmm",
+      "mild",
+      "skeptical",
+      "skepticism",
+      "surprise",
+      "what"
+    ]
+  },
+  {
+    "title": "Face Vomiting",
+    "symbol": "🤮",
+    "keywords": [
+      "face",
+      "with",
+      "open",
+      "mouth",
+      "vomiting",
+      "barf",
+      "ew",
+      "gross",
+      "puke",
+      "sick",
+      "spew",
+      "throw",
+      "up"
+    ]
+  },
+  {
+    "title": "Hot Face",
+    "symbol": "🥵",
+    "keywords": [
+      "overheated",
+      "face",
+      "dying",
+      "feverish",
+      "heat",
+      "hot",
+      "panting",
+      "red-faced",
+      "stroke",
+      "sweating",
+      "tongue"
+    ]
+  },
+  {
+    "title": "Cold Face",
+    "symbol": "🥶",
+    "keywords": [
+      "freezing",
+      "face",
+      "blue-faced",
+      "cold",
+      "frostbite",
+      "icicles",
+      "subzero",
+      "teeth"
+    ]
+  },
+  {
+    "title": "Woozy Face",
+    "symbol": "🥴",
+    "keywords": [
+      "face",
+      "with",
+      "uneven",
+      "eyes",
+      "wavy",
+      "mouth",
+      "dizzy",
+      "drunk",
+      "intoxicated",
+      "tipsy",
+      "woozy"
+    ]
+  },
+  {
+    "title": "Exploding Head",
+    "symbol": "🤯",
+    "keywords": [
+      "shocked",
+      "face",
+      "with",
+      "exploding",
+      "head",
+      "blown",
+      "explode",
+      "mindblown",
+      "no",
+      "way"
+    ]
+  },
+  {
+    "title": "Partying Face",
+    "symbol": "🥳",
+    "keywords": [
+      "face",
+      "with",
+      "party",
+      "horn",
+      "hat",
+      "bday",
+      "birthday",
+      "celebrate",
+      "celebration",
+      "excited",
+      "happy",
+      "hooray",
+      "partying"
+    ]
+  },
+  {
+    "title": "Disguised Face",
+    "symbol": "🥸",
+    "keywords": [
+      "disguised",
+      "face",
+      "disguise",
+      "eyebrow",
+      "glasses",
+      "incognito",
+      "moustache",
+      "mustache",
+      "nose",
+      "person",
+      "spy",
+      "tache",
+      "tash"
+    ]
+  },
+  {
+    "title": "Face With Monocle",
+    "symbol": "🧐",
+    "keywords": [
+      "face",
+      "with",
+      "monocle",
+      "classy",
+      "fancy",
+      "rich",
+      "stuffy",
+      "wealthy"
+    ]
+  },
+  {
+    "title": "Pleading Face",
+    "symbol": "🥺",
+    "keywords": [
+      "face",
+      "with",
+      "pleading",
+      "eyes",
+      "begging",
+      "big",
+      "mercy",
+      "not",
+      "please",
+      "pretty",
+      "puppy",
+      "sad",
+      "why"
+    ]
+  },
+  {
+    "title": "Yawning Face",
+    "symbol": "🥱",
+    "keywords": [
+      "yawning",
+      "face",
+      "bedtime",
+      "bored",
+      "goodnight",
+      "nap",
+      "night",
+      "sleepy",
+      "tired",
+      "whatever",
+      "zzz"
+    ]
+  },
+  {
+    "title": "Face With Symbols On Mouth",
+    "symbol": "🤬",
+    "keywords": [
+      "serious",
+      "face",
+      "with",
+      "symbols",
+      "covering",
+      "mouth",
+      "censor",
+      "cursing",
+      "cussing",
+      "mad",
+      "pissed",
+      "swearing"
+    ]
+  },
+  {
+    "title": "Orange Heart",
+    "symbol": "🧡",
+    "keywords": ["orange", "heart"]
+  },
+  {
+    "title": "Brown Heart",
+    "symbol": "🤎",
+    "keywords": ["brown", "heart"]
+  },
+  {
+    "title": "White Heart",
+    "symbol": "🤍",
+    "keywords": ["white", "heart"]
+  },
+  {
+    "title": "Pinched Fingers",
+    "symbol": "🤌",
+    "keywords": [
+      "pinched",
+      "fingers",
+      "gesture",
+      "hand",
+      "hold",
+      "huh",
+      "interrogation",
+      "patience",
+      "relax",
+      "sarcastic",
+      "ugh",
+      "what",
+      "zip"
+    ]
+  },
+  {
+    "title": "Pinching Hand",
+    "symbol": "🤏",
+    "keywords": [
+      "pinching",
+      "hand",
+      "amount",
+      "bit",
+      "fingers",
+      "little",
+      "small",
+      "sort"
+    ]
+  },
+  {
+    "title": "I Love You Hand Sign",
+    "symbol": "🤟",
+    "keywords": [
+      "love",
+      "you",
+      "hand",
+      "sign",
+      "fingers",
+      "gesture",
+      "ily",
+      "love-you",
+      "three"
+    ]
+  },
+  {
+    "title": "Palms Up Together",
+    "symbol": "🤲",
+    "keywords": [
+      "palms",
+      "up",
+      "together",
+      "cupped",
+      "dua",
+      "hands",
+      "prayer",
+      "wish"
+    ]
+  },
+  {
+    "title": "Mechanical Arm",
+    "symbol": "🦾",
+    "keywords": ["mechanical", "arm", "accessibility", "prosthetic"]
+  },
+  {
+    "title": "Mechanical Leg",
+    "symbol": "🦿",
+    "keywords": ["mechanical", "leg", "accessibility", "prosthetic"]
+  },
+  {
+    "title": "Leg",
+    "symbol": "🦵",
+    "keywords": ["leg", "bent", "foot", "kick", "knee", "limb"]
+  },
+  {
+    "title": "Foot",
+    "symbol": "🦶",
+    "keywords": ["foot", "ankle", "feet", "kick", "stomp"]
+  },
+  {
+    "title": "Ear With Hearing Aid",
+    "symbol": "🦻",
+    "keywords": ["ear", "with", "hearing", "aid", "accessibility", "hard"]
+  },
+  {
+    "title": "Brain",
+    "symbol": "🧠",
+    "keywords": ["brain", "intelligent", "smart"]
+  },
+  {
+    "title": "Anatomical Heart",
+    "symbol": "🫀",
+    "keywords": [
+      "anatomical",
+      "heart",
+      "beat",
+      "cardiology",
+      "heartbeat",
+      "organ",
+      "pulse",
+      "real",
+      "red"
+    ]
+  },
+  {
+    "title": "Lungs",
+    "symbol": "🫁",
+    "keywords": [
+      "lungs",
+      "breathe",
+      "exhalation",
+      "inhalation",
+      "lung",
+      "organ",
+      "respiration"
+    ]
+  },
+  {
+    "title": "Tooth",
+    "symbol": "🦷",
+    "keywords": ["tooth", "dentist", "pearly", "teeth", "white"]
+  },
+  {
+    "title": "Bone",
+    "symbol": "🦴",
+    "keywords": ["bone", "bones", "dog", "skeleton", "wishbone"]
+  },
+  {
+    "title": "Child",
+    "symbol": "🧒",
+    "keywords": ["child", "bright-eyed", "grandchild", "kid", "younger"]
+  },
+  {
+    "title": "Adult",
+    "symbol": "🧑",
+    "keywords": ["adult"]
+  },
+  {
+    "title": "Bearded Person",
+    "symbol": "🧔",
+    "keywords": ["bearded", "person", "whiskers"]
+  },
+  {
+    "title": "Older Adult",
+    "symbol": "🧓",
+    "keywords": [
+      "older",
+      "adult",
+      "elderly",
+      "grandparent",
+      "old",
+      "person",
+      "wise"
+    ]
+  },
+  {
+    "title": "Deaf Person",
+    "symbol": "🧏",
+    "keywords": ["deaf", "person", "accessibility", "ear", "gesture", "hear"]
+  },
+  {
+    "title": "Ninja",
+    "symbol": "🥷",
+    "keywords": [
+      "ninja",
+      "assassin",
+      "fighter",
+      "hidden",
+      "person",
+      "secret",
+      "skills",
+      "sly",
+      "soldier",
+      "stealth",
+      "war"
+    ]
+  },
+  {
+    "title": "Person With Headscarf",
+    "symbol": "🧕",
+    "keywords": [
+      "person",
+      "with",
+      "headscarf",
+      "bandana",
+      "hijab",
+      "kerchief",
+      "mantilla",
+      "tichel",
+      "woman"
+    ]
+  },
+  {
+    "title": "Breast Feeding",
+    "symbol": "🤱",
+    "keywords": [
+      "breast-feeding",
+      "baby",
+      "breast",
+      "feeding",
+      "mom",
+      "mother",
+      "nursing",
+      "woman"
+    ]
+  },
+  {
+    "title": "Superhero",
+    "symbol": "🦸",
+    "keywords": ["superhero", "good", "hero", "superpower"]
+  },
+  {
+    "title": "Supervillain",
+    "symbol": "🦹",
+    "keywords": [
+      "supervillain",
+      "bad",
+      "criminal",
+      "evil",
+      "superpower",
+      "villain"
+    ]
+  },
+  {
+    "title": "Mage",
+    "symbol": "🧙",
+    "keywords": [
+      "mage",
+      "fantasy",
+      "magic",
+      "play",
+      "sorcerer",
+      "sorceress",
+      "sorcery",
+      "spell",
+      "summon",
+      "witch",
+      "wizard"
+    ]
+  },
+  {
+    "title": "Fairy",
+    "symbol": "🧚",
+    "keywords": [
+      "fairy",
+      "fairytale",
+      "fantasy",
+      "myth",
+      "person",
+      "pixie",
+      "tale",
+      "wings"
+    ]
+  },
+  {
+    "title": "Vampire",
+    "symbol": "🧛",
+    "keywords": [
+      "vampire",
+      "blood",
+      "dracula",
+      "fangs",
+      "halloween",
+      "scary",
+      "supernatural",
+      "teeth",
+      "undead"
+    ]
+  },
+  {
+    "title": "Merperson",
+    "symbol": "🧜",
+    "keywords": [
+      "merperson",
+      "creature",
+      "fairytale",
+      "folklore",
+      "ocean",
+      "sea",
+      "siren",
+      "trident"
+    ]
+  },
+  {
+    "title": "Elf",
+    "symbol": "🧝",
+    "keywords": [
+      "elf",
+      "elves",
+      "enchantment",
+      "fantasy",
+      "folklore",
+      "magical",
+      "myth"
+    ]
+  },
+  {
+    "title": "Genie",
+    "symbol": "🧞",
+    "keywords": [
+      "genie",
+      "djinn",
+      "fantasy",
+      "jinn",
+      "lamp",
+      "myth",
+      "rub",
+      "wishes"
+    ]
+  },
+  {
+    "title": "Zombie",
+    "symbol": "🧟",
+    "keywords": [
+      "zombie",
+      "apocalypse",
+      "dead",
+      "halloween",
+      "horror",
+      "scary",
+      "undead",
+      "walking"
+    ]
+  },
+  {
+    "title": "Standing Person",
+    "symbol": "🧍",
+    "keywords": ["standing", "person"]
+  },
+  {
+    "title": "Kneeling Person",
+    "symbol": "🧎",
+    "keywords": ["kneeling", "person", "knees"]
+  },
+  {
+    "title": "Person In Steamy Room",
+    "symbol": "🧖",
+    "keywords": [
+      "person",
+      "in",
+      "steamy",
+      "room",
+      "day",
+      "luxurious",
+      "pamper",
+      "relax",
+      "sauna",
+      "spa",
+      "steambath",
+      "unwind"
+    ]
+  },
+  {
+    "title": "Person Climbing",
+    "symbol": "🧗",
+    "keywords": [
+      "person",
+      "climbing",
+      "climber",
+      "mountain",
+      "rock",
+      "scale",
+      "up"
+    ]
+  },
+  {
+    "title": "Person In Lotus Position",
+    "symbol": "🧘",
+    "keywords": [
+      "person",
+      "in",
+      "lotus",
+      "position",
+      "cross",
+      "legged",
+      "legs",
+      "meditation",
+      "peace",
+      "relax",
+      "serenity",
+      "yoga",
+      "yogi",
+      "zen"
+    ]
+  },
+  {
+    "title": "People Holding Hands",
+    "symbol": "🧑‍🤝‍🧑",
+    "keywords": [
+      "people",
+      "holding",
+      "hands",
+      "bae",
+      "bestie",
+      "bff",
+      "couple",
+      "dating",
+      "flirt",
+      "friends",
+      "hand",
+      "hold",
+      "twins"
+    ]
+  },
+  {
+    "title": "Kiss: Woman, Man",
+    "symbol": "👩‍❤️‍💋‍👨",
+    "keywords": [
+      "kiss",
+      "woman",
+      "man",
+      "anniversary",
+      "babe",
+      "bae",
+      "couple",
+      "date",
+      "dating",
+      "heart",
+      "love",
+      "mwah",
+      "person",
+      "romance",
+      "together",
+      "xoxo"
+    ]
+  },
+  {
+    "title": "Kiss: Man, Man",
+    "symbol": "👨‍❤️‍💋‍👨",
+    "keywords": [
+      "kiss",
+      "man",
+      "anniversary",
+      "babe",
+      "bae",
+      "couple",
+      "date",
+      "dating",
+      "heart",
+      "love",
+      "mwah",
+      "person",
+      "romance",
+      "together",
+      "xoxo"
+    ]
+  },
+  {
+    "title": "Kiss: Woman, Woman",
+    "symbol": "👩‍❤️‍💋‍👩",
+    "keywords": [
+      "kiss",
+      "woman",
+      "anniversary",
+      "babe",
+      "bae",
+      "couple",
+      "date",
+      "dating",
+      "heart",
+      "love",
+      "mwah",
+      "person",
+      "romance",
+      "together",
+      "xoxo"
+    ]
+  },
+  {
+    "title": "Couple with Heart: Woman, Man",
+    "symbol": "👩‍❤️‍👨",
+    "keywords": [
+      "couple",
+      "with",
+      "heart",
+      "woman",
+      "man",
+      "anniversary",
+      "babe",
+      "bae",
+      "dating",
+      "kiss",
+      "love",
+      "person",
+      "relationship",
+      "romance",
+      "together",
+      "you"
+    ]
+  },
+  {
+    "title": "Couple with Heart: Man, Man",
+    "symbol": "👨‍❤️‍👨",
+    "keywords": [
+      "couple",
+      "with",
+      "heart",
+      "man",
+      "anniversary",
+      "babe",
+      "bae",
+      "dating",
+      "kiss",
+      "love",
+      "person",
+      "relationship",
+      "romance",
+      "together",
+      "you"
+    ]
+  },
+  {
+    "title": "Couple with Heart: Woman, Woman",
+    "symbol": "👩‍❤️‍👩",
+    "keywords": [
+      "couple",
+      "with",
+      "heart",
+      "woman",
+      "anniversary",
+      "babe",
+      "bae",
+      "dating",
+      "kiss",
+      "love",
+      "person",
+      "relationship",
+      "romance",
+      "together",
+      "you"
+    ]
+  },
+  {
+    "title": "Family: Man, Woman, Boy",
+    "symbol": "👨‍👩‍👦",
+    "keywords": ["family", "man", "woman", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Woman, Girl",
+    "symbol": "👨‍👩‍👧",
+    "keywords": ["family", "man", "woman", "girl", "child"]
+  },
+  {
+    "title": "Family: Man, Woman, Girl, Boy",
+    "symbol": "👨‍👩‍👧‍👦",
+    "keywords": ["family", "man", "woman", "girl", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Woman, Boy, Boy",
+    "symbol": "👨‍👩‍👦‍👦",
+    "keywords": ["family", "man", "woman", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Woman, Girl, Girl",
+    "symbol": "👨‍👩‍👧‍👧",
+    "keywords": ["family", "man", "woman", "girl", "child"]
+  },
+  {
+    "title": "Family: Man, Man, Boy",
+    "symbol": "👨‍👨‍👦",
+    "keywords": ["family", "man", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Man, Girl",
+    "symbol": "👨‍👨‍👧",
+    "keywords": ["family", "man", "girl", "child"]
+  },
+  {
+    "title": "Family: Man, Man, Girl, Boy",
+    "symbol": "👨‍👨‍👧‍👦",
+    "keywords": ["family", "man", "girl", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Man, Boy, Boy",
+    "symbol": "👨‍👨‍👦‍👦",
+    "keywords": ["family", "man", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Man, Girl, Girl",
+    "symbol": "👨‍👨‍👧‍👧",
+    "keywords": ["family", "man", "girl", "child"]
+  },
+  {
+    "title": "Family: Woman, Woman, Boy",
+    "symbol": "👩‍👩‍👦",
+    "keywords": ["family", "woman", "boy", "child"]
+  },
+  {
+    "title": "Family: Woman, Woman, Girl",
+    "symbol": "👩‍👩‍👧",
+    "keywords": ["family", "woman", "girl", "child"]
+  },
+  {
+    "title": "Family: Woman, Woman, Girl, Boy",
+    "symbol": "👩‍👩‍👧‍👦",
+    "keywords": ["family", "woman", "girl", "boy", "child"]
+  },
+  {
+    "title": "Family: Woman, Woman, Boy, Boy",
+    "symbol": "👩‍👩‍👦‍👦",
+    "keywords": ["family", "woman", "boy", "child"]
+  },
+  {
+    "title": "Family: Woman, Woman, Girl, Girl",
+    "symbol": "👩‍👩‍👧‍👧",
+    "keywords": ["family", "woman", "girl", "child"]
+  },
+  {
+    "title": "Family: Man, Boy",
+    "symbol": "👨‍👦",
+    "keywords": ["family", "man", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Boy, Boy",
+    "symbol": "👨‍👦‍👦",
+    "keywords": ["family", "man", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Girl",
+    "symbol": "👨‍👧",
+    "keywords": ["family", "man", "girl", "child"]
+  },
+  {
+    "title": "Family: Man, Girl, Boy",
+    "symbol": "👨‍👧‍👦",
+    "keywords": ["family", "man", "girl", "boy", "child"]
+  },
+  {
+    "title": "Family: Man, Girl, Girl",
+    "symbol": "👨‍👧‍👧",
+    "keywords": ["family", "man", "girl", "child"]
+  },
+  {
+    "title": "Family: Woman, Boy",
+    "symbol": "👩‍👦",
+    "keywords": ["family", "woman", "boy", "child"]
+  },
+  {
+    "title": "Family: Woman, Boy, Boy",
+    "symbol": "👩‍👦‍👦",
+    "keywords": ["family", "woman", "boy", "child"]
+  },
+  {
+    "title": "Family: Woman, Girl",
+    "symbol": "👩‍👧",
+    "keywords": ["family", "woman", "girl", "child"]
+  },
+  {
+    "title": "Family: Woman, Girl, Boy",
+    "symbol": "👩‍👧‍👦",
+    "keywords": ["family", "woman", "girl", "boy", "child"]
+  },
+  {
+    "title": "Family: Woman, Girl, Girl",
+    "symbol": "👩‍👧‍👧",
+    "keywords": ["family", "woman", "girl", "child"]
+  },
+  {
+    "title": "People Hugging",
+    "symbol": "🫂",
+    "keywords": [
+      "people",
+      "hugging",
+      "comfort",
+      "embrace",
+      "farewell",
+      "friendship",
+      "goodbye",
+      "hello",
+      "love",
+      "thanks"
+    ]
+  },
+  {
+    "title": "Orangutan",
+    "symbol": "🦧",
+    "keywords": ["orangutan", "animal", "ape", "monkey"]
+  },
+  {
+    "title": "Guide Dog",
+    "symbol": "🦮",
+    "keywords": ["guide", "dog", "accessibility", "animal", "blind"]
+  },
+  {
+    "title": "Raccoon",
+    "symbol": "🦝",
+    "keywords": ["raccoon", "animal", "curious", "sly"]
+  },
+  {
+    "title": "Zebra Face",
+    "symbol": "🦓",
+    "keywords": ["zebra", "face", "animal", "stripe"]
+  },
+  {
+    "title": "Bison",
+    "symbol": "🦬",
+    "keywords": ["bison", "animal", "buffalo", "herd", "wisent"]
+  },
+  {
+    "title": "Llama",
+    "symbol": "🦙",
+    "keywords": ["llama", "alpaca", "animal", "guanaco", "vicuña", "wool"]
+  },
+  {
+    "title": "Giraffe Face",
+    "symbol": "🦒",
+    "keywords": ["giraffe", "face", "animal", "spots"]
+  },
+  {
+    "title": "Mammoth",
+    "symbol": "🦣",
+    "keywords": ["mammoth", "animal", "extinction", "large", "tusk", "wooly"]
+  },
+  {
+    "title": "Hippopotamus",
+    "symbol": "🦛",
+    "keywords": ["hippopotamus", "animal", "hippo"]
+  },
+  {
+    "title": "Beaver",
+    "symbol": "🦫",
+    "keywords": ["beaver", "animal", "dam", "teeth"]
+  },
+  {
+    "title": "Hedgehog",
+    "symbol": "🦔",
+    "keywords": ["hedgehog", "animal", "spiny"]
+  },
+  {
+    "title": "Sloth",
+    "symbol": "🦥",
+    "keywords": ["sloth", "lazy", "slow"]
+  },
+  {
+    "title": "Otter",
+    "symbol": "🦦",
+    "keywords": ["otter", "animal", "fishing", "playful"]
+  },
+  {
+    "title": "Skunk",
+    "symbol": "🦨",
+    "keywords": ["skunk", "animal", "stink"]
+  },
+  {
+    "title": "Kangaroo",
+    "symbol": "🦘",
+    "keywords": ["kangaroo", "animal", "joey", "jump", "marsupial"]
+  },
+  {
+    "title": "Badger",
+    "symbol": "🦡",
+    "keywords": ["badger", "animal", "honey", "pester"]
+  },
+  {
+    "title": "Swan",
+    "symbol": "🦢",
+    "keywords": [
+      "swan",
+      "animal",
+      "bird",
+      "cygnet",
+      "duckling",
+      "ornithology",
+      "ugly"
+    ]
+  },
+  {
+    "title": "Dodo",
+    "symbol": "🦤",
+    "keywords": ["dodo", "animal", "bird", "extinction", "large", "ornithology"]
+  },
+  {
+    "title": "Feather",
+    "symbol": "🪶",
+    "keywords": ["feather", "bird", "flight", "light", "plumage"]
+  },
+  {
+    "title": "Flamingo",
+    "symbol": "🦩",
+    "keywords": [
+      "flamingo",
+      "animal",
+      "bird",
+      "flamboyant",
+      "ornithology",
+      "tropical"
+    ]
+  },
+  {
+    "title": "Peacock",
+    "symbol": "🦚",
+    "keywords": [
+      "peacock",
+      "animal",
+      "bird",
+      "colorful",
+      "ornithology",
+      "ostentatious",
+      "peahen",
+      "pretty",
+      "proud"
+    ]
+  },
+  {
+    "title": "Parrot",
+    "symbol": "🦜",
+    "keywords": ["parrot", "animal", "bird", "ornithology", "pirate", "talk"]
+  },
+  {
+    "title": "Sauropod",
+    "symbol": "🦕",
+    "keywords": [
+      "sauropod",
+      "brachiosaurus",
+      "brontosaurus",
+      "dinosaur",
+      "diplodocus"
+    ]
+  },
+  {
+    "title": "T Rex",
+    "symbol": "🦖",
+    "keywords": ["t-rex", "dinosaur", "rex", "tyrannosaurus"]
+  },
+  {
+    "title": "Seal",
+    "symbol": "🦭",
+    "keywords": ["seal", "animal", "lion", "ocean", "sea"]
+  },
+  {
+    "title": "Lobster",
+    "symbol": "🦞",
+    "keywords": ["lobster", "animal", "bisque", "claws", "seafood"]
+  },
+  {
+    "title": "Oyster",
+    "symbol": "🦪",
+    "keywords": ["oyster", "diving", "pearl"]
+  },
+  {
+    "title": "Beetle",
+    "symbol": "🪲",
+    "keywords": ["beetle", "animal", "bug", "insect"]
+  },
+  {
+    "title": "Cricket",
+    "symbol": "🦗",
+    "keywords": [
+      "cricket",
+      "animal",
+      "bug",
+      "grasshopper",
+      "insect",
+      "orthoptera"
+    ]
+  },
+  {
+    "title": "Cockroach",
+    "symbol": "🪳",
+    "keywords": ["cockroach", "animal", "insect", "pest", "roach"]
+  },
+  {
+    "title": "Mosquito",
+    "symbol": "🦟",
+    "keywords": [
+      "mosquito",
+      "bite",
+      "disease",
+      "fever",
+      "insect",
+      "malaria",
+      "pest",
+      "virus"
+    ]
+  },
+  {
+    "title": "Fly",
+    "symbol": "🪰",
+    "keywords": [
+      "fly",
+      "animal",
+      "disease",
+      "insect",
+      "maggot",
+      "pest",
+      "rotting"
+    ]
+  },
+  {
+    "title": "Worm",
+    "symbol": "🪱",
+    "keywords": ["worm", "animal", "annelid", "earthworm", "parasite"]
+  },
+  {
+    "title": "Microbe",
+    "symbol": "🦠",
+    "keywords": ["microbe", "amoeba", "bacteria", "science", "virus"]
+  },
+  {
+    "title": "Potted Plant",
+    "symbol": "🪴",
+    "keywords": ["potted", "plant", "decor", "grow", "house", "nurturing"]
+  },
+  {
+    "title": "Mango",
+    "symbol": "🥭",
+    "keywords": ["mango", "food", "fruit", "tropical"]
+  },
+  {
+    "title": "Blueberries",
+    "symbol": "🫐",
+    "keywords": [
+      "blueberries",
+      "berries",
+      "berry",
+      "bilberry",
+      "blueberry",
+      "food",
+      "fruit"
+    ]
+  },
+  {
+    "title": "Olive",
+    "symbol": "🫒",
+    "keywords": ["olive", "food"]
+  },
+  {
+    "title": "Coconut",
+    "symbol": "🥥",
+    "keywords": ["coconut", "colada", "palm", "piña"]
+  },
+  {
+    "title": "Bell Pepper",
+    "symbol": "🫑",
+    "keywords": ["bell", "pepper", "capsicum", "food", "vegetable"]
+  },
+  {
+    "title": "Leafy Green",
+    "symbol": "🥬",
+    "keywords": [
+      "leafy",
+      "green",
+      "bok",
+      "burgers",
+      "cabbage",
+      "choy",
+      "kale",
+      "lettuce",
+      "salad"
+    ]
+  },
+  {
+    "title": "Broccoli",
+    "symbol": "🥦",
+    "keywords": ["broccoli", "cabbage", "wild"]
+  },
+  {
+    "title": "Garlic",
+    "symbol": "🧄",
+    "keywords": ["garlic", "flavoring"]
+  },
+  {
+    "title": "Onion",
+    "symbol": "🧅",
+    "keywords": ["onion", "flavoring"]
+  },
+  {
+    "title": "Flatbread",
+    "symbol": "🫓",
+    "keywords": [
+      "flatbread",
+      "arepa",
+      "bread",
+      "food",
+      "gordita",
+      "lavash",
+      "naan",
+      "pita"
+    ]
+  },
+  {
+    "title": "Pretzel",
+    "symbol": "🥨",
+    "keywords": ["pretzel", "convoluted", "twisted"]
+  },
+  {
+    "title": "Bagel",
+    "symbol": "🥯",
+    "keywords": ["bagel", "bakery", "bread", "breakfast", "schmear"]
+  },
+  {
+    "title": "Waffle",
+    "symbol": "🧇",
+    "keywords": ["waffle", "breakfast", "indecisive", "iron"]
+  },
+  {
+    "title": "Cut Of Meat",
+    "symbol": "🥩",
+    "keywords": [
+      "cut",
+      "of",
+      "meat",
+      "chop",
+      "lambchop",
+      "porkchop",
+      "red",
+      "steak"
+    ]
+  },
+  {
+    "title": "Sandwich",
+    "symbol": "🥪",
+    "keywords": ["sandwich", "bread"]
+  },
+  {
+    "title": "Tamale",
+    "symbol": "🫔",
+    "keywords": ["tamale", "food", "mexican", "pamonha", "wrapped"]
+  },
+  {
+    "title": "Falafel",
+    "symbol": "🧆",
+    "keywords": ["falafel", "chickpea", "meatball"]
+  },
+  {
+    "title": "Fondue",
+    "symbol": "🫕",
+    "keywords": [
+      "fondue",
+      "cheese",
+      "chocolate",
+      "food",
+      "melted",
+      "pot",
+      "ski"
+    ]
+  },
+  {
+    "title": "Bowl With Spoon",
+    "symbol": "🥣",
+    "keywords": [
+      "bowl",
+      "with",
+      "spoon",
+      "breakfast",
+      "cereal",
+      "congee",
+      "oatmeal",
+      "porridge"
+    ]
+  },
+  {
+    "title": "Butter",
+    "symbol": "🧈",
+    "keywords": ["butter", "dairy"]
+  },
+  {
+    "title": "Salt",
+    "symbol": "🧂",
+    "keywords": [
+      "salt",
+      "shaker",
+      "condiment",
+      "flavor",
+      "mad",
+      "salty",
+      "taste",
+      "upset"
+    ]
+  },
+  {
+    "title": "Canned Food",
+    "symbol": "🥫",
+    "keywords": ["canned", "food"]
+  },
+  {
+    "title": "Moon Cake",
+    "symbol": "🥮",
+    "keywords": ["moon", "cake", "autumn", "festival", "yuèbǐng"]
+  },
+  {
+    "title": "Dumpling",
+    "symbol": "🥟",
+    "keywords": [
+      "dumpling",
+      "empanada",
+      "gyōza",
+      "jiaozi",
+      "pierogi",
+      "potsticker"
+    ]
+  },
+  {
+    "title": "Fortune Cookie",
+    "symbol": "🥠",
+    "keywords": ["fortune", "cookie", "prophecy"]
+  },
+  {
+    "title": "Takeout Box",
+    "symbol": "🥡",
+    "keywords": [
+      "takeout",
+      "box",
+      "chopsticks",
+      "delivery",
+      "food",
+      "oyster",
+      "pail"
+    ]
+  },
+  {
+    "title": "Cupcake",
+    "symbol": "🧁",
+    "keywords": [
+      "cupcake",
+      "bakery",
+      "dessert",
+      "sprinkles",
+      "sugar",
+      "sweet",
+      "treat"
+    ]
+  },
+  {
+    "title": "Pie",
+    "symbol": "🥧",
+    "keywords": [
+      "pie",
+      "apple",
+      "filling",
+      "fruit",
+      "meat",
+      "pastry",
+      "pumpkin",
+      "slice"
+    ]
+  },
+  {
+    "title": "Teapot",
+    "symbol": "🫖",
+    "keywords": ["teapot", "brew", "drink", "food", "pot", "tea"]
+  },
+  {
+    "title": "Cup With Straw",
+    "symbol": "🥤",
+    "keywords": [
+      "cup",
+      "with",
+      "straw",
+      "drink",
+      "juice",
+      "malt",
+      "soda",
+      "soft",
+      "water"
+    ]
+  },
+  {
+    "title": "Bubble Tea",
+    "symbol": "🧋",
+    "keywords": ["bubble", "tea", "boba", "food", "milk", "pearl"]
+  },
+  {
+    "title": "Beverage Box",
+    "symbol": "🧃",
+    "keywords": ["beverage", "box", "juice", "straw", "sweet"]
+  },
+  {
+    "title": "Mate Drink",
+    "symbol": "🧉",
+    "keywords": ["mate", "drink"]
+  },
+  {
+    "title": "Ice Cube",
+    "symbol": "🧊",
+    "keywords": ["ice", "cube", "cold", "iceberg"]
+  },
+  {
+    "title": "Chopsticks",
+    "symbol": "🥢",
+    "keywords": ["chopsticks", "hashi", "jeotgarak", "kuaizi"]
+  },
+  {
+    "title": "Firecracker",
+    "symbol": "🧨",
+    "keywords": [
+      "firecracker",
+      "dynamite",
+      "explosive",
+      "fireworks",
+      "light",
+      "popping",
+      "spark"
+    ]
+  },
+  {
+    "title": "Red Envelope",
+    "symbol": "🧧",
+    "keywords": [
+      "red",
+      "gift",
+      "envelope",
+      "good",
+      "hóngbāo",
+      "lai",
+      "luck",
+      "money",
+      "see"
+    ]
+  },
+  {
+    "title": "Softball",
+    "symbol": "🥎",
+    "keywords": ["softball", "ball", "glove", "sports", "underarm"]
+  },
+  {
+    "title": "Flying Disc",
+    "symbol": "🥏",
+    "keywords": ["flying", "disc", "ultimate"]
+  },
+  {
+    "title": "Lacrosse",
+    "symbol": "🥍",
+    "keywords": ["lacrosse", "stick", "ball", "goal", "sports"]
+  },
+  {
+    "title": "Diving Mask",
+    "symbol": "🤿",
+    "keywords": ["diving", "mask", "scuba", "snorkeling"]
+  },
+  {
+    "title": "Sled",
+    "symbol": "🛷",
+    "keywords": ["sled", "luge", "sledge", "sleigh", "snow", "toboggan"]
+  },
+  {
+    "title": "Curling Stone",
+    "symbol": "🥌",
+    "keywords": ["curling", "stone", "game", "rock"]
+  },
+  {
+    "title": "Yo Yo",
+    "symbol": "🪀",
+    "keywords": ["yo-yo", "fluctuate", "toy"]
+  },
+  {
+    "title": "Kite",
+    "symbol": "🪁",
+    "keywords": ["kite", "fly", "soar"]
+  },
+  {
+    "title": "Magic Wand",
+    "symbol": "🪄",
+    "keywords": ["magic", "wand", "magician", "witch", "wizard"]
+  },
+  {
+    "title": "Jigsaw",
+    "symbol": "🧩",
+    "keywords": ["jigsaw", "puzzle", "piece", "clue", "interlocking"]
+  },
+  {
+    "title": "Teddy Bear",
+    "symbol": "🧸",
+    "keywords": ["teddy", "bear", "plaything", "plush", "stuffed", "toy"]
+  },
+  {
+    "title": "Pinata",
+    "symbol": "🪅",
+    "keywords": [
+      "pinata",
+      "candy",
+      "celebrate",
+      "celebration",
+      "cinco",
+      "de",
+      "festive",
+      "mayo",
+      "party",
+      "pinada"
+    ]
+  },
+  {
+    "title": "Nesting Dolls",
+    "symbol": "🪆",
+    "keywords": [
+      "nesting",
+      "dolls",
+      "babooshka",
+      "baboushka",
+      "babushka",
+      "matryoshka",
+      "russia"
+    ]
+  },
+  {
+    "title": "Chess Pawn",
+    "symbol": "♟️",
+    "keywords": ["chess", "pawn"]
+  },
+  {
+    "title": "Thread",
+    "symbol": "🧵",
+    "keywords": ["spool", "of", "thread", "needle", "sewing", "string"]
+  },
+  {
+    "title": "Sewing Needle",
+    "symbol": "🪡",
+    "keywords": [
+      "sewing",
+      "needle",
+      "embroidery",
+      "stitches",
+      "sutures",
+      "tailoring",
+      "thread"
+    ]
+  },
+  {
+    "title": "Yarn",
+    "symbol": "🧶",
+    "keywords": ["ball", "of", "yarn", "crochet", "knit"]
+  },
+  {
+    "title": "Knot",
+    "symbol": "🪢",
+    "keywords": ["knot", "cord", "rope", "tangled", "tie", "twine", "twist"]
+  },
+  {
+    "title": "Goggles",
+    "symbol": "🥽",
+    "keywords": [
+      "goggles",
+      "dive",
+      "eye",
+      "protection",
+      "scuba",
+      "swimming",
+      "welding"
+    ]
+  },
+  {
+    "title": "Lab Coat",
+    "symbol": "🥼",
+    "keywords": [
+      "lab",
+      "coat",
+      "clothes",
+      "doctor",
+      "dr",
+      "experiment",
+      "jacket",
+      "scientist",
+      "white"
+    ]
+  },
+  {
+    "title": "Safety Vest",
+    "symbol": "🦺",
+    "keywords": ["safety", "vest", "emergency"]
+  },
+  {
+    "title": "Scarf",
+    "symbol": "🧣",
+    "keywords": ["scarf", "bundle", "cold", "neck", "up"]
+  },
+  {
+    "title": "Gloves",
+    "symbol": "🧤",
+    "keywords": ["gloves", "hand"]
+  },
+  {
+    "title": "Coat",
+    "symbol": "🧥",
+    "keywords": ["coat", "brr", "bundle", "cold", "jacket", "up"]
+  },
+  {
+    "title": "Socks",
+    "symbol": "🧦",
+    "keywords": ["socks", "stocking"]
+  },
+  {
+    "title": "Sari",
+    "symbol": "🥻",
+    "keywords": ["sari", "clothing", "dress"]
+  },
+  {
+    "title": "One Piece Swimsuit",
+    "symbol": "🩱",
+    "keywords": ["one-piece", "swimsuit", "bathing", "suit"]
+  },
+  {
+    "title": "Briefs",
+    "symbol": "🩲",
+    "keywords": [
+      "briefs",
+      "bathing",
+      "one-piece",
+      "suit",
+      "swimsuit",
+      "underwear"
+    ]
+  },
+  {
+    "title": "Shorts",
+    "symbol": "🩳",
+    "keywords": ["shorts", "bathing", "pants", "suit", "swimsuit", "underwear"]
+  },
+  {
+    "title": "Thong Sandal",
+    "symbol": "🩴",
+    "keywords": [
+      "thong",
+      "sandal",
+      "beach",
+      "flip",
+      "flop",
+      "sandals",
+      "shoe",
+      "thongs",
+      "zōri"
+    ]
+  },
+  {
+    "title": "Hiking Boot",
+    "symbol": "🥾",
+    "keywords": [
+      "hiking",
+      "boot",
+      "backpacking",
+      "brown",
+      "camping",
+      "outdoors",
+      "shoe"
+    ]
+  },
+  {
+    "title": "Womans Flat Shoe",
+    "symbol": "🥿",
+    "keywords": [
+      "flat",
+      "shoe",
+      "ballet",
+      "comfy",
+      "flats",
+      "slip-on",
+      "slipper"
+    ]
+  },
+  {
+    "title": "Ballet Shoes",
+    "symbol": "🩰",
+    "keywords": ["ballet", "shoes", "dance"]
+  },
+  {
+    "title": "Billed Cap",
+    "symbol": "🧢",
+    "keywords": ["billed", "cap", "baseball", "bent", "dad", "hat"]
+  },
+  {
+    "title": "Military Helmet",
+    "symbol": "🪖",
+    "keywords": ["military", "helmet", "army", "soldier", "warrior"]
+  },
+  {
+    "title": "Accordion",
+    "symbol": "🪗",
+    "keywords": [
+      "accordion",
+      "box",
+      "concertina",
+      "instrument",
+      "music",
+      "squeezebox"
+    ]
+  },
+  {
+    "title": "Banjo",
+    "symbol": "🪕",
+    "keywords": ["banjo", "music", "stringed"]
+  },
+  {
+    "title": "Long Drum",
+    "symbol": "🪘",
+    "keywords": ["long", "drum", "beat", "conga", "instrument", "rhythm"]
+  },
+  {
+    "title": "Abacus",
+    "symbol": "🧮",
+    "keywords": ["abacus", "calculation", "calculator"]
+  },
+  {
+    "title": "Diya Lamp",
+    "symbol": "🪔",
+    "keywords": ["diya", "lamp", "light", "oil"]
+  },
+  {
+    "title": "Coin",
+    "symbol": "🪙",
+    "keywords": [
+      "coin",
+      "dollar",
+      "euro",
+      "gold",
+      "metal",
+      "money",
+      "rich",
+      "silver",
+      "treasure"
+    ]
+  },
+  {
+    "title": "Receipt",
+    "symbol": "🧾",
+    "keywords": [
+      "receipt",
+      "accounting",
+      "bookkeeping",
+      "evidence",
+      "invoice",
+      "proof"
+    ]
+  },
+  {
+    "title": "Axe",
+    "symbol": "🪓",
+    "keywords": ["axe", "ax", "chop", "hatchet", "split", "wood"]
+  },
+  {
+    "title": "Boomerang",
+    "symbol": "🪃",
+    "keywords": ["boomerang", "rebound", "repercussion", "weapon"]
+  },
+  {
+    "title": "Carpentry Saw",
+    "symbol": "🪚",
+    "keywords": [
+      "carpentry",
+      "saw",
+      "carpenter",
+      "cut",
+      "lumber",
+      "tool",
+      "trim"
+    ]
+  },
+  {
+    "title": "Screwdriver",
+    "symbol": "🪛",
+    "keywords": ["screwdriver", "flathead", "handy", "screw", "tool"]
+  },
+  {
+    "title": "Probing Cane",
+    "symbol": "🦯",
+    "keywords": ["probing", "cane", "accessibility", "blind", "white"]
+  },
+  {
+    "title": "Hook",
+    "symbol": "🪝",
+    "keywords": [
+      "hook",
+      "catch",
+      "crook",
+      "curve",
+      "ensnare",
+      "point",
+      "selling"
+    ]
+  },
+  {
+    "title": "Toolbox",
+    "symbol": "🧰",
+    "keywords": ["toolbox", "box", "chest", "mechanic", "red", "tool"]
+  },
+  {
+    "title": "Magnet",
+    "symbol": "🧲",
+    "keywords": [
+      "magnet",
+      "attraction",
+      "horseshoe",
+      "magnetic",
+      "negative",
+      "positive",
+      "shape"
+    ]
+  },
+  {
+    "title": "Ladder",
+    "symbol": "🪜",
+    "keywords": ["ladder", "climb", "rung", "step"]
+  },
+  {
+    "title": "Test Tube",
+    "symbol": "🧪",
+    "keywords": ["test", "tube", "chemistry", "experiment", "lab", "science"]
+  },
+  {
+    "title": "Petri Dish",
+    "symbol": "🧫",
+    "keywords": [
+      "petri",
+      "dish",
+      "bacteria",
+      "biologist",
+      "biology",
+      "culture",
+      "lab"
+    ]
+  },
+  {
+    "title": "Dna",
+    "symbol": "🧬",
+    "keywords": [
+      "dna",
+      "double",
+      "helix",
+      "biologist",
+      "evolution",
+      "genetics",
+      "life"
+    ]
+  },
+  {
+    "title": "Drop Of Blood",
+    "symbol": "🩸",
+    "keywords": [
+      "drop",
+      "of",
+      "blood",
+      "bleed",
+      "donation",
+      "injury",
+      "medicine",
+      "menstruation"
+    ]
+  },
+  {
+    "title": "Adhesive Bandage",
+    "symbol": "🩹",
+    "keywords": ["adhesive", "bandage"]
+  },
+  {
+    "title": "Stethoscope",
+    "symbol": "🩺",
+    "keywords": ["stethoscope", "doctor", "heart", "medicine"]
+  },
+  {
+    "title": "Elevator",
+    "symbol": "🛗",
+    "keywords": ["elevator", "accessibility", "hoist", "lift"]
+  },
+  {
+    "title": "Mirror",
+    "symbol": "🪞",
+    "keywords": ["mirror", "makeup", "reflection", "reflector", "speculum"]
+  },
+  {
+    "title": "Window",
+    "symbol": "🪟",
+    "keywords": [
+      "window",
+      "air",
+      "frame",
+      "fresh",
+      "opening",
+      "transparent",
+      "view"
+    ]
+  },
+  {
+    "title": "Chair",
+    "symbol": "🪑",
+    "keywords": ["chair", "seat", "sit"]
+  },
+  {
+    "title": "Plunger",
+    "symbol": "🪠",
+    "keywords": [
+      "plunger",
+      "cup",
+      "force",
+      "plumber",
+      "poop",
+      "suction",
+      "toilet"
+    ]
+  },
+  {
+    "title": "Mouse Trap",
+    "symbol": "🪤",
+    "keywords": [
+      "mouse",
+      "trap",
+      "bait",
+      "cheese",
+      "lure",
+      "mousetrap",
+      "snare"
+    ]
+  },
+  {
+    "title": "Razor",
+    "symbol": "🪒",
+    "keywords": ["razor", "sharp", "shave"]
+  },
+  {
+    "title": "Lotion Bottle",
+    "symbol": "🧴",
+    "keywords": ["lotion", "bottle", "moisturizer", "shampoo", "sunscreen"]
+  },
+  {
+    "title": "Safety Pin",
+    "symbol": "🧷",
+    "keywords": ["safety", "pin", "diaper", "punk", "rock"]
+  },
+  {
+    "title": "Broom",
+    "symbol": "🧹",
+    "keywords": ["broom", "cleaning", "sweeping", "witch"]
+  },
+  {
+    "title": "Basket",
+    "symbol": "🧺",
+    "keywords": ["basket", "farming", "laundry", "picnic"]
+  },
+  {
+    "title": "Roll Of Paper",
+    "symbol": "🧻",
+    "keywords": ["roll", "of", "paper", "toilet", "towels"]
+  },
+  {
+    "title": "Bucket",
+    "symbol": "🪣",
+    "keywords": ["bucket", "cask", "pail", "vat"]
+  },
+  {
+    "title": "Soap",
+    "symbol": "🧼",
+    "keywords": [
+      "bar",
+      "of",
+      "soap",
+      "bathing",
+      "cleaning",
+      "lather",
+      "soapdish"
+    ]
+  },
+  {
+    "title": "Toothbrush",
+    "symbol": "🪥",
+    "keywords": [
+      "toothbrush",
+      "bathroom",
+      "brush",
+      "clean",
+      "dental",
+      "hygiene",
+      "teeth",
+      "toiletry"
+    ]
+  },
+  {
+    "title": "Sponge",
+    "symbol": "🧽",
+    "keywords": ["sponge", "absorbing", "cleaning", "porous", "soak"]
+  },
+  {
+    "title": "Fire Extinguisher",
+    "symbol": "🧯",
+    "keywords": ["fire", "extinguisher", "quench"]
+  },
+  {
+    "title": "Headstone",
+    "symbol": "🪦",
+    "keywords": [
+      "headstone",
+      "cemetery",
+      "dead",
+      "graveyard",
+      "memorial",
+      "rip",
+      "tombstone"
+    ]
+  },
+  {
+    "title": "Nazar Amulet",
+    "symbol": "🧿",
+    "keywords": [
+      "nazar",
+      "amulet",
+      "bead",
+      "blue",
+      "charm",
+      "evil-eye",
+      "talisman"
+    ]
+  },
+  {
+    "title": "Placard",
+    "symbol": "🪧",
+    "keywords": [
+      "placard",
+      "card",
+      "demonstration",
+      "notice",
+      "picket",
+      "plaque",
+      "protest",
+      "sign"
+    ]
+  },
+  {
+    "title": "Compass",
+    "symbol": "🧭",
+    "keywords": [
+      "compass",
+      "direction",
+      "magnetic",
+      "navigation",
+      "orienteering"
+    ]
+  },
+  {
+    "title": "Bricks",
+    "symbol": "🧱",
+    "keywords": ["brick", "bricks", "clay", "mortar", "wall"]
+  },
+  {
+    "title": "Rock",
+    "symbol": "🪨",
+    "keywords": ["rock", "boulder", "heavy", "solid", "stone", "tough"]
+  },
+  {
+    "title": "Wood",
+    "symbol": "🪵",
+    "keywords": ["wood", "log", "lumber", "timber"]
+  },
+  {
+    "title": "Hut",
+    "symbol": "🛖",
+    "keywords": ["hut", "home", "house", "roundhouse", "shelter", "yurt"]
+  },
+  {
+    "title": "Hindu Temple",
+    "symbol": "🛕",
+    "keywords": ["hindu", "temple"]
+  },
+  {
+    "title": "Pickup Truck",
+    "symbol": "🛻",
+    "keywords": [
+      "pickup",
+      "truck",
+      "automobile",
+      "car",
+      "flatbed",
+      "pick-up",
+      "transportation"
+    ]
+  },
+  {
+    "title": "Manual Wheelchair",
+    "symbol": "🦽",
+    "keywords": ["manual", "wheelchair", "accessibility"]
+  },
+  {
+    "title": "Motorized Wheelchair",
+    "symbol": "🦼",
+    "keywords": ["motorized", "wheelchair", "accessibility"]
+  },
+  {
+    "title": "Auto Rickshaw",
+    "symbol": "🛺",
+    "keywords": ["auto", "rickshaw", "tuk"]
+  },
+  {
+    "title": "Skateboard",
+    "symbol": "🛹",
+    "keywords": ["skateboard", "board", "skater", "wheels"]
+  },
+  {
+    "title": "Roller Skate",
+    "symbol": "🛼",
+    "keywords": ["roller", "skate", "blades", "skates", "sport"]
+  },
+  {
+    "title": "Parachute",
+    "symbol": "🪂",
+    "keywords": ["parachute", "hang-glide", "parasail", "skydive"]
+  },
+  {
+    "title": "Flying Saucer",
+    "symbol": "🛸",
+    "keywords": ["flying", "saucer", "aliens", "extra", "terrestrial", "ufo"]
+  },
+  {
+    "title": "Luggage",
+    "symbol": "🧳",
+    "keywords": ["luggage", "bag", "packing", "roller", "suitcase", "travel"]
+  },
+  {
+    "title": "Ringed Planet",
+    "symbol": "🪐",
+    "keywords": ["ringed", "planet", "saturnine"]
+  },
+  {
     "title": "Zzz",
     "symbol": "💤",
     "keywords": ["sleeping", "symbol", "tired", "goodnight"]
